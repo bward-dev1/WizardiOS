@@ -33,24 +33,19 @@ jobs:
           git lfs pull
           git submodule foreach --recursive 'git lfs pull || true'
 
-      - name: Select Xcode 16
+      - name: Select newest Xcode (needs Swift 6.1+ for trailing-comma manifests)
         run: |
-          ls /Applications | grep -i xcode || true
-          sudo xcode-select -s /Applications/Xcode_16.app || sudo xcode-select -s /Applications/Xcode.app
+          echo "Available Xcodes:"; ls -d /Applications/Xcode*.app 2>/dev/null || true
+          LATEST=$(ls -d /Applications/Xcode_16*.app 2>/dev/null | sort -V | tail -1)
+          [ -n "$LATEST" ] || LATEST=$(ls -d /Applications/Xcode*.app 2>/dev/null | sort -V | tail -1)
+          echo "Selecting $LATEST"
+          sudo xcode-select -s "$LATEST/Contents/Developer"
           xcodebuild -version
           swift --version
 
       - name: Show schemes
         working-directory: ManicEmu
         run: xcodebuild -list -project ManicEmu.xcodeproj || true
-
-      - name: Resolve Swift packages
-        working-directory: ManicEmu
-        run: |
-          xcodebuild -resolvePackageDependencies \
-            -project ManicEmu.xcodeproj \
-            -scheme ManicEmuRelease \
-            -clonedSourcePackagesDirPath ../.spm || true
 
       - name: Build (unsigned, device)
         working-directory: ManicEmu
