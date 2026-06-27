@@ -35,10 +35,15 @@ engines Manic ships:
 
 ## What WizardiOS changes vs. Manic
 
-- 🧙 **New identity** — WizardiOS name, original wizard app icon, purple theme.
+- 🧙 **New identity** — WizardiOS name (home-screen + bundle id `com.wizardios.app`),
+  original wizard app icon, and a wizard-purple accent applied app-wide (Manic shipped red).
+- 🎨 **On-brand themes** — purple is the default theme, plus two new presets,
+  **Mystic** and **Arcane**, in Settings → Theme.
 - 🛠️ **Open CI builds** — every push builds an **unsigned `.ipa`** on GitHub's
-  macOS runners (see below). No need to own a Mac with Xcode to get an installable build.
-- _(in progress)_ feature/UX improvements over Manic — tracked in the issues.
+  macOS runners (Xcode 26.4.1, real RetroArch + all cores). No Mac/Xcode needed to
+  get an installable build — just download the artifact and sideload.
+- _(ongoing)_ further feature/UX work over Manic, best iterated with the app
+  installed on-device.
 
 ## Getting an installable build
 
