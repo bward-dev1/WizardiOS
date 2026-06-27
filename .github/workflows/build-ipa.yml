@@ -1,0 +1,109 @@
+name: Build WizardiOS IPA
+
+# Builds an UNSIGNED .ipa on GitHub's macOS runners (full Xcode 16).
+# The app compiles RetroArch (Libretro.framework) from the submodule, links the
+# 35 prebuilt libretro core frameworks (Git LFS), and resolves ~55 SPM packages.
+# Download the artifact and sign/sideload with AltStore or SideStore.
+
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['README.md', 'docs/**']
+  workflow_dispatch:
+
+concurrency:
+  group: build-ipa-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: macos-15
+    timeout-minutes: 120
+    steps:
+      - name: Checkout (with submodules + LFS)
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          lfs: true
+          fetch-depth: 1
+
+      - name: Ensure LFS objects (super + submodules)
+        run: |
+          git lfs install
+          git lfs pull
+          git submodule foreach --recursive 'git lfs pull || true'
+
+      - name: Select Xcode 16
+        run: |
+          ls /Applications | grep -i xcode || true
+          sudo xcode-select -s /Applications/Xcode_16.app || sudo xcode-select -s /Applications/Xcode.app
+          xcodebuild -version
+          swift --version
+
+      - name: Show schemes
+        working-directory: ManicEmu
+        run: xcodebuild -list -project ManicEmu.xcodeproj || true
+
+      - name: Resolve Swift packages
+        working-directory: ManicEmu
+        run: |
+          xcodebuild -resolvePackageDependencies \
+            -project ManicEmu.xcodeproj \
+            -scheme ManicEmuRelease \
+            -clonedSourcePackagesDirPath ../.spm || true
+
+      - name: Build (unsigned, device)
+        working-directory: ManicEmu
+        run: |
+          set -o pipefail
+          xcodebuild \
+            -project ManicEmu.xcodeproj \
+            -scheme ManicEmuRelease \
+            -configuration SideloadRelease \
+            -sdk iphoneos \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath build \
+            -clonedSourcePackagesDirPath ../.spm \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            CODE_SIGN_ENTITLEMENTS="" \
+            DEVELOPMENT_TEAM="" \
+            ONLY_ACTIVE_ARCH=NO \
+            build 2>&1 | tee build.log
+          rc=$?
+          if [ $rc -ne 0 ]; then
+            echo "=== build failed; last 120 log lines ==="
+            tail -120 build.log
+            echo "=== grep for 'error:' ==="
+            grep -n "error:" build.log | tail -40 || true
+          fi
+          exit $rc
+
+      - name: Package .ipa
+        if: success()
+        working-directory: ManicEmu
+        run: |
+          APP=$(find build/Build/Products -maxdepth 2 -name '*.app' | head -1)
+          echo "App bundle: $APP"
+          [ -n "$APP" ] || { echo "No .app produced"; exit 1; }
+          mkdir -p Payload
+          cp -R "$APP" Payload/
+          zip -qry WizardiOS-unsigned.ipa Payload
+          ls -lh WizardiOS-unsigned.ipa
+
+      - name: Upload IPA
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: WizardiOS-unsigned-ipa
+          path: ManicEmu/WizardiOS-unsigned.ipa
+          if-no-files-found: error
+
+      - name: Upload build log (always)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-log
+          path: ManicEmu/build.log
+          if-no-files-found: ignore
