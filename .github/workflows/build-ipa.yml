@@ -69,7 +69,6 @@ jobs:
             -project ManicEmu.xcodeproj \
             -scheme ManicEmuRelease \
             -configuration SideloadRelease \
-            -sdk iphoneos \
             -destination 'generic/platform=iOS' \
             -derivedDataPath build \
             -clonedSourcePackagesDirPath ../.spm \
