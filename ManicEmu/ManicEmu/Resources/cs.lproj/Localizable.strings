@@ -79,7 +79,7 @@
 "ImportServiceListPasteDetail" = "Podporuje soubory zkopírované z macOS nebo aplikace Soubory";
 "ImportHowTo" = "Jak importovat";
 "ImportTopHintTitle" = "Příběh plný snů a dobrodružství začíná právě zde!";
-"ImportDragAndDropTips" = "Přetáhněte soubory kamkoli do Manic EMU pro přenos";
+"ImportDragAndDropTips" = "Přetáhněte soubory kamkoli do WizardiOS pro přenos";
 "ImportChannelTips" = "Máte dotazy? Připojte se k %@ pro pomoc";
 "ToastConnectCloudDriveSuccess" = "Úspěšné připojení k %@";
 "AlertImportFilesSuccess" = "Úspěšný import zdrojů";
@@ -110,7 +110,7 @@
 "TimeDurationHourFormat" = "%d hodin";
 "TimeDurationMinuteFormat" = "%d minut";
 "FatalErrorTitle" = "Závažná chyba";
-"FatalErrorDesc" = "Chyba načítání systémových zdrojů – Manic EMU může mít omezenou funkčnost";
+"FatalErrorDesc" = "Chyba načítání systémových zdrojů – WizardiOS může mít omezenou funkčnost";
 "LodingFailedTitle" = "Chyba načítání";
 "AirPlayDesc" = "Začněte své dobrodružství hned teď!";
 "ToastSuccess" = "Úspěšně uloženo";
@@ -169,7 +169,7 @@
 "GameSaveTitle" = "Uložení %d";
 
 //Skin
-"SkinNavigationSubTitleCommon" = "Manic EMU plně podporuje skiny ve formátu .deltaskin .gammaskin";
+"SkinNavigationSubTitleCommon" = "WizardiOS plně podporuje skiny ve formátu .deltaskin .gammaskin";
 "SkinNavigationSubTitleSpecifiedGame" = "Skin pouze pro %@";
 "SkinSegmentPortraitTitle" = "Na výšku";
 "SkinSegmentLandscapeTitle" = "Na šířku";
@@ -198,7 +198,7 @@
 "WidgetTitle" = "Widgety";
 "QATitle" = "Časté dotazy";
 "FeedbackTitle" = "Zpětná vazba";
-"ShareAppTitle" = "Sdílet Manic EMU";
+"ShareAppTitle" = "Sdílet WizardiOS";
 "JoinQQTitle" = "Připojit se na QQ";
 "JoinTelegramTitle" = "Připojit se na Telegram";
 "ClearCacheTitle" = "Vymazat cache";
@@ -213,7 +213,7 @@
 "RatingTitleRight" = "";
 "RatingDetail" = "Pokud se vám aplikace líbí, podpořte nás 5hvězdičkovým hodnocením";
 "iCloudDisableTitle" = "iCloud není dostupný";
-"iCloudDisableDetail" = "Přihlaste se do iCloud a povolte přístup pro Manic EMU v Nastavení > Apple ID > iCloud";
+"iCloudDisableDetail" = "Přihlaste se do iCloud a povolte přístup pro WizardiOS v Nastavení > Apple ID > iCloud";
 "iCloudSyncConfilictTitle" = "Konflikt synchronizace";
 "iCloudSyncConfilictDetail" = "Cloudová verze:\n%@\n\nLokální verze:\n%@";
 "iCloudSyncConfilictSaveiCloud" = "Ponechat cloud";
@@ -366,7 +366,7 @@
 "Hi" = "Ahoj,";
 
 //Permission
-"PrePermissionPhotoTitle" = "Povolit Manic EMU přístup k albu?";
+"PrePermissionPhotoTitle" = "Povolit WizardiOS přístup k albu?";
 "PrePermissionPhotoMessage" = "Pro ukládání screenshotů a výběr obalů";
 "PrePermissionPhotoCancel" = "Teď ne";
 "PrePermissionPhotoConfirm" = "Povolit";
@@ -374,7 +374,7 @@
 "DeniedPermissionPhotoMessage" = "Pro ukládání screenshotů povolte přístup";
 "DeniedPermissionPhotoCancel" = "Zamítnout";
 "DeniedPermissionPhotoConfirm" = "Povolit v Nastavení";
-"PrePermissionCameraTitle" = "Povolit Manic EMU přístup k fotoaparátu?";
+"PrePermissionCameraTitle" = "Povolit WizardiOS přístup k fotoaparátu?";
 "PrePermissionCameraMessage" = "Pro pořizování herních obalů";
 "PrePermissionCameraCancel" = "Teď ne";
 "PrePermissionCameraConfirm" = "Povolit";
@@ -402,7 +402,7 @@
 "ThreeDSNotSupportImportSave" = "3DS hry momentálně nepodporují import uložení";
 "ThreeDSNotSupportShareSave" = "3DS hry momentálně nepodporují sdílení uložení";
 "ThreeDSBetaAlertTitle" = "Experimentální verze 3DS";
-"ThreeDSBetaAlertDetail" = "Abychom vám umožnili dříve vyzkoušet hry 3DS, vydal Manic EMU tuto funkci v experimentální fázi. Některá vylepšení jsou stále potřeba.
+"ThreeDSBetaAlertDetail" = "Abychom vám umožnili dříve vyzkoušet hry 3DS, vydal WizardiOS tuto funkci v experimentální fázi. Některá vylepšení jsou stále potřeba.
 
 Dočasně nedostupné funkce:
 ❌ Režim celé obrazovky AirPlay
@@ -520,12 +520,12 @@ Stiskněte tlačítko ovladače...";
 "SwitchEmulationCoreDetail" = "Přepnout emulační jádro pro %@\nPřepnutí jádra znepřístupní uložené pozice z předchozího jádra. Pro přístup se vraťte k původnímu jádru";
 "BeetleSaturnNoSupportCheat" = "Jádro Beetle Saturn aktuálně nepodporuje cheaty. V případě potřeby přepněte na jádro Yabause";
 "CurrentTitle" = "aktuální";
-"NewSkinDesc" = "Manic EMU podporuje skiny ve formátech .manicskin a .deltaskin .gammaskin. Poznámka: Importovaný skin musí odpovídat aktuální platformě, jinak se v seznamu nezobrazí.\nPoskytujeme také přístup ke komunitám třetích stran pro skiny. Ty nejsou oficiálně spojeny s Manic EMU. Při stahování dodržujte podmínky služeb jednotlivých webů";
+"NewSkinDesc" = "WizardiOS podporuje skiny ve formátech .manicskin a .deltaskin .gammaskin. Poznámka: Importovaný skin musí odpovídat aktuální platformě, jinak se v seznamu nezobrazí.\nPoskytujeme také přístup ke komunitám třetích stran pro skiny. Ty nejsou oficiálně spojeny s WizardiOS. Při stahování dodržujte podmínky služeb jednotlivých webů";
 "VisitSite" = "Navštívit %@";
 "OpenFile" = "Otevřít Soubor";
 "WebViewDownloadBegin" = "Stahování zahájeno";
 "RespectSilentMode" = "Respektovat Tichý Režim";
-"RespectSilentModeDesc" = "Při aktivaci bude Manic EMU přehrávat audio pouze mimo tichý režim";
+"RespectSilentModeDesc" = "Při aktivaci bude WizardiOS přehrávat audio pouze mimo tichý režim";
 "SaturnISONoSwitchCore" = "Hry Sega Saturn ve formátu .iso nepodporují přepínání jader";
 "EnableFullScreenTitle" = "Povolit Celou Obrazovku";
 "DisableFullScreenTitle" = "Zakázat Celou Obrazovku";
@@ -651,8 +651,8 @@ Stiskněte tlačítko ovladače...";
 "Ascending" = "Vzestupně";
 "Descending" = "Sestupně";
 "JumpTips" = "Otevírání stránky třetí strany";
-"ThirdPartGameInfoTips" = "Informace o hře provided by third parties. Použijte vlastní úsudek. Pokud Manic EMU nenajde hru, použijte manuální vyhledávání.";
-"NotSupportHardcore" = "Hardcore režim je pro tuto hru zakázán. Možná Manic EMU není autorizován RetroAchievements, nebo hra tento režim nepodporuje.";
+"ThirdPartGameInfoTips" = "Informace o hře provided by third parties. Použijte vlastní úsudek. Pokud WizardiOS nenajde hru, použijte manuální vyhledávání.";
+"NotSupportHardcore" = "Hardcore režim je pro tuto hru zakázán. Možná WizardiOS není autorizován RetroAchievements, nebo hra tento režim nepodporuje.";
 "ChooseOne" = "Vyberte jednu";
 "FilesImporterErrorBadCue" = "Import %@ selhal. Soubor may be invalid or not UTF-8 encoded. Zkontrolujte formát.";
 "Leaderboard" = "Žebříček";
@@ -669,7 +669,7 @@ Stiskněte tlačítko ovladače...";
 "AlwaysShowProgressDesc" = "Udržujte pokrok úspěchů viditelný na obrazovce.";
 "Progress" = "Pokrok";
 
-"DCGameNoSupportGameSave" = "Dreamcast nepodporuje import/export uložených her. K úpravě paměťových souborů ve složce Manic EMU-Flycast-dc použijte VMU Explorer.";
+"DCGameNoSupportGameSave" = "Dreamcast nepodporuje import/export uložených her. K úpravě paměťových souborů ve složce WizardiOS-Flycast-dc použijte VMU Explorer.";
 
 "Challenge" = "Výzva";
 "GameTypeLicensingError" = "Omlouváme se! Kvůli licenčním omezením jádra %@ není tato platforma dočasně dostupná. Můžete počkat na budoucí aktualizaci nebo použít sideload verzi.";
@@ -715,7 +715,7 @@ Stiskněte tlačítko ovladače...";
 "GameListBackgroundUpload" = "Nahrát";
 "GameplayManuals" = "Herní manuály";
 "GameplayManualsNoExists" = "Pro tuto hru není k dispozici manuál.";
-"GameplayManualsDesc" = "Chcete-li přidat manuál, umístěte svůj soubor PDF do aplikace Manic EMU. Chcete-li jej odstranit, přejděte do Soubory > Manic EMU > Manuály a soubor smažte.";
+"GameplayManualsDesc" = "Chcete-li přidat manuál, umístěte svůj soubor PDF do aplikace WizardiOS. Chcete-li jej odstranit, přejděte do Soubory > WizardiOS > Manuály a soubor smažte.";
 "CleanUnsupportSkins" = "Vyčistit nepodporované skiny";
 "NotFoundUnsupportSkins" = "Nebyly nalezeny žádné nepodporované skiny.";
 "UnsupportSkinsDesc" = "Následující skiny nejsou na tomto zařízení podporovány:\n%@Poznámka: Odstranění také smaže tyto skiny z ostatních zařízení synchronizovaných přes iCloud.";
@@ -799,7 +799,7 @@ Stiskněte tlačítko ovladače...";
 "Shaders" = "Shadery";
 "DownloadRetroArchShaders" = "Chcete stáhnout shadery z RetroArch? Po dokončení se kategorie shaderů RetroArch automaticky obnoví. Tento proces můžete kdykoli zrušit ve správci stahování.";
 "RetroArchShaderUnzipFailed" = "Nelze rozbalit %@. Soubor mohl být poškozen během stahování. Zkuste to prosím znovu.";
-"ImportShader" = "Umístěte soubory shaderů do složky ‘Manic EMU-Shaders’ a poté znovu otevřete tuto stránku, abyste shadery obnovili a načetli.";
+"ImportShader" = "Umístěte soubory shaderů do složky ‘WizardiOS-Shaders’ a poté znovu otevřete tuto stránku, abyste shadery obnovili a načetli.";
 "CustomShaderDesc" = "Vytvářejte vlastní shadery úpravou stávajících.";
 "AppendShadersTitle" = "Přidat shadery";
 "AppendShadersDetail" = "Přidat shadery na začátek nebo konec aktuálního zásobníku";
@@ -879,7 +879,7 @@ Pokud chcete vylepšit své nastavení, PlayCase je perfektním doplňkem tohoto
 "Width" = "Šířka";
 "Height" = "Výška";
 "ScreenSize" = "Velikost obrazovky";
-"J2MESettingsTips" = "Kvůli rozdílům ve standardech JAR nemusí Manic EMU vždy detekovat správné rozlišení nebo orientaci obrazovky. Pro nejlepší výsledky zobrazení je můžete nakonfigurovat ručně.";
+"J2MESettingsTips" = "Kvůli rozdílům ve standardech JAR nemusí WizardiOS vždy detekovat správné rozlišení nebo orientaci obrazovky. Pro nejlepší výsledky zobrazení je můžete nakonfigurovat ručně.";
 "J2MEScreenChange" = "Nastavení obrazovky J2ME bylo uloženo. Pro okamžité použití změn je nutné hru resetovat. Neuložený postup může být ztracen. Resetovat nyní?";
 "Later" = "Později";
 "ResetImmediately" = "Resetovat nyní";
@@ -889,22 +889,22 @@ Pokud chcete vylepšit své nastavení, PlayCase je perfektním doplňkem tohoto
 "ConfigsResetCore" = "Resetovat na výchozí nastavení jádra";
 "ConfigsResetBefore" = "Vrátit se k předchozímu nastavení";
 "InsertDisc" = "Vložit disk";
-"InsertDiscAlert" = "Disk můžete vložit výběrem jiné hry ze stejné platformy ve své knihovně nebo výběrem souboru disku ze Souborů. Kvůli omezením souborového systému iOS budou soubory disků vybrané ze Souborů zkopírovány do mezipaměti Manic EMU.";
+"InsertDiscAlert" = "Disk můžete vložit výběrem jiné hry ze stejné platformy ve své knihovně nebo výběrem souboru disku ze Souborů. Kvůli omezením souborového systému iOS budou soubory disků vybrané ze Souborů zkopírovány do mezipaměti WizardiOS.";
 "InsertDiscFailed" = "Vložení disku se nezdařilo";
 "GenerateHomeMenu" = "Vytvořit domovskou nabídku";
 "SkinSoundEffects" = "Zvukové efekty skinu";
 "FirstAnniversary" = "DĚKUJEME, ŽE JSTE TADY,\nNAPSALI JSME VÁM NĚCO";
-"ApirlFoolsDayTitle" = "Jejda, je Manic EMU rozbitý?";
+"ApirlFoolsDayTitle" = "Jejda, je WizardiOS rozbitý?";
 "ApirlFoolsDayDetail" = "Nebojte se!\nJenom žert—Šťastného apríla!\n\nJakmile to zavřete, vše se vrátí do normálu.";
 "JITType" = "Typ JIT";
 "JITTypeDesc" = "Standardní JIT nabízí nejlepší výkon, zatímco IR JIT poskytuje mírný výkon.";
 "Pretendo" = "Síť Pretendo";
 "BadIpAddress" = "Neplatná IP adresa. Zkuste to znovu.";
 "ArticBaseSettings" = "Nastavení Artic Base";
-"ArticBaseDesc" = "Artic Base, vyvinutý týmem Azahar, umožňuje přenos dat jedinečných pro skutečné zařízení 3DS do Manic EMU. Tato data jsou potřebná k povolení síťových funkcí.\n\nPro dokončení přenosu postupujte podle následujících kroků:\n1. Nainstalujte %@ na svůj 3DS a spusťte službu.\n2. Ujistěte se, že Manic EMU a váš 3DS jsou připojeny ke stejné síti.\n3. Zadejte IP adresu zobrazenou na obrazovce vašeho 3DS níže.\n4. Klepněte na „Zahájit přenos“ a dokončete aktualizaci systému.\n\nPo dokončení těchto kroků se v knihovně objeví položka Domovské nabídky.";
-"ArticBaseHeadsUp" = "Import dat ze skutečného zařízení přepíše stávající data 3DS v Manic EMU a může způsobit neočekávané problémy. Pokud máte důležitá uložená data, doporučujeme před pokračováním zálohovat adresář Manic EMU - 3DS.";
+"ArticBaseDesc" = "Artic Base, vyvinutý týmem Azahar, umožňuje přenos dat jedinečných pro skutečné zařízení 3DS do WizardiOS. Tato data jsou potřebná k povolení síťových funkcí.\n\nPro dokončení přenosu postupujte podle následujících kroků:\n1. Nainstalujte %@ na svůj 3DS a spusťte službu.\n2. Ujistěte se, že WizardiOS a váš 3DS jsou připojeny ke stejné síti.\n3. Zadejte IP adresu zobrazenou na obrazovce vašeho 3DS níže.\n4. Klepněte na „Zahájit přenos“ a dokončete aktualizaci systému.\n\nPo dokončení těchto kroků se v knihovně objeví položka Domovské nabídky.";
+"ArticBaseHeadsUp" = "Import dat ze skutečného zařízení přepíše stávající data 3DS v WizardiOS a může způsobit neočekávané problémy. Pokud máte důležitá uložená data, doporučujeme před pokračováním zálohovat adresář WizardiOS - 3DS.";
 "StartTransfer" = "Zahájit přenos";
-"PretendoNimbusDesc" = "Pretendo je bezplatná open-source náhrada za online služby Nintendo 3DS, která umožňuje pokračovat v online hraní i po vypnutí oficiálních serverů.\n\nPomocí nástroje Nimbus můžete snadno přepnout svou síť na Pretendo. Až bude k dispozici, klepněte na „Nainstalovat Nimbus“ a Manic EMU jej automaticky nainstaluje do Domovské nabídky.";
+"PretendoNimbusDesc" = "Pretendo je bezplatná open-source náhrada za online služby Nintendo 3DS, která umožňuje pokračovat v online hraní i po vypnutí oficiálních serverů.\n\nPomocí nástroje Nimbus můžete snadno přepnout svou síť na Pretendo. Až bude k dispozici, klepněte na „Nainstalovat Nimbus“ a WizardiOS jej automaticky nainstaluje do Domovské nabídky.";
 "InstallNimbus" = "Nainstalovat Nimbus";
 "InstallNimbusSuccess" = "Nimbus byl úspěšně nainstalován!";
 "HomeMenuDesc" = "Pomocí tlačítka níže otevřete Domovskou nabídku. Poté přejděte do Nastavení Nimbus, přepněte na síť Pretendo, otevřete Nastavení a vyberte „ID sítě Nintendo“ a přihlaste se svým účtem Pretendo.\n\nPoté všechny hry spuštěné z Domovské nabídky nebo běžící s jádrem Azahar budou používat síť Pretendo.\n\nPokud položka Domovské nabídky chybí, tato funkce se ji pokusí automaticky znovu vytvořit.";
@@ -928,7 +928,7 @@ Pokud chcete vylepšit své nastavení, PlayCase je perfektním doplňkem tohoto
 "ThemeManufacturerOrderTitle" = "Pořadí výrobců";
 "ArticBaseHomeMenuFailed" = "Zdá se, že aktualizace systému nebyla úspěšně dokončena. Položku Domovské nabídky se nepodařilo vytvořit. Zkuste přenos dat znovu.";
 "ArticBaseHomeMenuSuccess" = "Položka Domovské nabídky byla úspěšně vytvořena. Můžete pokračovat dalšími kroky.";
-"NandImportHeadsUp" = "Pokud se pokoušíte přenést data ze skutečného zařízení 3DS do Manic EMU, doporučujeme použít funkci Artic Base.";
+"NandImportHeadsUp" = "Pokud se pokoušíte přenést data ze skutečného zařízení 3DS do WizardiOS, doporučujeme použít funkci Artic Base.";
 "ContineFilesImport" = "Pokračovat v importu";
 "OpenPage" = "Otevřít %@";
 "MappingKeyboardInput" = "Mapování vstupu z klávesnice";

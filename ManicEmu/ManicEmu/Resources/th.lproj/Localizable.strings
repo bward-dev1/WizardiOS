@@ -80,7 +80,7 @@
 "ImportServiceListPasteDetail" = "รองรับการคัดลอกไฟล์จาก macOS และแอปไฟล์";
 "ImportHowTo" = "วิธีการนำเข้า";
 "ImportTopHintTitle" = "เรื่องราวแห่งความฝันและการผจญภัยกำลังเริ่มต้นที่นี่!";
-"ImportDragAndDropTips" = "ลากและวางไฟล์ลงบนอินเทอร์เฟซใดๆ ของ Manic EMU เพื่อถ่ายโอน";
+"ImportDragAndDropTips" = "ลากและวางไฟล์ลงบนอินเทอร์เฟซใดๆ ของ WizardiOS เพื่อถ่ายโอน";
 "ImportChannelTips" = "หากมีคำถาม เข้าร่วม %@ เพื่อรับความช่วยเหลือ";
 "ToastConnectCloudDriveSuccess" = "เชื่อมต่อ %@ สำเร็จ";
 "AlertImportFilesSuccess" = "นำเข้าไฟล์สำเร็จ";
@@ -111,7 +111,7 @@
 "TimeDurationHourFormat" = "%d ชั่วโมง";
 "TimeDurationMinuteFormat" = "%d นาที";
 "FatalErrorTitle" = "ข้อผิดพลาดร้ายแรง";
-"FatalErrorDesc" = "การโหลดทรัพยากรระบบล้มเหลว อาจเกิดข้อบกพร่องร้ายแรงขณะใช้งาน Manic EMU";
+"FatalErrorDesc" = "การโหลดทรัพยากรระบบล้มเหลว อาจเกิดข้อบกพร่องร้ายแรงขณะใช้งาน WizardiOS";
 "LodingFailedTitle" = "โหลดล้มเหลว";
 "AirPlayDesc" = "เริ่มการผจญภัยของคุณเดี๋ยวนี้!";
 "ToastSuccess" = "บันทึกสำเร็จ";
@@ -170,7 +170,7 @@
 "GameSaveTitle" = "เซฟที่ %d";
 
 //Skin
-"SkinNavigationSubTitleCommon" = "Manic EMU รองรับสกินรูปแบบ .deltaskin .gammaskin อย่างสมบูรณ์";
+"SkinNavigationSubTitleCommon" = "WizardiOS รองรับสกินรูปแบบ .deltaskin .gammaskin อย่างสมบูรณ์";
 "SkinNavigationSubTitleSpecifiedGame" = "ตั้งค่าสกินสำหรับ %@ เท่านั้น";
 "SkinSegmentPortraitTitle" = "แนวตั้ง";
 "SkinSegmentLandscapeTitle" = "แนวนอน";
@@ -199,7 +199,7 @@
 "WidgetTitle" = "วิดเจ็ต";
 "QATitle" = "คำถามที่พบบ่อย";
 "FeedbackTitle" = "ส่งความคิดเห็น";
-"ShareAppTitle" = "แชร์「Manic EMU」ให้เพื่อน";
+"ShareAppTitle" = "แชร์「WizardiOS」ให้เพื่อน";
 "JoinQQTitle" = "เข้าร่วมช่อง QQ";
 "JoinTelegramTitle" = "เข้าร่วม Telegram";
 "ClearCacheTitle" = "ล้างแคช";
@@ -360,23 +360,23 @@
 "Hi" = "สวัสดี";
 
 //Permission
-"PrePermissionPhotoTitle" = "อนุญาตให้ Manic EMU เข้าถึงอัลบั้มของคุณหรือไม่?";
+"PrePermissionPhotoTitle" = "อนุญาตให้ WizardiOS เข้าถึงอัลบั้มของคุณหรือไม่?";
 "PrePermissionPhotoMessage" = "อนุญาตการเข้าถึงเพื่อบันทึกภาพหน้าจอเกมและเลือกรูปภาพเป็นหน้าปก";
 "PrePermissionPhotoCancel" = "ไม่ใช่ตอนนี้";
 "PrePermissionPhotoConfirm" = "อนุญาต";
-"DeniedPermissionPhotoTitle" = "Manic EMU ไม่สามารถเข้าถึงอัลบั้มของคุณ!";
+"DeniedPermissionPhotoTitle" = "WizardiOS ไม่สามารถเข้าถึงอัลบั้มของคุณ!";
 "DeniedPermissionPhotoMessage" = "จำเป็นต้องอนุญาตการเข้าถึงเพื่อบันทึกภาพหน้าจอเกม";
 "DeniedPermissionPhotoCancel" = "ไม่";
 "DeniedPermissionPhotoConfirm" = "ไปตั้งค่า";
-"PrePermissionCameraTitle" = "อนุญาตให้ Manic EMU เข้าถึงกล้องของคุณหรือไม่?";
+"PrePermissionCameraTitle" = "อนุญาตให้ WizardiOS เข้าถึงกล้องของคุณหรือไม่?";
 "PrePermissionCameraMessage" = "อนุญาตการเข้าถึงเพื่อถ่ายภาพหน้าปกเกม";
 "PrePermissionCameraCancel" = "ไม่ใช่ตอนนี้";
 "PrePermissionCameraConfirm" = "อนุญาต";
-"DeniedPermissionCameraTitle" = "Manic EMU ไม่สามารถเข้าถึงกล้องของคุณ!";
+"DeniedPermissionCameraTitle" = "WizardiOS ไม่สามารถเข้าถึงกล้องของคุณ!";
 "DeniedPermissionCameraMessage" = "จำเป็นต้องอนุญาตการเข้าถึงเพื่อถ่ายภาพหน้าปกเกม";
 "DeniedPermissionCameraCancel" = "ไม่";
 "DeniedPermissionCameraConfirm" = "ไปตั้งค่า";
-"DeniedPermissionMicTitle" = "Manic EMU ไม่สามารถใช้ไมโครโฟนของคุณ";
+"DeniedPermissionMicTitle" = "WizardiOS ไม่สามารถใช้ไมโครโฟนของคุณ";
 "DeniedPermissionMicMessage" = "จำเป็นต้องอนุญาตเพื่อให้ฟังก์ชันบางส่วนของเกม DS ทำงานสมบูรณ์";
 "DeniedPermissionMicCancel" = "ไม่";
 "DeniedPermissionMicConfirm" = "ไปตั้งค่า";
@@ -396,7 +396,7 @@
 "ThreeDSNotSupportImportSave" = "เกม 3DS ยังไม่รองรับการนำเข้าเซฟไฟล์ในขณะนี้";
 "ThreeDSNotSupportShareSave" = "เกม 3DS ยังไม่รองรับการแชร์เซฟไฟล์ในขณะนี้";
 "ThreeDSBetaAlertTitle" = "เวอร์ชันทดลอง 3DS";
-"ThreeDSBetaAlertDetail" = "เพื่อให้คุณได้สัมผัสเกม 3DS เร็วขึ้น Manic EMU ได้เปิดตัวฟีเจอร์ 3DS ในสถานะทดลอง ซึ่งยังต้องการการปรับปรุงเพิ่มเติม
+"ThreeDSBetaAlertDetail" = "เพื่อให้คุณได้สัมผัสเกม 3DS เร็วขึ้น WizardiOS ได้เปิดตัวฟีเจอร์ 3DS ในสถานะทดลอง ซึ่งยังต้องการการปรับปรุงเพิ่มเติม
 
 ฟีเจอร์ที่ยังไม่พร้อมใช้งานชั่วคราว:
 ❌ โหมดเต็มจอด้วย AirPlay
@@ -476,7 +476,7 @@
 "NoSaveStateToast" = "暂无%@";
 "DeleteSelectedSaveStateAlert" = "ลบ「%@」ที่เลือกหรือไม่？\nไม่สามารถกู้คืนได้หลังลบ！";
 "DeleteAllSaveStateAlert" = "未选中任何条目，是否ลบ「%@」ทั้งหมด？\nไม่สามารถกู้คืนได้หลังลบ！";
-"AICoverSearchDesc" = "检测到您尝试使用非英文进行搜索，升级高级会员后Manic EMU会使用最新的AI技术帮您实现多国语言的搜索任务";
+"AICoverSearchDesc" = "检测到您尝试使用非英文进行搜索，升级高级会员后WizardiOS会使用最新的AI技术帮您实现多国语言的搜索任务";
 "MaxTextSizeAllowDesc" = "该选项最多支持%@个字符";
 
 "PlatformSelectionTitle" = "เลือกแพลตฟอร์ม";
@@ -514,12 +514,12 @@
 "SwitchEmulationCoreDetail" = "สลับคอร์เอมูเลชันสำหรับ %@\nการเปลี่ยนคอร์จะทำให้เซฟเกมจากคอร์เก่าใช้งานไม่ได้ หากต้องการเข้าถึง โปรดสลับกลับไปที่คอร์เดิม";
 "BeetleSaturnNoSupportCheat" = "คอร์ Beetle Saturn ปัจจุบันไม่รองรับการตั้งค่าชีต หากต้องการตั้งค่าโปรดเปลี่ยนไปใช้คอร์ Yabause";
 "CurrentTitle" = "ปัจจุบัน";
-"NewSkinDesc" = "Manic EMU รองรับสกินในรูปแบบ .manicskin และ .deltaskin .gammaskin โปรดทราบ: สกินที่นำเข้าต้องตรงกับแพลตฟอร์มปัจจุบัน มิฉะนั้นจะไม่แสดงในรายการ\nนอกจากนี้เรายังให้บริการชุมชนสกินบุคคลที่สาม ชุมชนเหล่านี้ไม่เกี่ยวข้องกับ Manic EMU อย่างเป็นทางการ เมื่อดาวน์โหลดสกินโปรดปฏิบัติตามข้อกำหนดการใช้งานของเว็บไซต์แต่ละแห่งอย่างเคร่งครัด";
+"NewSkinDesc" = "WizardiOS รองรับสกินในรูปแบบ .manicskin และ .deltaskin .gammaskin โปรดทราบ: สกินที่นำเข้าต้องตรงกับแพลตฟอร์มปัจจุบัน มิฉะนั้นจะไม่แสดงในรายการ\nนอกจากนี้เรายังให้บริการชุมชนสกินบุคคลที่สาม ชุมชนเหล่านี้ไม่เกี่ยวข้องกับ WizardiOS อย่างเป็นทางการ เมื่อดาวน์โหลดสกินโปรดปฏิบัติตามข้อกำหนดการใช้งานของเว็บไซต์แต่ละแห่งอย่างเคร่งครัด";
 "VisitSite" = "เยี่ยมชม %@";
 "OpenFile" = "เปิดไฟล์";
 "WebViewDownloadBegin" = "เริ่มดาวน์โหลดแล้ว";
 "RespectSilentMode" = "เคารพโหมดเงียบ";
-"RespectSilentModeDesc" = "เมื่อเปิดใช้งาน Manic EMU จะเล่นเสียงเฉพาะเมื่อไม่อยู่ในโหมดเงียบ";
+"RespectSilentModeDesc" = "เมื่อเปิดใช้งาน WizardiOS จะเล่นเสียงเฉพาะเมื่อไม่อยู่ในโหมดเงียบ";
 "SaturnISONoSwitchCore" = "เกม Sega Saturn .iso ไม่รองรับการเปลี่ยนคอร์";
 "EnableFullScreenTitle" = "เปิดใช้งานเต็มจอ";
 "DisableFullScreenTitle" = "ปิดใช้งานเต็มจอ";
@@ -645,8 +645,8 @@
 "Ascending" = "จากน้อยไปมาก";
 "Descending" = "จากมากไปน้อย";
 "JumpTips" = "กำลังเปิดหน้า third-party";
-"ThirdPartGameInfoTips" = "ข้อมูลเกม provided by third parties ใช้ judgment ของคุณ หาก Manic EMU ไม่พบเกม ให้ใช้ manual search";
-"NotSupportHardcore" = "โหมดฮาร์ดคอร์ถูกปิดใช้งานสำหรับเกมนี้ อาจเป็นเพราะ Manic EMU ไม่ได้รับอนุญาตจาก RetroAchievements หรือเกมไม่รองรับโหมดฮาร์ดคอร์";
+"ThirdPartGameInfoTips" = "ข้อมูลเกม provided by third parties ใช้ judgment ของคุณ หาก WizardiOS ไม่พบเกม ให้ใช้ manual search";
+"NotSupportHardcore" = "โหมดฮาร์ดคอร์ถูกปิดใช้งานสำหรับเกมนี้ อาจเป็นเพราะ WizardiOS ไม่ได้รับอนุญาตจาก RetroAchievements หรือเกมไม่รองรับโหมดฮาร์ดคอร์";
 "ChooseOne" = "เลือกหนึ่ง";
 "FilesImporterErrorBadCue" = "นำเข้า %@ ล้มเหลว ไฟล์ may be invalid or not UTF-8 encoded กรุณาตรวจสอบ format";
 "Leaderboard" = "กระดานคะแนน";
@@ -663,7 +663,7 @@
 "AlwaysShowProgressDesc" = "แสดงความคืบหน้าของความสำเร็จบนหน้าจออย่างต่อเนื่อง";
 "Progress" = "ความคืบหน้า";
 
-"DCGameNoSupportGameSave" = "Dreamcast ไม่รองรับการนำเข้า/ส่งออกเซฟ ใช้ VMU Explorer เพื่อแก้ไขไฟล์หน่วยความจำในโฟลเดอร์ Manic EMU-Flycast-dc";
+"DCGameNoSupportGameSave" = "Dreamcast ไม่รองรับการนำเข้า/ส่งออกเซฟ ใช้ VMU Explorer เพื่อแก้ไขไฟล์หน่วยความจำในโฟลเดอร์ WizardiOS-Flycast-dc";
 
 "Challenge" = "ความท้าทาย";
 "GameTypeLicensingError" = "ขออภัย! เนื่องจากข้อจำกัดด้านลิขสิทธิ์ของคอร์ %@ แพลตฟอร์มนี้จึงไม่สามารถใช้งานได้ชั่วคราว คุณสามารถรอการอัปเดตในอนาคตหรือใช้เวอร์ชัน sideload แทนได้";
@@ -709,7 +709,7 @@
 "GameListBackgroundUpload" = "อัปโหลด";
 "GameplayManuals" = "คู่มือเกม";
 "GameplayManualsNoExists" = "ไม่มีคู่มือสำหรับเกมนี้";
-"GameplayManualsDesc" = "若要添加说明书，请将PDF文件放入Manic EMU应用。要删除它，请前往文件 > Manic EMU > Manuals 并删除该文件。";
+"GameplayManualsDesc" = "若要添加说明书，请将PDF文件放入WizardiOS应用。要删除它，请前往文件 > WizardiOS > Manuals 并删除该文件。";
 "CleanUnsupportSkins" = "ล้างสกินที่ไม่รองรับ";
 "NotFoundUnsupportSkins" = "ไม่พบสกินที่ไม่รองรับ";
 "UnsupportSkinsDesc" = "สกินต่อไปนี้ไม่รองรับบนอุปกรณ์นี้:\n%@หมายเหตุ: การลบจะลบสกินเหล่านี้จากอุปกรณ์อื่นที่ซิงค์ผ่าน iCloud ด้วย";
@@ -793,7 +793,7 @@
 "Shaders" = "เชดเดอร์";
 "DownloadRetroArchShaders" = "ต้องการดาวน์โหลดเชดเดอร์จาก RetroArch หรือไม่? เมื่อเสร็จสิ้น หมวดหมู่เชดเดอร์ของ RetroArch จะรีเฟรชโดยอัตโนมัติ คุณสามารถยกเลิกกระบวนการนี้ได้ตลอดเวลาในตัวจัดการการดาวน์โหลด";
 "RetroArchShaderUnzipFailed" = "ไม่สามารถแตกไฟล์ %@ ได้ ไฟล์อาจเสียหายระหว่างการดาวน์โหลด โปรดลองดาวน์โหลดอีกครั้ง";
-"ImportShader" = "วางไฟล์เชดเดอร์ในโฟลเดอร์ ‘Manic EMU-Shaders’ แล้วเปิดหน้านี้ใหม่เพื่อรีเฟรชและโหลดเชดเดอร์";
+"ImportShader" = "วางไฟล์เชดเดอร์ในโฟลเดอร์ ‘WizardiOS-Shaders’ แล้วเปิดหน้านี้ใหม่เพื่อรีเฟรชและโหลดเชดเดอร์";
 "CustomShaderDesc" = "สร้างเชดเดอร์แบบกำหนดเองโดยการแก้ไขเชดเดอร์ที่มีอยู่";
 "AppendShadersTitle" = "เพิ่มเชดเดอร์";
 "AppendShadersDetail" = "เพิ่มเชดเดอร์ด้านหน้าหรือด้านหลังชุดปัจจุบัน";
@@ -873,7 +873,7 @@ PlayCase มุ่งเน้นที่เคส iPhone คุณภาพส
 "Width" = "ความกว้าง";
 "Height" = "ความสูง";
 "ScreenSize" = "ขนาดหน้าจอ";
-"J2MESettingsTips" = "เนื่องจากความแตกต่างในมาตรฐาน JAR Manic EMU อาจไม่สามารถตรวจจับความละเอียดหน้าจอหรือการวางแนวที่ถูกต้องได้เสมอไป เพื่อผลลัพธ์การแสดงผลที่ดีที่สุด คุณสามารถกำหนดค่าด้วยตนเอง";
+"J2MESettingsTips" = "เนื่องจากความแตกต่างในมาตรฐาน JAR WizardiOS อาจไม่สามารถตรวจจับความละเอียดหน้าจอหรือการวางแนวที่ถูกต้องได้เสมอไป เพื่อผลลัพธ์การแสดงผลที่ดีที่สุด คุณสามารถกำหนดค่าด้วยตนเอง";
 "J2MEScreenChange" = "บันทึกการตั้งค่าหน้าจอ J2ME แล้ว หากต้องการให้การเปลี่ยนแปลงมีผลทันที ต้องรีเซ็ตเกม ความคืบหน้าที่ยังไม่บันทึกอาจสูญหาย รีเซ็ตตอนนี้หรือไม่?";
 "Later" = "ทีหลัง";
 "ResetImmediately" = "รีเซ็ตตอนนี้";
@@ -883,22 +883,22 @@ PlayCase มุ่งเน้นที่เคส iPhone คุณภาพส
 "ConfigsResetCore" = "รีเซ็ตเป็นค่าเริ่มต้นของคอร์";
 "ConfigsResetBefore" = "กลับสู่การตั้งค่าก่อนหน้า";
 "InsertDisc" = "ใส่แผ่นดิสก์";
-"InsertDiscAlert" = "คุณสามารถใส่แผ่นดิสก์ได้โดยเลือกเกมอื่นจากแพลตฟอร์มเดียวกันในคลังของคุณ หรือเลือกไฟล์แผ่นดิสก์จากแอปไฟล์ เนื่องจากข้อจำกัดของระบบไฟล์ iOS ไฟล์แผ่นดิสก์ที่เลือกจากไฟล์จะถูกคัดลอกไปยังแคชของ Manic EMU";
+"InsertDiscAlert" = "คุณสามารถใส่แผ่นดิสก์ได้โดยเลือกเกมอื่นจากแพลตฟอร์มเดียวกันในคลังของคุณ หรือเลือกไฟล์แผ่นดิสก์จากแอปไฟล์ เนื่องจากข้อจำกัดของระบบไฟล์ iOS ไฟล์แผ่นดิสก์ที่เลือกจากไฟล์จะถูกคัดลอกไปยังแคชของ WizardiOS";
 "InsertDiscFailed" = "ใส่แผ่นดิสก์ไม่สำเร็จ";
 "GenerateHomeMenu" = "สร้างโฮมเมนู";
 "SkinSoundEffects" = "เอฟเฟกต์เสียงสกิน";
 "FirstAnniversary" = "ขอบคุณที่อยู่ตรงนี้\nเราเขียนบางอย่างให้คุณ";
-"ApirlFoolsDayTitle" = "อุ๊ปส์ Manic EMU พังหรือเปล่า?";
+"ApirlFoolsDayTitle" = "อุ๊ปส์ WizardiOS พังหรือเปล่า?";
 "ApirlFoolsDayDetail" = "ไม่ต้องกังวล!\nแค่ล้อเล่น—สวัสดีวันเอพริลฟูลส์!\n\nทุกอย่างจะกลับมาปกติเมื่อคุณปิดหน้านี้";
 "JITType" = "ประเภท JIT";
 "JITTypeDesc" = "JIT มาตรฐานให้ประสิทธิภาพดีที่สุด ในขณะที่ IR JIT ให้ประสิทธิภาพปานกลาง";
 "Pretendo" = "เครือข่าย Pretendo";
 "BadIpAddress" = "ที่อยู่ IP ไม่ถูกต้อง กรุณาลองอีกครั้ง";
 "ArticBaseSettings" = "การตั้งค่า Artic Base";
-"ArticBaseDesc" = "Artic Base พัฒนาโดยทีม Azahar ช่วยให้ข้อมูลเฉพาะของอุปกรณ์ 3DS จริงสามารถถ่ายโอนไปยัง Manic EMU ได้ ข้อมูลเหล่านี้จำเป็นสำหรับการเปิดใช้งานคุณสมบัติเครือข่าย\n\nทำตามขั้นตอนด้านล่างเพื่อถ่ายโอนข้อมูลให้เสร็จสมบูรณ์:\n1. ติดตั้ง %@ บน 3DS ของคุณและเริ่มบริการ\n2. ตรวจสอบให้แน่ใจว่า Manic EMU และ 3DS ของคุณเชื่อมต่อกับเครือข่ายเดียวกัน\n3. ป้อนที่อยู่ IP ที่แสดงบนหน้าจอ 3DS ของคุณด้านล่าง\n4. แตะ \"เริ่มการถ่ายโอน\" และดำเนินการอัปเดตระบบให้เสร็จสมบูรณ์\n\nหลังจากทำตามขั้นตอนเหล่านี้เสร็จ รายการโฮมเมนูจะปรากฏในไลบรารีของคุณ";
-"ArticBaseHeadsUp" = "การนำเข้าข้อมูลจากอุปกรณ์จริงจะเขียนทับข้อมูล 3DS ที่มีอยู่ใน Manic EMU และอาจก่อให้เกิดปัญหาที่ไม่คาดคิด หากคุณมีข้อมูลบันทึกสำคัญ แนะนำให้สำรองไดเรกทอรี Manic EMU - 3DS ก่อนดำเนินการต่อ";
+"ArticBaseDesc" = "Artic Base พัฒนาโดยทีม Azahar ช่วยให้ข้อมูลเฉพาะของอุปกรณ์ 3DS จริงสามารถถ่ายโอนไปยัง WizardiOS ได้ ข้อมูลเหล่านี้จำเป็นสำหรับการเปิดใช้งานคุณสมบัติเครือข่าย\n\nทำตามขั้นตอนด้านล่างเพื่อถ่ายโอนข้อมูลให้เสร็จสมบูรณ์:\n1. ติดตั้ง %@ บน 3DS ของคุณและเริ่มบริการ\n2. ตรวจสอบให้แน่ใจว่า WizardiOS และ 3DS ของคุณเชื่อมต่อกับเครือข่ายเดียวกัน\n3. ป้อนที่อยู่ IP ที่แสดงบนหน้าจอ 3DS ของคุณด้านล่าง\n4. แตะ \"เริ่มการถ่ายโอน\" และดำเนินการอัปเดตระบบให้เสร็จสมบูรณ์\n\nหลังจากทำตามขั้นตอนเหล่านี้เสร็จ รายการโฮมเมนูจะปรากฏในไลบรารีของคุณ";
+"ArticBaseHeadsUp" = "การนำเข้าข้อมูลจากอุปกรณ์จริงจะเขียนทับข้อมูล 3DS ที่มีอยู่ใน WizardiOS และอาจก่อให้เกิดปัญหาที่ไม่คาดคิด หากคุณมีข้อมูลบันทึกสำคัญ แนะนำให้สำรองไดเรกทอรี WizardiOS - 3DS ก่อนดำเนินการต่อ";
 "StartTransfer" = "เริ่มการถ่ายโอน";
-"PretendoNimbusDesc" = "Pretendo เป็นบริการทดแทนฟรีและโอเพนซอร์สสำหรับบริการออนไลน์ของ Nintendo 3DS ช่วยให้เล่นออนไลน์ต่อไปได้แม้หลังจากเซิร์ฟเวอร์อย่างเป็นทางการถูกปิด\n\nด้วยเครื่องมือ Nimbus คุณสามารถสลับเครือข่ายของคุณไปยัง Pretendo ได้อย่างง่ายดาย เมื่อพร้อมใช้งาน ให้แตะ \"ติดตั้ง Nimbus\" แล้ว Manic EMU จะติดตั้งลงในโฮมเมนูโดยอัตโนมัติ";
+"PretendoNimbusDesc" = "Pretendo เป็นบริการทดแทนฟรีและโอเพนซอร์สสำหรับบริการออนไลน์ของ Nintendo 3DS ช่วยให้เล่นออนไลน์ต่อไปได้แม้หลังจากเซิร์ฟเวอร์อย่างเป็นทางการถูกปิด\n\nด้วยเครื่องมือ Nimbus คุณสามารถสลับเครือข่ายของคุณไปยัง Pretendo ได้อย่างง่ายดาย เมื่อพร้อมใช้งาน ให้แตะ \"ติดตั้ง Nimbus\" แล้ว WizardiOS จะติดตั้งลงในโฮมเมนูโดยอัตโนมัติ";
 "InstallNimbus" = "ติดตั้ง Nimbus";
 "InstallNimbusSuccess" = "ติดตั้ง Nimbus สำเร็จ!";
 "HomeMenuDesc" = "ใช้ปุ่มด้านล่างเพื่อเปิดโฮมเมนู จากนั้นไปที่การตั้งค่า Nimbus สลับไปที่เครือข่าย Pretendo และเปิดการตั้งค่าเพื่อเลือก \"รหัสเครือข่ายนินเทนโด\" และลงชื่อเข้าใช้ด้วยบัญชี Pretendo ของคุณ\n\nหลังจากนั้น เกมใดก็ตามที่เปิดจากโฮมเมนูหรือทำงานด้วยคอร์ Azahar จะใช้เครือข่าย Pretendo\n\nหากรายการโฮมเมนูหายไป ฟีเจอร์นี้จะพยายามสร้างใหม่โดยอัตโนมัติ";
@@ -922,7 +922,7 @@ PlayCase มุ่งเน้นที่เคส iPhone คุณภาพส
 "ThemeManufacturerOrderTitle" = "ลำดับผู้ผลิต";
 "ArticBaseHomeMenuFailed" = "ดูเหมือนว่าการอัปเดตระบบจะไม่เสร็จสมบูรณ์ ไม่สามารถสร้างรายการโฮมเมนูได้ กรุณาลองถ่ายโอนข้อมูลอีกครั้ง";
 "ArticBaseHomeMenuSuccess" = "สร้างรายการโฮมเมนูสำเร็จแล้ว คุณสามารถดำเนินการขั้นตอนต่อไปได้";
-"NandImportHeadsUp" = "หากคุณกำลังพยายามถ่ายโอนข้อมูลจากอุปกรณ์ 3DS จริงไปยัง Manic EMU แนะนำให้ใช้ฟีเจอร์ Artic Base";
+"NandImportHeadsUp" = "หากคุณกำลังพยายามถ่ายโอนข้อมูลจากอุปกรณ์ 3DS จริงไปยัง WizardiOS แนะนำให้ใช้ฟีเจอร์ Artic Base";
 "ContineFilesImport" = "นำเข้าต่อ";
 "OpenPage" = "เปิด %@";
 "MappingKeyboardInput" = "จับคู่อินพุตแป้นพิมพ์";

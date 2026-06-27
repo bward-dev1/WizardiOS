@@ -79,7 +79,7 @@
 "ImportServiceListPasteDetail" = "Támogatja a fájlok másolását macOS-ről és a Fájlok alkalmazásból";
 "ImportHowTo" = "Hogyan importáljunk";
 "ImportTopHintTitle" = "Egy álmokkal és kalandokkal teli történet itt kezdődik!";
-"ImportDragAndDropTips" = "Húzza át a fájlokat a Manic EMU bármely felületére az átvitelhez";
+"ImportDragAndDropTips" = "Húzza át a fájlokat a WizardiOS bármely felületére az átvitelhez";
 "ImportChannelTips" = "Ha kérdése van, csatlakozzon a %@ csatornához segítségért";
 "ToastConnectCloudDriveSuccess" = "Sikeres csatlakozás a %@ szolgáltatáshoz";
 "AlertImportFilesSuccess" = "Erőforrások sikeresen importálva";
@@ -110,7 +110,7 @@
 "TimeDurationHourFormat" = "%d óra";
 "TimeDurationMinuteFormat" = "%d perc";
 "FatalErrorTitle" = "Végzetes hiba";
-"FatalErrorDesc" = "A rendszererőforrások betöltése sikertelen, a Manic EMU működése során komoly hibák léphetnek fel";
+"FatalErrorDesc" = "A rendszererőforrások betöltése sikertelen, a WizardiOS működése során komoly hibák léphetnek fel";
 "LodingFailedTitle" = "Betöltés sikertelen";
 "AirPlayDesc" = "Kezdje el a kalandot most!";
 "ToastSuccess" = "Sikeres mentés";
@@ -169,7 +169,7 @@
 "GameSaveTitle" = "Mentés %d";
 
 //Skin
-"SkinNavigationSubTitleCommon" = "A Manic EMU tökéletesen kompatibilis a .deltaskin .gammaskin formátumú skinekkel";
+"SkinNavigationSubTitleCommon" = "A WizardiOS tökéletesen kompatibilis a .deltaskin .gammaskin formátumú skinekkel";
 "SkinNavigationSubTitleSpecifiedGame" = "Csak a %@ számára skin beállítása";
 "SkinSegmentPortraitTitle" = "Álló mód";
 "SkinSegmentLandscapeTitle" = "Fekvő mód";
@@ -198,7 +198,7 @@
 "WidgetTitle" = "Kezdőlap widget";
 "QATitle" = "Gyakori kérdések";
 "FeedbackTitle" = "Visszajelzés";
-"ShareAppTitle" = "Oszd meg a \"Manic EMU\"-t barátaiddal";
+"ShareAppTitle" = "Oszd meg a \"WizardiOS\"-t barátaiddal";
 "JoinQQTitle" = "Csatlakozz a QQ csatornához";
 "JoinTelegramTitle" = "Csatlakozz a Telegramhoz";
 "ClearCacheTitle" = "Gyorsítótár törlése";
@@ -213,7 +213,7 @@
 "RatingTitleRight" = "-t";
 "RatingDetail" = "Ha úgy gondolja, hogy termékünk értékes, kérjük, adjon ötcsillagos értékelést, a véleménye nagyon fontos számunkra : )";
 "iCloudDisableTitle" = "Az iCloud jelenleg nem elérhető";
-"iCloudDisableDetail" = "Az iCloud szinkronizálási szolgáltatás bekapcsolása megtörtént, de csak akkor lesz aktív, ha bejelentkezett és engedélyezte az iCloud használatát. Lépjen az iPhone \"Beállítások\" > \"Apple ID\" > \"iCloud\" menüpontjára, és győződjön meg arról, hogy az iCloud Drive engedélyezve van, és a Manic EMU hozzáférhet";
+"iCloudDisableDetail" = "Az iCloud szinkronizálási szolgáltatás bekapcsolása megtörtént, de csak akkor lesz aktív, ha bejelentkezett és engedélyezte az iCloud használatát. Lépjen az iPhone \"Beállítások\" > \"Apple ID\" > \"iCloud\" menüpontjára, és győződjön meg arról, hogy az iCloud Drive engedélyezve van, és a WizardiOS hozzáférhet";
 "iCloudSyncConfilictTitle" = "iCloud szinkronizálási ütközés";
 "iCloudSyncConfilictDetail" = "Felhőbeli fájl:\n%@\n\nHelyi fájl:\n%@";
 "iCloudSyncConfilictSaveiCloud" = "Felhőbeli mentés";
@@ -227,7 +227,7 @@
 "SendEmailSuccess" = "E-mail sikeresen elküldve";
 "SendEmailFailed" = "E-mail küldése sikertelen: %@";
 "iCloudTipsTitle" = "iCloud szinkronizálás bekapcsolása";
-"iCloudTipsDetail" = "Az iCloud szinkronizálás engedélyezésével azonos Apple ID-val rendelkező eszközökön szinkronizálhatja a Manic EMU összes adatát. A szinkronizálás bekapcsolása után minden adata fel lesz töltve az iCloud-ba, ami az iCloud tárhelyét fogja használni. Ha nincs elég hely, a szinkronizálás sikertelen lesz! A szinkronizált adatok a felhőben lesznek tárolva, és ha az adatok még nincsenek letöltve, nem fog tudni normálisan játszani!";
+"iCloudTipsDetail" = "Az iCloud szinkronizálás engedélyezésével azonos Apple ID-val rendelkező eszközökön szinkronizálhatja a WizardiOS összes adatát. A szinkronizálás bekapcsolása után minden adata fel lesz töltve az iCloud-ba, ami az iCloud tárhelyét fogja használni. Ha nincs elég hely, a szinkronizálás sikertelen lesz! A szinkronizált adatok a felhőben lesznek tárolva, és ha az adatok még nincsenek letöltve, nem fog tudni normálisan játszani!";
 "iCloudConfirm" = "Folytatás és bekapcsolás";
 
 //Play
@@ -351,7 +351,7 @@
 "AnnualMemberTitle" = "Prémium éves tagság";
 "MonthlyMemberTitle" = "Havi tagság";
 "ForeverMemberTitle" = "Örök tagság";
-"PurchaseVerifiedFailed" = "A fizetés ellenőrzése sikertelen, győződjön meg a hálózati kapcsolatról, és indítsa újra a Manic EMU-t";
+"PurchaseVerifiedFailed" = "A fizetés ellenőrzése sikertelen, győződjön meg a hálózati kapcsolatról, és indítsa újra a WizardiOS-t";
 "PurchaseCancel" = "A fizetés megszakítva, így nem tudja feloldani a prémium funkciókat";
 "PurchasePending" = "A fizetés függőben van, a tagság a későbbiekben aktiválódik";
 "PurchaseUnknown" = "Ismeretlen fizetési állapot";
@@ -372,24 +372,24 @@
 "Hi" = "Szia,";
 
 //Permission
-"PrePermissionPhotoTitle" = "Engedélyezi a Manic EMU számára a fényképtár elérését?";
+"PrePermissionPhotoTitle" = "Engedélyezi a WizardiOS számára a fényképtár elérését?";
 "PrePermissionPhotoMessage" = "A fényképtárhoz való hozzáférés engedélyezésével játékképeket menthet a galériába, és választhat képeket játékborítónak";
 "PrePermissionPhotoCancel" = "Most nem";
 "PrePermissionPhotoConfirm" = "Engedélyezés";
-"DeniedPermissionPhotoTitle" = "A Manic EMU nem fér hozzá a fényképtárhoz!";
-"DeniedPermissionPhotoMessage" = "A játékképek mentéséhez engedélyeznie kell a fényképtár elérését a Manic EMU számára";
+"DeniedPermissionPhotoTitle" = "A WizardiOS nem fér hozzá a fényképtárhoz!";
+"DeniedPermissionPhotoMessage" = "A játékképek mentéséhez engedélyeznie kell a fényképtár elérését a WizardiOS számára";
 "DeniedPermissionPhotoCancel" = "Nem";
 "DeniedPermissionPhotoConfirm" = "Engedélyezés";
-"PrePermissionCameraTitle" = "Engedélyezi a Manic EMU számára a kamera elérését?";
+"PrePermissionCameraTitle" = "Engedélyezi a WizardiOS számára a kamera elérését?";
 "PrePermissionCameraMessage" = "A kamera használatának engedélyezésével képet készíthet játékborítónak";
 "PrePermissionCameraCancel" = "Most nem";
 "PrePermissionCameraConfirm" = "Engedélyezés";
-"DeniedPermissionCameraTitle" = "A Manic EMU nem fér hozzá a kamerához!";
-"DeniedPermissionCameraMessage" = "A játékborító készítéséhez engedélyeznie kell a kamera használatát a Manic EMU számára";
+"DeniedPermissionCameraTitle" = "A WizardiOS nem fér hozzá a kamerához!";
+"DeniedPermissionCameraMessage" = "A játékborító készítéséhez engedélyeznie kell a kamera használatát a WizardiOS számára";
 "DeniedPermissionCameraCancel" = "Nem";
 "DeniedPermissionCameraConfirm" = "Engedélyezés";
-"DeniedPermissionMicTitle" = "A Manic EMU nem használhatja a mikrofont!";
-"DeniedPermissionMicMessage" = "Engedélyeznie kell a mikrofon használatát a Manic EMU számára, különben egyes DS játékok funkciói korlátozva lehetnek!";
+"DeniedPermissionMicTitle" = "A WizardiOS nem használhatja a mikrofont!";
+"DeniedPermissionMicMessage" = "Engedélyeznie kell a mikrofon használatát a WizardiOS számára, különben egyes DS játékok funkciói korlátozva lehetnek!";
 "DeniedPermissionMicCancel" = "Nem";
 "DeniedPermissionMicConfirm" = "Engedélyezés";
 
@@ -408,7 +408,7 @@
 "ThreeDSNotSupportImportSave" = "A 3DS játékok jelenleg nem támogatják a mentések importálását";
 "ThreeDSNotSupportShareSave" = "A 3DS játékok jelenleg nem támogatják a mentések megosztását";
 "ThreeDSBetaAlertTitle" = "3DS kísérleti verzió";
-"ThreeDSBetaAlertDetail" = "Hogy hamarabb élvezhesd a 3DS játékokat, a Manic EMU már támogatja a 3DS-t, de jelenleg kísérleti állapotban van. Egyes funkciók további optimalizálást igényelnek.
+"ThreeDSBetaAlertDetail" = "Hogy hamarabb élvezhesd a 3DS játékokat, a WizardiOS már támogatja a 3DS-t, de jelenleg kísérleti állapotban van. Egyes funkciók további optimalizálást igényelnek.
 A következő funkciók átmenetileg hiányoznak:
 ❌ AirPlay teljes képernyős mód
 ❌ Automatikus mentés
@@ -524,12 +524,12 @@ Nyomja meg a kontroller gombját...";
 "SwitchEmulationCoreDetail" = "Váltás emulációs magra ehhez: %@\nA magváltás a korábbi mag mentéseit olvashatatlanná teszi. Vissza kell váltani az eredeti magra a hozzáféréshez";
 "BeetleSaturnNoSupportCheat" = "A Beetle Saturn mag jelenleg nem támogatja a csalókódokat. Szükség esetén váltson Yabause magra";
 "CurrentTitle" = "jelenlegi";
-"NewSkinDesc" = "A Manic EMU támogatja a .manicskin és .deltaskin .gammaskin formátumú skineket. Megjegyzés: Az importált skinnek meg kell egyeznie a jelenlegi platformmal, különben nem jelenik meg a listában.\nHarmadik féltől származó skin közösségekhez is biztosítunk hozzáférést. Ezek nem hivatalosan kapcsolódnak a Manic EMU-hoz. Töltéskor kövesse az egyes webhelyek szolgáltatási feltételeit";
+"NewSkinDesc" = "A WizardiOS támogatja a .manicskin és .deltaskin .gammaskin formátumú skineket. Megjegyzés: Az importált skinnek meg kell egyeznie a jelenlegi platformmal, különben nem jelenik meg a listában.\nHarmadik féltől származó skin közösségekhez is biztosítunk hozzáférést. Ezek nem hivatalosan kapcsolódnak a WizardiOS-hoz. Töltéskor kövesse az egyes webhelyek szolgáltatási feltételeit";
 "VisitSite" = "Látogasson el ide: %@";
 "OpenFile" = "Fájl Megnyitása";
 "WebViewDownloadBegin" = "Letöltés elindult";
 "RespectSilentMode" = "Néma Mód Tiszteletben Tartása";
-"RespectSilentModeDesc" = "Bekapcsoláskor a Manic EMU csak némamódon kívül játszik le hangot";
+"RespectSilentModeDesc" = "Bekapcsoláskor a WizardiOS csak némamódon kívül játszik le hangot";
 "SaturnISONoSwitchCore" = "A Sega Saturn .iso formátumú játékok nem támogatják a magváltást";
 "EnableFullScreenTitle" = "Teljes Képernyő Be";
 "DisableFullScreenTitle" = "Teljes Képernyő Ki";
@@ -655,8 +655,8 @@ Nyomja meg a kontroller gombját...";
 "Ascending" = "Növekvő";
 "Descending" = "Csökkenő";
 "JumpTips" = "Harmadik fél oldalának megnyitása";
-"ThirdPartGameInfoTips" = "A játék információkat harmadik felek szolgáltatják. Használd a saját ítélőképességed és kövessed a platform szabályait. Ha a Manic EMU nem találja a játékot, használj keresést a manuális megtaláláshoz.";
-"NotSupportHardcore" = "A Hardcore mód ki van kapcsolva ehhez a játékhoz. Lehet, hogy a Manic EMU nincs autorizálva a RetroAchievements által, vagy a játék egyszerűen nem támogatja a hardcore módot.";
+"ThirdPartGameInfoTips" = "A játék információkat harmadik felek szolgáltatják. Használd a saját ítélőképességed és kövessed a platform szabályait. Ha a WizardiOS nem találja a játékot, használj keresést a manuális megtaláláshoz.";
+"NotSupportHardcore" = "A Hardcore mód ki van kapcsolva ehhez a játékhoz. Lehet, hogy a WizardiOS nincs autorizálva a RetroAchievements által, vagy a játék egyszerűen nem támogatja a hardcore módot.";
 "ChooseOne" = "Válassz egyet";
 "FilesImporterErrorBadCue" = "%@ importálása sikertelen. A fájl érvénytelen vagy nem UTF-8 kódolású. Ellenőrizd a formátumot.";
 "Leaderboard" = "Ranglista";
@@ -673,7 +673,7 @@ Nyomja meg a kontroller gombját...";
 "AlwaysShowProgressDesc" = "Tartsd az achievementek előrehaladását láthatóvá a képernyőn.";
 "Progress" = "Előrehaladás";
 
-"DCGameNoSupportGameSave" = "A Dreamcast nem támogatja a mentések importálását/exportálását. Használd a VMU Explorer-t a Manic EMU-Flycast-dc mappában található memóriafájlok szerkesztéséhez.";
+"DCGameNoSupportGameSave" = "A Dreamcast nem támogatja a mentések importálását/exportálását. Használd a VMU Explorer-t a WizardiOS-Flycast-dc mappában található memóriafájlok szerkesztéséhez.";
 
 "Challenge" = "Kihívás";
 "GameTypeLicensingError" = "Sajnáljuk! A %@ mag licenc korlátozásai miatt ez a platform átmenetileg nem érhető el. Várhat egy jövőbeli frissítésre, vagy használhatja a sideload verziót.";
@@ -719,7 +719,7 @@ Nyomja meg a kontroller gombját...";
 "GameListBackgroundUpload" = "Feltöltés";
 "GameplayManuals" = "Játék Kézikönyvek";
 "GameplayManualsNoExists" = "Ehhez a játékhoz nincs elérhető kézikönyv.";
-"GameplayManualsDesc" = "Kézikönyv hozzáadásához helyezze a PDF fájlt a Manic EMU alkalmazásba. Eltávolításhoz, menjen a Fájlok > Manic EMU > Kézikönyvek és törölje a fájlt.";
+"GameplayManualsDesc" = "Kézikönyv hozzáadásához helyezze a PDF fájlt a WizardiOS alkalmazásba. Eltávolításhoz, menjen a Fájlok > WizardiOS > Kézikönyvek és törölje a fájlt.";
 "CleanUnsupportSkins" = "Nem Támogatott Skin-ek Tisztítása";
 "NotFoundUnsupportSkins" = "Nem találhatók nem támogatott skin-ek.";
 "UnsupportSkinsDesc" = "A következő skin-ek nem támogatottak ezen az eszközön:\n%@Megjegyzés: Eltávolításuk ezeket a skin-eket más iCloud-on keresztül szinkronizált eszközökről is törli.";
@@ -803,7 +803,7 @@ Nyomja meg a kontroller gombját...";
 "Shaders" = "Shaderek";
 "DownloadRetroArchShaders" = "Letöltöd a shadereket a RetroArch-ból? Amint kész, a RetroArch shader kategória automatikusan frissül. Bármikor megszakíthatod ezt a folyamatot a letöltéskezelőben.";
 "RetroArchShaderUnzipFailed" = "Nem sikerült kicsomagolni: %@. A fájl sérülhetett a letöltés során. Kérjük, töltsd le újra.";
-"ImportShader" = "Helyezd a shader fájlokat a ‘Manic EMU-Shaders’ mappába, majd nyisd meg újra ezt az oldalt a shaderek frissítéséhez és betöltéséhez.";
+"ImportShader" = "Helyezd a shader fájlokat a ‘WizardiOS-Shaders’ mappába, majd nyisd meg újra ezt az oldalt a shaderek frissítéséhez és betöltéséhez.";
 "CustomShaderDesc" = "Hozz létre egyéni shadereket a meglévők szerkesztésével.";
 "AppendShadersTitle" = "Shaderek hozzáadása";
 "AppendShadersDetail" = "Shaderek hozzáadása az aktuális verem elé vagy mögé";
@@ -883,7 +883,7 @@ Ha fejleszteni szeretnéd a beállításod, a PlayCase tökéletes kiegészítő
 "Width" = "Szélesség";
 "Height" = "Magasság";
 "ScreenSize" = "Képernyőméret";
-"J2MESettingsTips" = "A JAR-szabványok különbségei miatt előfordulhat, hogy a Manic EMU nem mindig érzékeli a helyes képernyőfelbontást vagy -tájolást. A legjobb megjelenítési eredmény érdekében manuálisan konfigurálhatja őket.";
+"J2MESettingsTips" = "A JAR-szabványok különbségei miatt előfordulhat, hogy a WizardiOS nem mindig érzékeli a helyes képernyőfelbontást vagy -tájolást. A legjobb megjelenítési eredmény érdekében manuálisan konfigurálhatja őket.";
 "J2MEScreenChange" = "A J2ME képernyőbeállítások el lettek mentve. A módosítások azonnali alkalmazásához vissza kell állítani a játékot. A nem mentett játékállás elveszhet. Visszaállítja most?";
 "Later" = "Később";
 "ResetImmediately" = "Visszaállítás most";
@@ -893,22 +893,22 @@ Ha fejleszteni szeretnéd a beállításod, a PlayCase tökéletes kiegészítő
 "ConfigsResetCore" = "Visszaállítás a mag alapértelmezettjeire";
 "ConfigsResetBefore" = "Visszatérés az előző beállításokhoz";
 "InsertDisc" = "Lemez behelyezése";
-"InsertDiscAlert" = "Behelyezhet egy lemezt, ha kiválaszt egy másik játékot ugyanabból a platformról a könyvtárában, vagy ha kiválaszt egy lemezfájlt a Fájlok alkalmazásból. Az iOS fájlrendszer korlátai miatt a Fájlok alkalmazásból kiválasztott lemezfájlok a Manic EMU gyorsítótárába másolódnak.";
+"InsertDiscAlert" = "Behelyezhet egy lemezt, ha kiválaszt egy másik játékot ugyanabból a platformról a könyvtárában, vagy ha kiválaszt egy lemezfájlt a Fájlok alkalmazásból. Az iOS fájlrendszer korlátai miatt a Fájlok alkalmazásból kiválasztott lemezfájlok a WizardiOS gyorsítótárába másolódnak.";
 "InsertDiscFailed" = "Lemez behelyezése sikertelen";
 "GenerateHomeMenu" = "Kezdőképernyő menü létrehozása";
 "SkinSoundEffects" = "Skin hangeffektek";
 "FirstAnniversary" = "KÖSZÖNJÜK, HOGY ITT VAGY,\nÍRTUNK NEKED VALAMIT";
-"ApirlFoolsDayTitle" = "Hoppá, elromlott a Manic EMU?";
+"ApirlFoolsDayTitle" = "Hoppá, elromlott a WizardiOS?";
 "ApirlFoolsDayDetail" = "Ne aggódjon!\nCsak egy tréfa—Boldog Április bolondját!\n\nMiután bezárja ezt, minden visszatér a normál állapotba.";
 "JITType" = "JIT típus";
 "JITTypeDesc" = "A szabványos JIT kínálja a legjobb teljesítményt, míg az IR JIT közepes teljesítményt nyújt.";
 "Pretendo" = "Pretendo hálózat";
 "BadIpAddress" = "Érvénytelen IP-cím. Kérjük, próbálja újra.";
 "ArticBaseSettings" = "Artic Base beállítások";
-"ArticBaseDesc" = "Az Artic Base, amelyet az Azahar csapat fejlesztett ki, lehetővé teszi a valódi 3DS-eszközre jellemző adatok átvitelét a Manic EMU-ba. Ezek az adatok szükségesek a hálózati funkciók engedélyezéséhez.\n\nKövesse az alábbi lépéseket az átvitel befejezéséhez:\n1. Telepítse a %@-t a 3DS-ére, és indítsa el a szolgáltatást.\n2. Győződjön meg arról, hogy a Manic EMU és a 3DS ugyanahhoz a hálózathoz csatlakozik.\n3. Adja meg az alább a 3DS képernyőjén látható IP-címet.\n4. Koppintson az „Átvitel indítása” gombra, és fejezze be a rendszerfrissítést.\n\nA lépések elvégzése után megjelenik egy Kezdőképernyő-bejegyzés a könyvtárában.";
-"ArticBaseHeadsUp" = "A valódi eszközről történő adatimportálás felülírja a meglévő 3DS-adatokat a Manic EMU-ban, és váratlan problémákat okozhat. Ha fontos mentett adatai vannak, ajánlott biztonsági másolatot készíteni a Manic EMU - 3DS könyvtárról a folytatás előtt.";
+"ArticBaseDesc" = "Az Artic Base, amelyet az Azahar csapat fejlesztett ki, lehetővé teszi a valódi 3DS-eszközre jellemző adatok átvitelét a WizardiOS-ba. Ezek az adatok szükségesek a hálózati funkciók engedélyezéséhez.\n\nKövesse az alábbi lépéseket az átvitel befejezéséhez:\n1. Telepítse a %@-t a 3DS-ére, és indítsa el a szolgáltatást.\n2. Győződjön meg arról, hogy a WizardiOS és a 3DS ugyanahhoz a hálózathoz csatlakozik.\n3. Adja meg az alább a 3DS képernyőjén látható IP-címet.\n4. Koppintson az „Átvitel indítása” gombra, és fejezze be a rendszerfrissítést.\n\nA lépések elvégzése után megjelenik egy Kezdőképernyő-bejegyzés a könyvtárában.";
+"ArticBaseHeadsUp" = "A valódi eszközről történő adatimportálás felülírja a meglévő 3DS-adatokat a WizardiOS-ban, és váratlan problémákat okozhat. Ha fontos mentett adatai vannak, ajánlott biztonsági másolatot készíteni a WizardiOS - 3DS könyvtárról a folytatás előtt.";
 "StartTransfer" = "Átvitel indítása";
-"PretendoNimbusDesc" = "A Pretendo egy ingyenes, nyílt forráskódú helyettesítője a Nintendo 3DS online szolgáltatásainak, amely lehetővé teszi a folyamatos online játékot még a hivatalos szerverek leállítása után is.\n\nA Nimbus eszközzel könnyedén átválthatja hálózatát Pretendóra. Amikor elérhető, koppintson a „Nimbus telepítése” gombra, és a Manic EMU automatikusan telepíti azt a Kezdőképernyőre.";
+"PretendoNimbusDesc" = "A Pretendo egy ingyenes, nyílt forráskódú helyettesítője a Nintendo 3DS online szolgáltatásainak, amely lehetővé teszi a folyamatos online játékot még a hivatalos szerverek leállítása után is.\n\nA Nimbus eszközzel könnyedén átválthatja hálózatát Pretendóra. Amikor elérhető, koppintson a „Nimbus telepítése” gombra, és a WizardiOS automatikusan telepíti azt a Kezdőképernyőre.";
 "InstallNimbus" = "Nimbus telepítése";
 "InstallNimbusSuccess" = "A Nimbus telepítése sikeres!";
 "HomeMenuDesc" = "Az alábbi gombbal nyissa meg a Kezdőképernyőt. Ezután lépjen a Nimbus beállításokhoz, váltson a Pretendo hálózatra, nyissa meg a Beállításokat, válassza a „Nintendo Network ID” lehetőséget, és jelentkezzen be a Pretendo fiókjával.\n\nEzt követően minden, a Kezdőképernyőről indított vagy az Azahar maggal futó játék a Pretendo hálózatot fogja használni.\n\nHa a Kezdőképernyő-bejegyzés hiányzik, ez a funkció megpróbálja automatikusan újra létrehozni.";
@@ -932,7 +932,7 @@ Ha fejleszteni szeretnéd a beállításod, a PlayCase tökéletes kiegészítő
 "ThemeManufacturerOrderTitle" = "Gyártói sorrend";
 "ArticBaseHomeMenuFailed" = "Úgy tűnik, a rendszerfrissítés nem fejeződött be sikeresen. A Kezdőképernyő-bejegyzést nem sikerült létrehozni. Kérjük, próbálkozzon újra az adatátvitellel.";
 "ArticBaseHomeMenuSuccess" = "A Kezdőképernyő-bejegyzés sikeresen létrejött. Folytathatja a következő lépésekkel.";
-"NandImportHeadsUp" = "Ha valódi 3DS-eszközről próbál adatokat átvinni a Manic EMU-ba, javasoljuk az Artic Base funkció használatát.";
+"NandImportHeadsUp" = "Ha valódi 3DS-eszközről próbál adatokat átvinni a WizardiOS-ba, javasoljuk az Artic Base funkció használatát.";
 "ContineFilesImport" = "Importálás folytatása";
 "OpenPage" = "%@ megnyitása";
 "MappingKeyboardInput" = "Billentyűzetbemenet leképezése";

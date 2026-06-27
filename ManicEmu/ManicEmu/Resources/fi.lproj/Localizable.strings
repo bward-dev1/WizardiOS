@@ -79,7 +79,7 @@
 "ImportServiceListPasteDetail" = "Tukee tiedostojen kopioimista macOS:stä ja Tiedostot-sovelluksesta";
 "ImportHowTo" = "Miten tuoda";
 "ImportTopHintTitle" = "Tarinat täynnä unelmia ja seikkailuja alkavat täältä!";
-"ImportDragAndDropTips" = "Vedä ja pudota tiedostot mihin tahansa Manic EMU:n käyttöliittymään";
+"ImportDragAndDropTips" = "Vedä ja pudota tiedostot mihin tahansa WizardiOS:n käyttöliittymään";
 "ImportChannelTips" = "Jos sinulla on kysyttävää, liity kanavalle %@ saadaksesi apua";
 "ToastConnectCloudDriveSuccess" = "Yhteys %@ onnistui";
 "AlertImportFilesSuccess" = "Resurssien tuonti onnistui";
@@ -110,7 +110,7 @@
 "TimeDurationHourFormat" = "%d tuntia";
 "TimeDurationMinuteFormat" = "%d minuuttia";
 "FatalErrorTitle" = "Kriittinen virhe";
-"FatalErrorDesc" = "Järjestelmäresurssien lataus epäonnistui, Manic EMU:ssa voi olla vakavia puutteita";
+"FatalErrorDesc" = "Järjestelmäresurssien lataus epäonnistui, WizardiOS:ssa voi olla vakavia puutteita";
 "LodingFailedTitle" = "Lataus epäonnistui";
 "AirPlayDesc" = "Aloita seikkailu heti!";
 "ToastSuccess" = "Tallennus onnistui";
@@ -169,7 +169,7 @@
 "GameSaveTitle" = "Tallennus %d";
 
 //Skin
-"SkinNavigationSubTitleCommon" = "Manic EMU tukee täysimääräisesti .deltaskin .gammaskin-muotoisia skinejä";
+"SkinNavigationSubTitleCommon" = "WizardiOS tukee täysimääräisesti .deltaskin .gammaskin-muotoisia skinejä";
 "SkinNavigationSubTitleSpecifiedGame" = "Vain pelille %@ asetettu skini";
 "SkinSegmentPortraitTitle" = "Pystyasento";
 "SkinSegmentLandscapeTitle" = "Vaaka-asento";
@@ -198,7 +198,7 @@
 "WidgetTitle" = "Työpöydän widgetit";
 "QATitle" = "Usein kysytyt kysymykset";
 "FeedbackTitle" = "Palaute";
-"ShareAppTitle" = "Jaa \"Manic EMU\" ystävillesi";
+"ShareAppTitle" = "Jaa \"WizardiOS\" ystävillesi";
 "JoinQQTitle" = "Liity QQ-kanavalle";
 "JoinTelegramTitle" = "Liity Telegramiin";
 "ClearCacheTitle" = "Tyhjennä välimuisti";
@@ -213,7 +213,7 @@
 "RatingTitleRight" = "";
 "RatingDetail" = "Jos pidät tuotteestamme, anna meille viiden tähden arviointi, se on meille erittäin tärkeää :)";
 "iCloudDisableTitle" = "iCloud ei käytettävissä";
-"iCloudDisableDetail" = "iCloud-synkronointia yritettiin käynnistää, mutta synkronointi alkaa vasta kun olet kirjautunut iCloudiin ja antanut käyttöoikeudet. Mene iPhonen \"Asetukset\" > \"Apple ID\" > \"iCloud\" ja varmista, että iCloud-levy on käytössä ja Manic EMU saa käyttää sitä";
+"iCloudDisableDetail" = "iCloud-synkronointia yritettiin käynnistää, mutta synkronointi alkaa vasta kun olet kirjautunut iCloudiin ja antanut käyttöoikeudet. Mene iPhonen \"Asetukset\" > \"Apple ID\" > \"iCloud\" ja varmista, että iCloud-levy on käytössä ja WizardiOS saa käyttää sitä";
 "iCloudSyncConfilictTitle" = "iCloud-synkronoinnin ristiriita";
 "iCloudSyncConfilictDetail" = "Pilvitiedosto:\n%@\n\nPaikallinen tiedosto:\n%@";
 "iCloudSyncConfilictSaveiCloud" = "Säilytä iCloud";
@@ -227,7 +227,7 @@
 "SendEmailSuccess" = "Sähköpostin lähetys onnistui";
 "SendEmailFailed" = "Sähköpostin lähetys epäonnistui %@";
 "iCloudTipsTitle" = "Ota iCloud-synkronointi käyttöön";
-"iCloudTipsDetail" = "iCloud-synkronoinnin avulla voit synkronoida kaiken Manic EMU:ssa samalla Apple ID:llä varustettujen laitteiden välillä. Synkronoinnin käyttöönoton jälkeen kaikki tiedot lähetetään iCloudiin, mikä käyttää iCloud-tallennustilaa. Jos tilaa ei ole tarpeeksi, synkronointi voi epäonnistua! Synkronoinnin jälkeen tiedot tallennetaan pilveen, ja jos tietoja ei ole vielä ladattu, pelien pelaaminen ei välttämättä onnistu!";
+"iCloudTipsDetail" = "iCloud-synkronoinnin avulla voit synkronoida kaiken WizardiOS:ssa samalla Apple ID:llä varustettujen laitteiden välillä. Synkronoinnin käyttöönoton jälkeen kaikki tiedot lähetetään iCloudiin, mikä käyttää iCloud-tallennustilaa. Jos tilaa ei ole tarpeeksi, synkronointi voi epäonnistua! Synkronoinnin jälkeen tiedot tallennetaan pilveen, ja jos tietoja ei ole vielä ladattu, pelien pelaaminen ei välttämättä onnistu!";
 "iCloudConfirm" = "Jatka käyttöönottoa";
 
 //Play
@@ -352,7 +352,7 @@
 "AnnualMemberTitle" = "Super-vuosijäsen";
 "MonthlyMemberTitle" = "Kuukausiseikkailija";
 "ForeverMemberTitle" = "Ikuinen jäsen";
-"PurchaseVerifiedFailed" = "Maksun vahvistus epäonnistui, varmista verkkoyhteys ja käynnistä Manic EMU uudelleen vahvistusta varten";
+"PurchaseVerifiedFailed" = "Maksun vahvistus epäonnistui, varmista verkkoyhteys ja käynnistä WizardiOS uudelleen vahvistusta varten";
 "PurchaseCancel" = "Maksusi peruutettiin, etkä saanut edistyneitä toimintoja";
 "PurchasePending" = "Maksusi on kesken, kun maksu on suoritettu loppuun, jäsenyytesi aktivoituu";
 "PurchaseUnknown" = "Tuntematon maksutila";
@@ -373,24 +373,24 @@
 "Hi" = "Hei,";
 
 //Permission
-"PrePermissionPhotoTitle" = "Sallitaanko Manic EMU:n käyttää galleriaasi?";
+"PrePermissionPhotoTitle" = "Sallitaanko WizardiOS:n käyttää galleriaasi?";
 "PrePermissionPhotoMessage" = "Salli pääsy tallentaaksesi pelin kuvakaappauksia galleriaan ja valitaksesi kuvia pelin kansikuvaksi";
 "PrePermissionPhotoCancel" = "Ei nyt";
 "PrePermissionPhotoConfirm" = "Salli";
-"DeniedPermissionPhotoTitle" = "Manic EMU ei voi käyttää galleriaasi!";
-"DeniedPermissionPhotoMessage" = "Pelin kuvakaappausten tallentamiseksi Manic EMU tarvitsee gallerian käyttöoikeuden";
+"DeniedPermissionPhotoTitle" = "WizardiOS ei voi käyttää galleriaasi!";
+"DeniedPermissionPhotoMessage" = "Pelin kuvakaappausten tallentamiseksi WizardiOS tarvitsee gallerian käyttöoikeuden";
 "DeniedPermissionPhotoCancel" = "Ei";
 "DeniedPermissionPhotoConfirm" = "Anna käyttöoikeus";
-"PrePermissionCameraTitle" = "Sallitaanko Manic EMU:n käyttää kameraasi?";
+"PrePermissionCameraTitle" = "Sallitaanko WizardiOS:n käyttää kameraasi?";
 "PrePermissionCameraMessage" = "Salli pääsy ottaa kuvia pelin kansikuvaksi";
 "PrePermissionCameraCancel" = "Ei nyt";
 "PrePermissionCameraConfirm" = "Salli";
-"DeniedPermissionCameraTitle" = "Manic EMU ei voi käyttää kameraasi!";
-"DeniedPermissionCameraMessage" = "Manic EMU tarvitsee kameran käyttöoikeuden pelin kansikuvien ottamiseen!";
+"DeniedPermissionCameraTitle" = "WizardiOS ei voi käyttää kameraasi!";
+"DeniedPermissionCameraMessage" = "WizardiOS tarvitsee kameran käyttöoikeuden pelin kansikuvien ottamiseen!";
 "DeniedPermissionCameraCancel" = "Ei";
 "DeniedPermissionCameraConfirm" = "Anna käyttöoikeus";
-"DeniedPermissionMicTitle" = "Manic EMU ei voi käyttää mikrofonia!";
-"DeniedPermissionMicMessage" = "Anna Manic EMU:lle mikrofonin käyttöoikeus, muuten jotkin DS-pelit eivät toimi kunnolla!";
+"DeniedPermissionMicTitle" = "WizardiOS ei voi käyttää mikrofonia!";
+"DeniedPermissionMicMessage" = "Anna WizardiOS:lle mikrofonin käyttöoikeus, muuten jotkin DS-pelit eivät toimi kunnolla!";
 "DeniedPermissionMicCancel" = "Ei";
 "DeniedPermissionMicConfirm" = "Anna käyttöoikeus";
 
@@ -409,7 +409,7 @@
 "ThreeDSNotSupportImportSave" = "3DS-pelejä ei vielä tueta tallennusten tuontia";
 "ThreeDSNotSupportShareSave" = "3DS-pelejä ei vielä tueta tallennusten jakamista";
 "ThreeDSBetaAlertTitle" = "3DS-kokeiluversio";
-"ThreeDSBetaAlertDetail" = "Jotta voit nauttia 3DS-peleistä aikaisemmin, Manic EMU on julkaissut 3DS-tuen, mutta se on tällä hetkellä kokeiluversiossa. Jotkin toiminnot vaativat vielä optimointia.
+"ThreeDSBetaAlertDetail" = "Jotta voit nauttia 3DS-peleistä aikaisemmin, WizardiOS on julkaissut 3DS-tuen, mutta se on tällä hetkellä kokeiluversiossa. Jotkin toiminnot vaativat vielä optimointia.
 Seuraavat toiminnot puuttuvat toistaiseksi:
 ❌ AirPlay-koko näytön tila
 ❌ Automaattinen tallennus
@@ -525,12 +525,12 @@ Paina ohjaimen nappia...";
 "SwitchEmulationCoreDetail" = "Vaihda emulaatioydin kohteelle %@\nYtimen vaihto tekee edellisen ytimen tallennuksista lukukelvottomat. Palaa alkuperäiseen ytimeen päästäksesi käsiksi";
 "BeetleSaturnNoSupportCheat" = "Beetle Saturn -ydin ei tue huijauskoodeja tällä hetkellä. Vaihda Yabause-ytimeen tarvittaessa";
 "CurrentTitle" = "nykyinen";
-"NewSkinDesc" = "Manic EMU tukee skinejä .manicskin- ja .deltaskin .gammaskin-muodoissa. Huom: Tuodun skinin on vastattava nykyistä alustaa, muuten se ei näy listassa.\nTarjoamme myös pääsyn kolmannen osapuolen skin-yhteisöihin. Nämä eivät ole virallisesti yhteydessä Manic EMU:hon. Noudata jokaisen sivuston käyttöehtoja latauksien yhteydessä";
+"NewSkinDesc" = "WizardiOS tukee skinejä .manicskin- ja .deltaskin .gammaskin-muodoissa. Huom: Tuodun skinin on vastattava nykyistä alustaa, muuten se ei näy listassa.\nTarjoamme myös pääsyn kolmannen osapuolen skin-yhteisöihin. Nämä eivät ole virallisesti yhteydessä WizardiOS:hon. Noudata jokaisen sivuston käyttöehtoja latauksien yhteydessä";
 "VisitSite" = "Vieraile %@";
 "OpenFile" = "Avaa Tiedosto";
 "WebViewDownloadBegin" = "Lataus alkoi";
 "RespectSilentMode" = "Kunnioita Hiljainen Tila";
-"RespectSilentModeDesc" = "Käytössä Manic EMU soittaa ääntä vain hiljaisen tilan ulkopuolella";
+"RespectSilentModeDesc" = "Käytössä WizardiOS soittaa ääntä vain hiljaisen tilan ulkopuolella";
 "SaturnISONoSwitchCore" = "Sega Saturn .iso-muotoiset pelit eivät tue ytimen vaihtoa";
 "EnableFullScreenTitle" = "Ota Koko Näyttö Käyttöön";
 "DisableFullScreenTitle" = "Poista Koko Näyttö Käytöstä";
@@ -656,8 +656,8 @@ Paina ohjaimen nappia...";
 "Ascending" = "Nouseva";
 "Descending" = "Laskeva";
 "JumpTips" = "Kolmannen osapuolen sivun avaaminen";
-"ThirdPartGameInfoTips" = "Pelin tiedot tarjoaa kolmannet osapuolet. Käytä harkintaa ja noudata alustan sääntöjä. Jos Manic EMU ei löydä peliä, käytä hakua löytääksesi sen manuaalisesti.";
-"NotSupportHardcore" = "Hardcore-tila on poissa käytöstä tässä pelissä. Ehkä Manic EMU ei ole RetroAchievementsin valtuuttama, tai peli ei vain tue hardcore-tilaa.";
+"ThirdPartGameInfoTips" = "Pelin tiedot tarjoaa kolmannet osapuolet. Käytä harkintaa ja noudata alustan sääntöjä. Jos WizardiOS ei löydä peliä, käytä hakua löytääksesi sen manuaalisesti.";
+"NotSupportHardcore" = "Hardcore-tila on poissa käytöstä tässä pelissä. Ehkä WizardiOS ei ole RetroAchievementsin valtuuttama, tai peli ei vain tue hardcore-tilaa.";
 "ChooseOne" = "Valitse yksi";
 "FilesImporterErrorBadCue" = "%@ tuonti epäonnistui. tiedosto voi olla virheellinen tai ei UTF-8-koodattu. Tarkista muoto.";
 "Leaderboard" = "Tulostaulukko";
@@ -674,7 +674,7 @@ Paina ohjaimen nappia...";
 "AlwaysShowProgressDesc" = "Pidä saavutusten edistyminen näkyvillä näytöllä.";
 "Progress" = "Edistyminen";
 
-"DCGameNoSupportGameSave" = "Dreamcast ei tue tallennusten tuontia/vientiä. Muokkaa muistitiedostoja Manic EMU-Flycast-dc -kansiossa käyttämällä VMU Explorer -ohjelmaa.";
+"DCGameNoSupportGameSave" = "Dreamcast ei tue tallennusten tuontia/vientiä. Muokkaa muistitiedostoja WizardiOS-Flycast-dc -kansiossa käyttämällä VMU Explorer -ohjelmaa.";
 
 "Challenge" = "Haaste";
 "GameTypeLicensingError" = "Pahoittelut! %@-ytimen lisenssirajoitusten vuoksi tämä alusta ei ole tällä hetkellä käytettävissä. Voit odottaa tulevaa päivitystä tai käyttää sideload-versiota.";
@@ -720,7 +720,7 @@ Paina ohjaimen nappia...";
 "GameListBackgroundUpload" = "Lataa";
 "GameplayManuals" = "Peliohjeet";
 "GameplayManualsNoExists" = "Tälle pelille ei ole ohjetta saatavilla.";
-"GameplayManualsDesc" = "Lisätäksesi ohjeen, aseta PDF-tiedosto Manic EMU-sovellukseen. Poistaaksesi sen, siirry Tiedostot > Manic EMU > Ohjeet ja poista tiedosto.";
+"GameplayManualsDesc" = "Lisätäksesi ohjeen, aseta PDF-tiedosto WizardiOS-sovellukseen. Poistaaksesi sen, siirry Tiedostot > WizardiOS > Ohjeet ja poista tiedosto.";
 "CleanUnsupportSkins" = "Puhdista Ei-tuetut Skin-it";
 "NotFoundUnsupportSkins" = "Ei-tuettuja skin-ejä ei löytynyt.";
 "UnsupportSkinsDesc" = "Seuraavat skin-it eivät ole tuettuja tässä laitteessa:\n%@Huom.: Poistaminen poistaa nämä skin-it myös muista iCloudin kautta synkronoiduista laitteista.";
@@ -804,7 +804,7 @@ Paina ohjaimen nappia...";
 "Shaders" = "Shadereita";
 "DownloadRetroArchShaders" = "Haluatko ladata shadereita RetroArchista? Valmistuttuaan RetroArchin shader-kategoria päivitetään automaattisesti. Voit peruuttaa tämän milloin tahansa lataushallinnassa.";
 "RetroArchShaderUnzipFailed" = "Tiedostoa %@ ei voitu purkaa. Tiedosto on saatettu vioittua latauksen aikana. Yritä ladata se uudelleen.";
-"ImportShader" = "Aseta shader-tiedostot kansioon ‘Manic EMU-Shaders’ ja avaa sitten tämä sivu uudelleen päivittääksesi ja ladataksesi shaderit.";
+"ImportShader" = "Aseta shader-tiedostot kansioon ‘WizardiOS-Shaders’ ja avaa sitten tämä sivu uudelleen päivittääksesi ja ladataksesi shaderit.";
 "CustomShaderDesc" = "Luo mukautettuja shadereita muokkaamalla olemassa olevia.";
 "AppendShadersTitle" = "Lisää shadereita";
 "AppendShadersDetail" = "Lisää shadereita nykyisen pinon alkuun tai loppuun";
@@ -884,7 +884,7 @@ Jos haluat parantaa kokoonpanoasi, PlayCase on täydellinen lisä tälle skinill
 "Width" = "Leveys";
 "Height" = "Korkeus";
 "ScreenSize" = "Näytön koko";
-"J2MESettingsTips" = "JAR-standardien eroista johtuen Manic EMU ei aina havaitse oikeaa näytön tarkkuutta tai suuntaa. Parhaan näyttötuloksen saavuttamiseksi voit määrittää ne manuaalisesti.";
+"J2MESettingsTips" = "JAR-standardien eroista johtuen WizardiOS ei aina havaitse oikeaa näytön tarkkuutta tai suuntaa. Parhaan näyttötuloksen saavuttamiseksi voit määrittää ne manuaalisesti.";
 "J2MEScreenChange" = "J2ME-näyttöasetukset on tallennettu. Jotta muutokset tulevat voimaan heti, peli on nollattava. Tallentamaton edistyminen saattaa kadota. Nollataanko nyt?";
 "Later" = "Myöhemmin";
 "ResetImmediately" = "Nollaa nyt";
@@ -894,22 +894,22 @@ Jos haluat parantaa kokoonpanoasi, PlayCase on täydellinen lisä tälle skinill
 "ConfigsResetCore" = "Palauta ytimen oletusasetuksiin";
 "ConfigsResetBefore" = "Palaa edellisiin asetuksiin";
 "InsertDisc" = "Aseta levy";
-"InsertDiscAlert" = "Voit asettaa levyn valitsemalla toisen pelin samalta alustalta kirjastostasi tai valitsemalla levy tiedoston Tiedostot-sovelluksesta. iOS-tiedostojärjestelmän rajoitusten vuoksi Tiedostot-sovelluksesta valitut levy tiedostot kopioidaan Manic EMU:n välimuistiin.";
+"InsertDiscAlert" = "Voit asettaa levyn valitsemalla toisen pelin samalta alustalta kirjastostasi tai valitsemalla levy tiedoston Tiedostot-sovelluksesta. iOS-tiedostojärjestelmän rajoitusten vuoksi Tiedostot-sovelluksesta valitut levy tiedostot kopioidaan WizardiOS:n välimuistiin.";
 "InsertDiscFailed" = "Levyn asettaminen epäonnistui";
 "GenerateHomeMenu" = "Luo aloitusvalikko";
 "SkinSoundEffects" = "Teeman äänitehosteet";
 "FirstAnniversary" = "KIITOS, ETTÄ OLET TÄÄLLÄ,\N KIRJOITTIMME SINULLE JOTAIN";
-"ApirlFoolsDayTitle" = "Hups, onko Manic EMU rikki?";
+"ApirlFoolsDayTitle" = "Hups, onko WizardiOS rikki?";
 "ApirlFoolsDayDetail" = "Älä huoli!\nVain vitsi—Hyvää aprillipäivää!\n\nKaikki palautuu normaaliksi, kun suljet tämän.";
 "JITType" = "JIT-tyyppi";
 "JITTypeDesc" = "Tavallinen JIT tarjoaa parhaan suorituskyvyn, kun taas IR JIT tarjoaa kohtalaisen suorituskyvyn.";
 "Pretendo" = "Pretendo-verkko";
 "BadIpAddress" = "Virheellinen IP-osoite. Yritä uudelleen.";
 "ArticBaseSettings" = "Artic Base -asetukset";
-"ArticBaseDesc" = "Azahar-tiimin kehittämä Artic Base mahdollistaa oikealle 3DS-laitteelle ominaisten tietojen siirtämisen Manic EMU:hon. Nämä tiedot ovat tarpeen verkko-ominaisuuksien käyttöön ottamiseksi.\n\nSuorita siirto loppuun seuraavien vaiheiden avulla:\n1. Asenna %@ 3DS-laitteeseesi ja käynnistä palvelu.\n2. Varmista, että Manic EMU ja 3DS-laitteesi ovat yhteydessä samaan verkkoon.\n3. Syötä alla oleva 3DS-näytöllä näkyvä IP-osoite.\n4. Napauta \"Aloita siirto\" ja suorita järjestelmäpäivitys loppuun.\n\nKun nämä vaiheet on suoritettu, Kotivalikon merkintä tulee näkyviin kirjastoosi.";
-"ArticBaseHeadsUp" = "Tietojen tuominen oikeasta laitteesta korvaa olemassa olevat 3DS-tiedot Manic EMU:ssa ja voi aiheuttaa odottamattomia ongelmia. Jos sinulla on tärkeitä tallennettuja tietoja, on suositeltavaa varmuuskopioida Manic EMU - 3DS -hakemisto ennen jatkamista.";
+"ArticBaseDesc" = "Azahar-tiimin kehittämä Artic Base mahdollistaa oikealle 3DS-laitteelle ominaisten tietojen siirtämisen WizardiOS:hon. Nämä tiedot ovat tarpeen verkko-ominaisuuksien käyttöön ottamiseksi.\n\nSuorita siirto loppuun seuraavien vaiheiden avulla:\n1. Asenna %@ 3DS-laitteeseesi ja käynnistä palvelu.\n2. Varmista, että WizardiOS ja 3DS-laitteesi ovat yhteydessä samaan verkkoon.\n3. Syötä alla oleva 3DS-näytöllä näkyvä IP-osoite.\n4. Napauta \"Aloita siirto\" ja suorita järjestelmäpäivitys loppuun.\n\nKun nämä vaiheet on suoritettu, Kotivalikon merkintä tulee näkyviin kirjastoosi.";
+"ArticBaseHeadsUp" = "Tietojen tuominen oikeasta laitteesta korvaa olemassa olevat 3DS-tiedot WizardiOS:ssa ja voi aiheuttaa odottamattomia ongelmia. Jos sinulla on tärkeitä tallennettuja tietoja, on suositeltavaa varmuuskopioida WizardiOS - 3DS -hakemisto ennen jatkamista.";
 "StartTransfer" = "Aloita siirto";
-"PretendoNimbusDesc" = "Pretendo on ilmainen ja avoimen lähdekoodin korvike Nintendo 3DS -verkkopalveluille, jonka avulla voit jatkaa pelaamista verkossa, vaikka viralliset palvelimet suljettaisiin.\n\nNimbus-työkalulla voit helposti vaihtaa verkkosi Pretendoon. Kun se on käytettävissä, napauta \"Asenna Nimbus\", niin Manic EMU asentaa sen automaattisesti Kotivalikkoon.";
+"PretendoNimbusDesc" = "Pretendo on ilmainen ja avoimen lähdekoodin korvike Nintendo 3DS -verkkopalveluille, jonka avulla voit jatkaa pelaamista verkossa, vaikka viralliset palvelimet suljettaisiin.\n\nNimbus-työkalulla voit helposti vaihtaa verkkosi Pretendoon. Kun se on käytettävissä, napauta \"Asenna Nimbus\", niin WizardiOS asentaa sen automaattisesti Kotivalikkoon.";
 "InstallNimbus" = "Asenna Nimbus";
 "InstallNimbusSuccess" = "Nimbus asennettu onnistuneesti!";
 "HomeMenuDesc" = "Avaa Kotivalikko alla olevalla painikkeella. Siirry sitten Nimbus-asetuksiin, vaihda Pretendo-verkkoon ja avaa Asetukset valitaksesi \"Nintendo Network ID\" ja kirjaudu sisään Pretendo-tililläsi.\n\nTämän jälkeen kaikki Kotivalikosta käynnistetyt tai Azahar-ytimellä toimivat pelit käyttävät Pretendo-verkkoa.\n\nJos Kotivalikon merkintä puuttuu, tämä ominaisuus yrittää luoda sen automaattisesti uudelleen.";
@@ -933,7 +933,7 @@ Jos haluat parantaa kokoonpanoasi, PlayCase on täydellinen lisä tälle skinill
 "ThemeManufacturerOrderTitle" = "Valmistajan järjestys";
 "ArticBaseHomeMenuFailed" = "Järjestelmäpäivitys ei ilmeisesti suoritettu onnistuneesti. Kotivalikon merkintää ei voitu luoda. Yritä tietojen siirtoa uudelleen.";
 "ArticBaseHomeMenuSuccess" = "Kotivalikon merkintä on luotu onnistuneesti. Voit jatkaa seuraaviin vaiheisiin.";
-"NandImportHeadsUp" = "Jos yrität siirtää tietoja oikeasta 3DS-laitteesta Manic EMU:hon, on suositeltavaa käyttää Artic Base -ominaisuutta.";
+"NandImportHeadsUp" = "Jos yrität siirtää tietoja oikeasta 3DS-laitteesta WizardiOS:hon, on suositeltavaa käyttää Artic Base -ominaisuutta.";
 "ContineFilesImport" = "Jatka tuontia";
 "OpenPage" = "Avaa %@";
 "MappingKeyboardInput" = "Kartta näppäimistösyöttö";

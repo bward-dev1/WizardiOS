@@ -79,7 +79,7 @@
 "ImportServiceListPasteDetail" = "Suporte para arquivos copiados do macOS ou do app Arquivos";
 "ImportHowTo" = "Como importar";
 "ImportTopHintTitle" = "Uma história cheia de sonhos e aventuras começa aqui!";
-"ImportDragAndDropTips" = "Arraste arquivos para qualquer tela do Manic EMU para transferir";
+"ImportDragAndDropTips" = "Arraste arquivos para qualquer tela do WizardiOS para transferir";
 "ImportChannelTips" = "Dúvidas? Junte-se ao %@ para obter ajuda";
 "ToastConnectCloudDriveSuccess" = "Conexão com %@ estabelecida";
 "AlertImportFilesSuccess" = "Recursos importados com sucesso";
@@ -110,7 +110,7 @@
 "TimeDurationHourFormat" = "%d horas";
 "TimeDurationMinuteFormat" = "%d minutos";
 "FatalErrorTitle" = "Erro fatal";
-"FatalErrorDesc" = "Falha ao carregar recursos do sistema - o Manic EMU pode apresentar defeitos graves";
+"FatalErrorDesc" = "Falha ao carregar recursos do sistema - o WizardiOS pode apresentar defeitos graves";
 "LodingFailedTitle" = "Falha no carregamento";
 "AirPlayDesc" = "Comece sua aventura agora!";
 "ToastSuccess" = "Salvo com sucesso";
@@ -169,7 +169,7 @@
 "GameSaveTitle" = "Save %d";
 
 //Skin
-"SkinNavigationSubTitleCommon" = "Manic EMU é totalmente compatível com skins .deltaskin .gammaskin";
+"SkinNavigationSubTitleCommon" = "WizardiOS é totalmente compatível com skins .deltaskin .gammaskin";
 "SkinNavigationSubTitleSpecifiedGame" = "Skin exclusiva para %@";
 "SkinSegmentPortraitTitle" = "Retrato";
 "SkinSegmentLandscapeTitle" = "Paisagem";
@@ -198,7 +198,7 @@
 "WidgetTitle" = "Widgets";
 "QATitle" = "Perguntas frequentes";
 "FeedbackTitle" = "Feedback";
-"ShareAppTitle" = "Compartilhar Manic EMU";
+"ShareAppTitle" = "Compartilhar WizardiOS";
 "JoinQQTitle" = "Entrar no Canal QQ";
 "JoinTelegramTitle" = "Entrar no Telegram";
 "ClearCacheTitle" = "Limpar cache";
@@ -213,7 +213,7 @@
 "RatingTitleRight" = "";
 "RatingDetail" = "Se gostou do nosso produto, por favor avalie com 5 estrelas - sua avaliação é muito importante para nós : )";
 "iCloudDisableTitle" = "iCloud indisponível";
-"iCloudDisableDetail" = "Acesse \"Ajustes\" > \"Apple ID\" > \"iCloud\" e ative o iCloud Drive para o Manic EMU";
+"iCloudDisableDetail" = "Acesse \"Ajustes\" > \"Apple ID\" > \"iCloud\" e ative o iCloud Drive para o WizardiOS";
 "iCloudSyncConfilictTitle" = "Conflito de sincronização";
 "iCloudSyncConfilictDetail" = "Arquivo na nuvem:\n%@\n\nArquivo local:\n%@";
 "iCloudSyncConfilictSaveiCloud" = "Manter na nuvem";
@@ -350,7 +350,7 @@
 "AnnualMemberTitle" = "Membro Premium Anual";
 "MonthlyMemberTitle" = "Membro Mensal";
 "ForeverMemberTitle" = "Membro Vitalício";
-"PurchaseVerifiedFailed" = "Falha na verificação. Reinicie o Manic EMU";
+"PurchaseVerifiedFailed" = "Falha na verificação. Reinicie o WizardiOS";
 "PurchaseCancel" = "Compra cancelada";
 "PurchasePending" = "Pagamento pendente";
 "PurchaseUnknown" = "Status desconhecido";
@@ -407,7 +407,7 @@
 "ThreeDSNotSupportImportSave" = "Jogos 3DS não suportam importação de saves atualmente";
 "ThreeDSNotSupportShareSave" = "Jogos 3DS não suportam compartilhamento de saves atualmente";
 "ThreeDSBetaAlertTitle" = "Versão Experimental 3DS";
-"ThreeDSBetaAlertDetail" = "Para que você possa experimentar jogos 3DS mais cedo, o Manic EMU lançou esta funcionalidade em fase experimental. Alguns recursos ainda precisam de otimização.
+"ThreeDSBetaAlertDetail" = "Para que você possa experimentar jogos 3DS mais cedo, o WizardiOS lançou esta funcionalidade em fase experimental. Alguns recursos ainda precisam de otimização.
 
 Funcionalidades temporariamente indisponíveis:
 ❌ Modo Tela Cheia AirPlay
@@ -487,7 +487,7 @@ Pressione o botão do controle...";
 "NoSaveStateToast" = "Nenhum %@ disponível";
 "DeleteSelectedSaveStateAlert" = "Excluir o «%@» selecionado?\nExclusão é permanente!";
 "DeleteAllSaveStateAlert" = "Nenhum item selecionado. Excluir todos os «%@»?\nExclusão é permanente!";
-"AICoverSearchDesc" = "Busca não-inglesa detectada. Atualize para Premium para pesquisa multilíngue com IA do Manic EMU";
+"AICoverSearchDesc" = "Busca não-inglesa detectada. Atualize para Premium para pesquisa multilíngue com IA do WizardiOS";
 "MaxTextSizeAllowDesc" = "Suporta até %@ caracteres";
 
 "PlatformSelectionTitle" = "Seleção de Plataforma";
@@ -525,12 +525,12 @@ Pressione o botão do controle...";
 "SwitchEmulationCoreDetail" = "Trocar núcleo de emulação para %@\nA troca de núcleo tornará saves do núcleo anterior ilegíveis. Para acessá-los, volte ao núcleo original";
 "BeetleSaturnNoSupportCheat" = "O núcleo Beetle Saturn não suporta códigos de trapaça. Se precisar, mude para o núcleo Yabause";
 "CurrentTitle" = "atual";
-"NewSkinDesc" = "Manic EMU suporta skins nos formatos .manicskin e .deltaskin .gammaskin. Nota: a skin importada deve corresponder à plataforma atual, caso contrário não aparecerá na lista.\nTambém fornecemos acesso a comunidades de skins de terceiros. Estas não são afiliadas oficialmente à Manic EMU. Ao baixar skins, siga rigorosamente os termos de serviço de cada site";
+"NewSkinDesc" = "WizardiOS suporta skins nos formatos .manicskin e .deltaskin .gammaskin. Nota: a skin importada deve corresponder à plataforma atual, caso contrário não aparecerá na lista.\nTambém fornecemos acesso a comunidades de skins de terceiros. Estas não são afiliadas oficialmente à WizardiOS. Ao baixar skins, siga rigorosamente os termos de serviço de cada site";
 "VisitSite" = "Visitar %@";
 "OpenFile" = "Abrir Arquivo";
 "WebViewDownloadBegin" = "Download iniciado";
 "RespectSilentMode" = "Respeitar Modo Silencioso";
-"RespectSilentModeDesc" = "Quando ativado, Manic EMU só reproduz áudio fora do modo silencioso";
+"RespectSilentModeDesc" = "Quando ativado, WizardiOS só reproduz áudio fora do modo silencioso";
 "SaturnISONoSwitchCore" = "Jogos .iso do Sega Saturn não suportam troca de núcleo";
 "EnableFullScreenTitle" = "Ativar Tela Cheia";
 "DisableFullScreenTitle" = "Desativar Tela Cheia";
@@ -656,8 +656,8 @@ Pressione o botão do controle...";
 "Ascending" = "Crescente";
 "Descending" = "Decrescente";
 "JumpTips" = "Abrindo página de terceiros";
-"ThirdPartGameInfoTips" = "Info do jogo fornecida por terceiros. Use seu critério. Se o Manic EMU não achar um jogo, use a pesquisa manual.";
-"NotSupportHardcore" = "O Modo Hardcore está desativado para este jogo. O Manic EMU pode não estar autorizado pelo RetroAchievements, ou o jogo não o suporta.";
+"ThirdPartGameInfoTips" = "Info do jogo fornecida por terceiros. Use seu critério. Se o WizardiOS não achar um jogo, use a pesquisa manual.";
+"NotSupportHardcore" = "O Modo Hardcore está desativado para este jogo. O WizardiOS pode não estar autorizado pelo RetroAchievements, ou o jogo não o suporta.";
 "ChooseOne" = "Escolha um";
 "FilesImporterErrorBadCue" = "Falha ao importar %@. O arquivo pode ser inválido ou não estar em UTF-8. Verifique o formato.";
 "Leaderboard" = "Ranking";
@@ -674,7 +674,7 @@ Pressione o botão do controle...";
 "AlwaysShowProgressDesc" = "Manter o progresso de conquistas visível na tela.";
 "Progress" = "Progresso";
 
-"DCGameNoSupportGameSave" = "O Dreamcast não suporta importação/exportação de saves. Use o VMU Explorer para editar arquivos de memória na pasta Manic EMU-Flycast-dc.";
+"DCGameNoSupportGameSave" = "O Dreamcast não suporta importação/exportação de saves. Use o VMU Explorer para editar arquivos de memória na pasta WizardiOS-Flycast-dc.";
 
 "Challenge" = "Desafio";
 "GameTypeLicensingError" = "Desculpe! Devido a restrições de licença do núcleo %@, esta plataforma está temporariamente indisponível. Você pode aguardar uma atualização futura ou usar a versão sideload.";
@@ -720,7 +720,7 @@ Pressione o botão do controle...";
 "GameListBackgroundUpload" = "Enviar";
 "GameplayManuals" = "Manuais de Jogo";
 "GameplayManualsNoExists" = "Nenhum manual disponível para este jogo.";
-"GameplayManualsDesc" = "Para adicionar um manual, coloque seu arquivo PDF no app Manic EMU. Para removê-lo, vá em Arquivos > Manic EMU > Manuais e exclua o arquivo.";
+"GameplayManualsDesc" = "Para adicionar um manual, coloque seu arquivo PDF no app WizardiOS. Para removê-lo, vá em Arquivos > WizardiOS > Manuais e exclua o arquivo.";
 "CleanUnsupportSkins" = "Limpar Skins Não Suportados";
 "NotFoundUnsupportSkins" = "Nenhum skin não suportado encontrado.";
 "UnsupportSkinsDesc" = "Os seguintes skins não são suportados neste dispositivo:\n%@Observação: Removê-los também excluirá esses skins de outros dispositivos sincronizados via iCloud.";
@@ -804,7 +804,7 @@ Pressione o botão do controle...";
 "Shaders" = "Shaders";
 "DownloadRetroArchShaders" = "Gostaria de baixar shaders do RetroArch? Ao concluir, a categoria de shaders do RetroArch será atualizada automaticamente. Você pode cancelar a qualquer momento no gerenciador de downloads.";
 "RetroArchShaderUnzipFailed" = "Não foi possível extrair %@. O arquivo pode ter sido corrompido durante o download. Tente baixá-lo novamente.";
-"ImportShader" = "Coloque os arquivos de shader na pasta ‘Manic EMU-Shaders’ e reabra esta página para atualizar e carregar os shaders.";
+"ImportShader" = "Coloque os arquivos de shader na pasta ‘WizardiOS-Shaders’ e reabra esta página para atualizar e carregar os shaders.";
 "CustomShaderDesc" = "Crie shaders personalizados editando os existentes.";
 "AppendShadersTitle" = "Acrescentar shaders";
 "AppendShadersDetail" = "Adicionar shaders no início ou no final da pilha atual";
@@ -884,7 +884,7 @@ Se você deseja aprimorar sua configuração, a PlayCase é o complemento perfei
 "Width" = "Largura";
 "Height" = "Altura";
 "ScreenSize" = "Tamanho da tela";
-"J2MESettingsTips" = "Devido a diferenças nos padrões JAR, o Manic EMU pode nem sempre detectar a resolução ou orientação correta da tela. Para obter os melhores resultados de exibição, você pode configurá-los manualmente.";
+"J2MESettingsTips" = "Devido a diferenças nos padrões JAR, o WizardiOS pode nem sempre detectar a resolução ou orientação correta da tela. Para obter os melhores resultados de exibição, você pode configurá-los manualmente.";
 "J2MEScreenChange" = "As configurações de tela J2ME foram salvas. Para aplicar as alterações imediatamente, o jogo deve ser reiniciado. Qualquer progresso não salvo pode ser perdido. Reiniciar agora?";
 "Later" = "Mais tarde";
 "ResetImmediately" = "Reiniciar agora";
@@ -894,22 +894,22 @@ Se você deseja aprimorar sua configuração, a PlayCase é o complemento perfei
 "ConfigsResetCore" = "Redefinir para padrões do núcleo";
 "ConfigsResetBefore" = "Reverter para configurações anteriores";
 "InsertDisc" = "Inserir disco";
-"InsertDiscAlert" = "Você pode inserir um disco selecionando outro jogo da mesma plataforma na sua biblioteca ou escolhendo um arquivo de disco do app Arquivos. Devido a limitações do sistema de arquivos do iOS, os arquivos de disco selecionados do app Arquivos serão copiados para o cache do Manic EMU.";
+"InsertDiscAlert" = "Você pode inserir um disco selecionando outro jogo da mesma plataforma na sua biblioteca ou escolhendo um arquivo de disco do app Arquivos. Devido a limitações do sistema de arquivos do iOS, os arquivos de disco selecionados do app Arquivos serão copiados para o cache do WizardiOS.";
 "InsertDiscFailed" = "Falha ao inserir o disco";
 "GenerateHomeMenu" = "Criar menu inicial";
 "SkinSoundEffects" = "Efeitos sonoros do tema";
 "FirstAnniversary" = "OBRIGADO POR ESTAR AQUI,\nESCREVEMOS ALGO PARA VOCÊ";
-"ApirlFoolsDayTitle" = "Ops, o Manic EMU quebrou?";
+"ApirlFoolsDayTitle" = "Ops, o WizardiOS quebrou?";
 "ApirlFoolsDayDetail" = "Não se preocupe!\nÉ só uma brincadeira—Feliz Dia da Mentira!\n\nTudo voltará ao normal quando você fechar isso.";
 "JITType" = "Tipo de JIT";
 "JITTypeDesc" = "JIT padrão oferece o melhor desempenho, enquanto JIT IR oferece desempenho moderado.";
 "Pretendo" = "Rede Pretendo";
 "BadIpAddress" = "Endereço IP inválido. Tente novamente.";
 "ArticBaseSettings" = "Configurações do Artic Base";
-"ArticBaseDesc" = "Artic Base, desenvolvido pela equipe Azahar, permite que dados exclusivos de um dispositivo 3DS real sejam transferidos para o Manic EMU. Esses dados são necessários para ativar os recursos de rede.\n\nSiga as etapas abaixo para concluir a transferência:\n1. Instale %@ no seu 3DS e inicie o serviço.\n2. Certifique-se de que o Manic EMU e seu 3DS estejam conectados à mesma rede.\n3. Digite o endereço IP mostrado na tela do seu 3DS abaixo.\n4. Toque em \"Iniciar transferência\" e conclua a atualização do sistema.\n\nApós concluir essas etapas, uma entrada do Menu Inicial aparecerá na sua biblioteca.";
-"ArticBaseHeadsUp" = "Importar dados de um dispositivo real sobrescreverá os dados existentes do 3DS no Manic EMU e pode causar problemas inesperados. Se você tiver dados de salvamento importantes, é recomendável fazer backup do diretório Manic EMU - 3DS antes de prosseguir.";
+"ArticBaseDesc" = "Artic Base, desenvolvido pela equipe Azahar, permite que dados exclusivos de um dispositivo 3DS real sejam transferidos para o WizardiOS. Esses dados são necessários para ativar os recursos de rede.\n\nSiga as etapas abaixo para concluir a transferência:\n1. Instale %@ no seu 3DS e inicie o serviço.\n2. Certifique-se de que o WizardiOS e seu 3DS estejam conectados à mesma rede.\n3. Digite o endereço IP mostrado na tela do seu 3DS abaixo.\n4. Toque em \"Iniciar transferência\" e conclua a atualização do sistema.\n\nApós concluir essas etapas, uma entrada do Menu Inicial aparecerá na sua biblioteca.";
+"ArticBaseHeadsUp" = "Importar dados de um dispositivo real sobrescreverá os dados existentes do 3DS no WizardiOS e pode causar problemas inesperados. Se você tiver dados de salvamento importantes, é recomendável fazer backup do diretório WizardiOS - 3DS antes de prosseguir.";
 "StartTransfer" = "Iniciar transferência";
-"PretendoNimbusDesc" = "Pretendo é uma substituição gratuita e de código aberto para os serviços online do Nintendo 3DS, permitindo jogo online contínuo mesmo após os servidores oficiais serem desligados.\n\nCom a ferramenta Nimbus, você pode alternar facilmente sua rede para o Pretendo. Quando disponível, toque em \"Instalar Nimbus\" e o Manic EMU o instalará automaticamente no Menu Inicial.";
+"PretendoNimbusDesc" = "Pretendo é uma substituição gratuita e de código aberto para os serviços online do Nintendo 3DS, permitindo jogo online contínuo mesmo após os servidores oficiais serem desligados.\n\nCom a ferramenta Nimbus, você pode alternar facilmente sua rede para o Pretendo. Quando disponível, toque em \"Instalar Nimbus\" e o WizardiOS o instalará automaticamente no Menu Inicial.";
 "InstallNimbus" = "Instalar Nimbus";
 "InstallNimbusSuccess" = "Nimbus instalado com sucesso!";
 "HomeMenuDesc" = "Use o botão abaixo para abrir o Menu Inicial. Em seguida, vá para Configurações do Nimbus, mude para a rede Pretendo e abra Configurações para selecionar \"ID da Nintendo Network\" e faça login com sua conta Pretendo.\n\nDepois disso, qualquer jogo iniciado no Menu Inicial ou em execução com o núcleo Azahar usará a rede Pretendo.\n\nSe a entrada do Menu Inicial estiver ausente, este recurso tentará recriá-la automaticamente.";
@@ -933,7 +933,7 @@ Se você deseja aprimorar sua configuração, a PlayCase é o complemento perfei
 "ThemeManufacturerOrderTitle" = "Ordem do fabricante";
 "ArticBaseHomeMenuFailed" = "Parece que a atualização do sistema não foi concluída com sucesso. A entrada do Menu Inicial não pôde ser criada. Tente a transferência de dados novamente.";
 "ArticBaseHomeMenuSuccess" = "A entrada do Menu Inicial foi criada com sucesso. Você pode prosseguir com as próximas etapas.";
-"NandImportHeadsUp" = "Se você está tentando transferir dados de um dispositivo 3DS real para o Manic EMU, é recomendável usar o recurso Artic Base.";
+"NandImportHeadsUp" = "Se você está tentando transferir dados de um dispositivo 3DS real para o WizardiOS, é recomendável usar o recurso Artic Base.";
 "ContineFilesImport" = "Continuar importação";
 "OpenPage" = "Abrir %@";
 "MappingKeyboardInput" = "Mapear entrada do teclado";

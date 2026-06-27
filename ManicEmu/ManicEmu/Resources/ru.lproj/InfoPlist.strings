@@ -6,11 +6,11 @@
   Copyright © 2024 Manic EMU. All rights reserved.
 */
 
-"CFBundleDisplayName" = "Manic EMU";
+"CFBundleDisplayName" = "WizardiOS";
 //Permission
 "NSPhotoLibraryAddUsageDescription" = "Разрешение доступа позволяет сохранять скриншоты в фотоальбом и выбирать изображения для обложки игр";
 "NSPhotoLibraryUsageDescription" = "Разрешение доступа позволяет сохранять скриншоты в фотоальбом и выбирать изображения для обложки игр";
-"NSMicrophoneUsageDescription" = "Для корректной работы некоторых игр для DS необходимо предоставить Manic EMU доступ к вашему микрофону!";
-"NSCameraUsageDescription" = "Требуется доступ к камере для съёмки обложки игр в Manic EMU!";
+"NSMicrophoneUsageDescription" = "Для корректной работы некоторых игр для DS необходимо предоставить WizardiOS доступ к вашему микрофону!";
+"NSCameraUsageDescription" = "Требуется доступ к камере для съёмки обложки игр в WizardiOS!";
 
-"NSLocalNetworkUsageDescription" = "Manic EMU требуется доступ к вашей локальной сети для поиска и подключения к другим устройствам для онлайн-игр.";
+"NSLocalNetworkUsageDescription" = "WizardiOS требуется доступ к вашей локальной сети для поиска и подключения к другим устройствам для онлайн-игр.";

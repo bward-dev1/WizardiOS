@@ -79,7 +79,7 @@
 "ImportServiceListPasteDetail" = "macOS ve Dosya uygulamasından kopyalanan dosyaları destekler";
 "ImportHowTo" = "Nasıl İçe Aktarılır?";
 "ImportTopHintTitle" = "Hayaller ve maceralarla dolu bir hikaye burada başlayacak!";
-"ImportDragAndDropTips" = "Dosyaları Manic EMU arayüzüne sürükleyerek aktarabilirsiniz";
+"ImportDragAndDropTips" = "Dosyaları WizardiOS arayüzüne sürükleyerek aktarabilirsiniz";
 "ImportChannelTips" = "Sorularınız için %@ katılın";
 "ToastConnectCloudDriveSuccess" = "%@ bağlantısı başarılı";
 "AlertImportFilesSuccess" = "Kaynaklar başarıyla içe aktarıldı";
@@ -110,7 +110,7 @@
 "TimeDurationHourFormat" = "%d saat";
 "TimeDurationMinuteFormat" = "%d dakika";
 "FatalErrorTitle" = "Kritik Hata";
-"FatalErrorDesc" = "Sistem kaynakları yüklenemedi, Manic EMU'da ciddi sorunlar oluşabilir";
+"FatalErrorDesc" = "Sistem kaynakları yüklenemedi, WizardiOS'da ciddi sorunlar oluşabilir";
 "LodingFailedTitle" = "Yükleme Başarısız";
 "AirPlayDesc" = "Hemen maceraya başla!";
 "ToastSuccess" = "Başarıyla kaydedildi";
@@ -169,7 +169,7 @@
 "GameSaveTitle" = "Kayıt %d";
 
 //Skin
-"SkinNavigationSubTitleCommon" = "Manic EMU .deltaskin .gammaskin formatını destekler";
+"SkinNavigationSubTitleCommon" = "WizardiOS .deltaskin .gammaskin formatını destekler";
 "SkinNavigationSubTitleSpecifiedGame" = "Sadece %@ için skin ayarla";
 "SkinSegmentPortraitTitle" = "Dikey";
 "SkinSegmentLandscapeTitle" = "Yatay";
@@ -198,7 +198,7 @@
 "WidgetTitle" = "Ana Ekran Widget'ı";
 "QATitle" = "SSS";
 "FeedbackTitle" = "Geri Bildirim";
-"ShareAppTitle" = "Manic EMU'yu Arkadaşlarınla Paylaş";
+"ShareAppTitle" = "WizardiOS'yu Arkadaşlarınla Paylaş";
 "JoinQQTitle" = "QQ Kanalına Katıl";
 "JoinTelegramTitle" = "Telegram'a Katıl";
 "ClearCacheTitle" = "Önbelleği Temizle";
@@ -213,7 +213,7 @@
 "RatingTitleRight" = "'yu Değerlendir";
 "RatingDetail" = "Ürünümüzü beğendiyseniz, bize 5 yıldız vererek destek olun";
 "iCloudDisableTitle" = "iCloud Kullanılamıyor";
-"iCloudDisableDetail" = "iPhone 'Ayarlar' > 'Apple ID' > 'iCloud' bölümünden iCloud Drive'ın açık olduğunu ve Manic EMU erişimine izin verdiğinizi kontrol edin";
+"iCloudDisableDetail" = "iPhone 'Ayarlar' > 'Apple ID' > 'iCloud' bölümünden iCloud Drive'ın açık olduğunu ve WizardiOS erişimine izin verdiğinizi kontrol edin";
 "iCloudSyncConfilictTitle" = "iCloud Çakışması";
 "iCloudSyncConfilictDetail" = "Bulut dosyası:\n%@\n\nYerel dosya:\n%@";
 "iCloudSyncConfilictSaveiCloud" = "iCloud'u Koru";
@@ -370,7 +370,7 @@
 "Hi" = "Merhaba";
 
 //Permission
-"PrePermissionPhotoTitle" = "Manic EMU'nun fotoğraflarınıza erişmesine izin verilsin mi?";
+"PrePermissionPhotoTitle" = "WizardiOS'nun fotoğraflarınıza erişmesine izin verilsin mi?";
 "PrePermissionPhotoMessage" = "Oyun ekran görüntülerini kaydetmek ve albümden kapak seçmek için izin gereklidir";
 "PrePermissionPhotoCancel" = "Şimdi Değil";
 "PrePermissionPhotoConfirm" = "İzin Ver";
@@ -378,7 +378,7 @@
 "DeniedPermissionPhotoMessage" = "Ekran görüntülerini kaydetmek için fotoğraf izni gereklidir";
 "DeniedPermissionPhotoCancel" = "Hayır";
 "DeniedPermissionPhotoConfirm" = "Ayarlara Git";
-"PrePermissionCameraTitle" = "Manic EMU'nun kameranıza erişmesine izin verilsin mi?";
+"PrePermissionCameraTitle" = "WizardiOS'nun kameranıza erişmesine izin verilsin mi?";
 "PrePermissionCameraMessage" = "Oyun kapağı çekmek için kamera izni gereklidir";
 "PrePermissionCameraCancel" = "Şimdi Değil";
 "PrePermissionCameraConfirm" = "İzin Ver";
@@ -406,7 +406,7 @@
 "ThreeDSNotSupportImportSave" = "3DS oyunları şu anda kayıt dosyası içe aktarmayı desteklemiyor";
 "ThreeDSNotSupportShareSave" = "3DS oyunları şu anda kayıt dosyası paylaşmayı desteklemiyor";
 "ThreeDSBetaAlertTitle" = "3DS Deneysel Sürüm";
-"ThreeDSBetaAlertDetail" = "3DS oyunlarını daha erken deneyimlemeniz için Manic EMU, deneysel 3DS özelliğini yayınladı. Bazı iyileştirmeler gerekiyor.
+"ThreeDSBetaAlertDetail" = "3DS oyunlarını daha erken deneyimlemeniz için WizardiOS, deneysel 3DS özelliğini yayınladı. Bazı iyileştirmeler gerekiyor.
 
 Geçici olarak eksik özellikler:
 ❌ AirPlay Tam Ekran Modu
@@ -486,7 +486,7 @@ Kontrolcü düğmesine basın...";
 "NoSaveStateToast" = "%@ Yok";
 "DeleteSelectedSaveStateAlert" = "Seçilen «%@» silinsin mi?\nGeri alınamaz!";
 "DeleteAllSaveStateAlert" = "Seçili öğe yok. Tüm «%@» silinsin mi?\nGeri alınamaz!";
-"AICoverSearchDesc" = "İngilizce olmayan arama algılandı. Manic EMU'nun çok dilli AI araması için Premium'a yükseltin";
+"AICoverSearchDesc" = "İngilizce olmayan arama algılandı. WizardiOS'nun çok dilli AI araması için Premium'a yükseltin";
 "MaxTextSizeAllowDesc" = "En fazla %@ karakter desteklenir";
 
 "PlatformSelectionTitle" = "Platform Seçimi";
@@ -524,12 +524,12 @@ Kontrolcü düğmesine basın...";
 "SwitchEmulationCoreDetail" = "%@ için emülasyon çekirdeği değiştir\nÇekirdek değişimi önceki çekirdeğin kayıtlarını okunamaz hale getirir. Erişmek için orijinal çekirdeğe dönün";
 "BeetleSaturnNoSupportCheat" = "Beetle Saturn çekirdeği şu anda hile kodu desteklemiyor. Gerekirse Yabause çekirdeğine geçin";
 "CurrentTitle" = "mevcut";
-"NewSkinDesc" = "Manic EMU, .manicskin ve .deltaskin .gammaskin formatlarında skinleri destekler. Not: İçe aktarılan skin mevcut platformla uyumlu olmalıdır, aksi takdirde listede görünmez.\nAyrıca üçüncü taraf skin topluluklarına erişim sağlıyoruz. Bunlar Manic EMU ile resmi olarak bağlantılı değildir. Skin indirirken her sitenin hizmet şartlarına uyun";
+"NewSkinDesc" = "WizardiOS, .manicskin ve .deltaskin .gammaskin formatlarında skinleri destekler. Not: İçe aktarılan skin mevcut platformla uyumlu olmalıdır, aksi takdirde listede görünmez.\nAyrıca üçüncü taraf skin topluluklarına erişim sağlıyoruz. Bunlar WizardiOS ile resmi olarak bağlantılı değildir. Skin indirirken her sitenin hizmet şartlarına uyun";
 "VisitSite" = "%@ ziyaret et";
 "OpenFile" = "Dosya Aç";
 "WebViewDownloadBegin" = "İndirme başladı";
 "RespectSilentMode" = "Sessiz Moda Uy";
-"RespectSilentModeDesc" = "Etkinleştirildiğinde, Manic EMU yalnızca sessiz mod dışında ses çalar";
+"RespectSilentModeDesc" = "Etkinleştirildiğinde, WizardiOS yalnızca sessiz mod dışında ses çalar";
 "SaturnISONoSwitchCore" = "Sega Saturn .iso formatındaki oyunlar çekirdek değiştirmeyi desteklemez";
 "EnableFullScreenTitle" = "Tam Ekran Etkinleştir";
 "DisableFullScreenTitle" = "Tam Ekran Devre Dışı Bırak";
@@ -655,8 +655,8 @@ Kontrolcü düğmesine basın...";
 "Ascending" = "Artan";
 "Descending" = "Azalan";
 "JumpTips" = "Üçüncü taraf sayfası açılıyor";
-"ThirdPartGameInfoTips" = "Oyun bilgileri üçüncü taraflarca sağlanır. Kendi kararınızı kullanın. Manic EMU bir oyunu eşleştiremezse, manual search kullanın.";
-"NotSupportHardcore" = "Bu oyun için Hardcore Modu devre dışı. Manic EMU RetroAchievements tarafından yetkilendirilmemiş olabilir veya oyun desteklemiyor olabilir.";
+"ThirdPartGameInfoTips" = "Oyun bilgileri üçüncü taraflarca sağlanır. Kendi kararınızı kullanın. WizardiOS bir oyunu eşleştiremezse, manual search kullanın.";
+"NotSupportHardcore" = "Bu oyun için Hardcore Modu devre dışı. WizardiOS RetroAchievements tarafından yetkilendirilmemiş olabilir veya oyun desteklemiyor olabilir.";
 "ChooseOne" = "Birini seç";
 "FilesImporterErrorBadCue" = "%@ içe aktarılamadı. dosyası geçersiz veya UTF-8 kodlu değil. Lütfen formatı kontrol edin.";
 "Leaderboard" = "Liderlik Tablosu";
@@ -673,7 +673,7 @@ Kontrolcü düğmesine basın...";
 "AlwaysShowProgressDesc" = "Başarım ilerlemesini ekranda görünür tut.";
 "Progress" = "İlerleme";
 
-"DCGameNoSupportGameSave" = "Dreamcast kayıt içe/dışa aktarmayı desteklemez. Manic EMU-Flycast-dc klasöründeki bellek dosyalarını düzenlemek için VMU Explorer'ı kullanın.";
+"DCGameNoSupportGameSave" = "Dreamcast kayıt içe/dışa aktarmayı desteklemez. WizardiOS-Flycast-dc klasöründeki bellek dosyalarını düzenlemek için VMU Explorer'ı kullanın.";
 
 "Challenge" = "Meydan Okuma";
 "GameTypeLicensingError" = "Üzgünüz! %@ çekirdeği için lisans kısıtlamaları nedeniyle bu platform şu anda kullanılamıyor. Bir sonraki güncellemeyi bekleyebilir veya yan yükleme sürümünü deneyebilirsiniz.";
@@ -719,7 +719,7 @@ Kontrolcü düğmesine basın...";
 "GameListBackgroundUpload" = "Yükle";
 "GameplayManuals" = "Oyun Kılavuzları";
 "GameplayManualsNoExists" = "Bu oyun için mevcut kılavuz yok.";
-"GameplayManualsDesc" = "Bir kılavuz eklemek için PDF dosyanızı Manic EMU uygulamasına yerleştirin. Kaldırmak için, Dosyalar > Manic EMU > Kılavuzlar'a gidin ve dosyayı silin.";
+"GameplayManualsDesc" = "Bir kılavuz eklemek için PDF dosyanızı WizardiOS uygulamasına yerleştirin. Kaldırmak için, Dosyalar > WizardiOS > Kılavuzlar'a gidin ve dosyayı silin.";
 "CleanUnsupportSkins" = "Desteklenmeyen Skinleri Temizle";
 "NotFoundUnsupportSkins" = "Desteklenmeyen skin bulunamadı.";
 "UnsupportSkinsDesc" = "Aşağıdaki skinler bu cihazda desteklenmiyor:\n%@Not: Kaldırmak, bu skinleri iCloud üzerinden senkronize edilen diğer cihazlardan da silecektir.";
@@ -803,7 +803,7 @@ Kontrolcü düğmesine basın...";
 "Shaders" = "Gölgelendiriciler";
 "DownloadRetroArchShaders" = "RetroArch'tan gölgelendirici indirmek istiyor musunuz? Tamamlandığında, RetroArch gölgelendirici kategorisi otomatik olarak yenilenecektir. İndirme yöneticisinden bu işlemi istediğiniz zaman iptal edebilirsiniz.";
 "RetroArchShaderUnzipFailed" = "%@ çıkarılamadı. Dosya indirme sırasında bozulmuş olabilir. Lütfen tekrar indirmeyi deneyin.";
-"ImportShader" = "Gölgelendirici dosyalarını ‘Manic EMU-Shaders’ klasörüne yerleştirin, ardından bu sayfayı yeniden açarak gölgelendiricileri yenileyin ve yükleyin.";
+"ImportShader" = "Gölgelendirici dosyalarını ‘WizardiOS-Shaders’ klasörüne yerleştirin, ardından bu sayfayı yeniden açarak gölgelendiricileri yenileyin ve yükleyin.";
 "CustomShaderDesc" = "Mevcut gölgelendiricileri düzenleyerek özel gölgelendiriciler oluşturun.";
 "AppendShadersTitle" = "Gölgelendirici Ekle";
 "AppendShadersDetail" = "Mevcut yığının başına veya sonuna gölgelendirici ekle";
@@ -883,7 +883,7 @@ Kurulumunuzu bir üst seviyeye taşımak istiyorsanız, PlayCase bu kaplama içi
 "Width" = "Genişlik";
 "Height" = "Yükseklik";
 "ScreenSize" = "Ekran Boyutu";
-"J2MESettingsTips" = "JAR standartlarındaki farklılıklar nedeniyle Manic EMU her zaman doğru ekran çözünürlüğünü veya yönünü algılamayabilir. En iyi görüntüleme sonuçları için bunları manuel olarak yapılandırabilirsiniz.";
+"J2MESettingsTips" = "JAR standartlarındaki farklılıklar nedeniyle WizardiOS her zaman doğru ekran çözünürlüğünü veya yönünü algılamayabilir. En iyi görüntüleme sonuçları için bunları manuel olarak yapılandırabilirsiniz.";
 "J2MEScreenChange" = "J2ME ekran ayarları kaydedildi. Değişikliklerin hemen uygulanması için oyunun sıfırlanması gerekir. Kaydedilmemiş ilerleme kaybolabilir. Şimdi sıfırlansın mı?";
 "Later" = "Sonra";
 "ResetImmediately" = "Şimdi Sıfırla";
@@ -893,22 +893,22 @@ Kurulumunuzu bir üst seviyeye taşımak istiyorsanız, PlayCase bu kaplama içi
 "ConfigsResetCore" = "Çekirdek Varsayılanlarına Sıfırla";
 "ConfigsResetBefore" = "Önceki Ayarlara Dön";
 "InsertDisc" = "Disk Tak";
-"InsertDiscAlert" = "Kitaplığınızda aynı platformdan başka bir oyun seçerek veya Dosyalar'dan bir disk dosyası seçerek disk takabilirsiniz. iOS dosya sistemi sınırlamaları nedeniyle, Dosyalar'dan seçilen disk dosyaları Manic EMU'nun önbelleğine kopyalanacaktır.";
+"InsertDiscAlert" = "Kitaplığınızda aynı platformdan başka bir oyun seçerek veya Dosyalar'dan bir disk dosyası seçerek disk takabilirsiniz. iOS dosya sistemi sınırlamaları nedeniyle, Dosyalar'dan seçilen disk dosyaları WizardiOS'nun önbelleğine kopyalanacaktır.";
 "InsertDiscFailed" = "Disk Takma Başarısız";
 "GenerateHomeMenu" = "Ana Menü Oluştur";
 "SkinSoundEffects" = "Tema Ses Efektleri";
 "FirstAnniversary" = "BURADA OLDUĞUNUZ İÇİN TEŞEKKÜRLER,\nSİZE BİR ŞEYLER YAZDIK";
-"ApirlFoolsDayTitle" = "Hay aksi, Manic EMU bozuldu mu?";
+"ApirlFoolsDayTitle" = "Hay aksi, WizardiOS bozuldu mu?";
 "ApirlFoolsDayDetail" = "Endişelenmeyin!\nSadece bir şaka—1 Nisan Kutlu Olsun!\n\nBunu kapattığınızda her şey normale dönecek.";
 "JITType" = "JIT Türü";
 "JITTypeDesc" = "Standart JIT en iyi performansı sunarken, IR JIT orta düzeyde performans sağlar.";
 "Pretendo" = "Pretendo Ağı";
 "BadIpAddress" = "Geçersiz IP adresi. Lütfen tekrar deneyin.";
 "ArticBaseSettings" = "Artic Base Ayarları";
-"ArticBaseDesc" = "Azahar ekibi tarafından geliştirilen Artic Base, gerçek bir 3DS cihazına özel verilerin Manic EMU'ya aktarılmasını sağlar. Bu veriler, ağ özelliklerini etkinleştirmek için gereklidir.\n\nAktarımı tamamlamak için aşağıdaki adımları izleyin:\n1. 3DS'inize %@ kurun ve hizmeti başlatın.\n2. Manic EMU ve 3DS'inizin aynı ağa bağlı olduğundan emin olun.\n3. Aşağıya 3DS ekranınızda gösterilen IP adresini girin.\n4. \"Aktarımı Başlat\"a dokunun ve sistem güncellemesini tamamlayın.\n\nBu adımları tamamladıktan sonra kitaplığınızda bir Ana Menü girişi görünecektir.";
-"ArticBaseHeadsUp" = "Gerçek bir cihazdan veri içe aktarmak, Manic EMU'daki mevcut 3DS verilerinin üzerine yazacak ve beklenmeyen sorunlara neden olabilir. Önemli kayıtlı verileriniz varsa, devam etmeden önce Manic EMU - 3DS dizinini yedeklemeniz önerilir.";
+"ArticBaseDesc" = "Azahar ekibi tarafından geliştirilen Artic Base, gerçek bir 3DS cihazına özel verilerin WizardiOS'ya aktarılmasını sağlar. Bu veriler, ağ özelliklerini etkinleştirmek için gereklidir.\n\nAktarımı tamamlamak için aşağıdaki adımları izleyin:\n1. 3DS'inize %@ kurun ve hizmeti başlatın.\n2. WizardiOS ve 3DS'inizin aynı ağa bağlı olduğundan emin olun.\n3. Aşağıya 3DS ekranınızda gösterilen IP adresini girin.\n4. \"Aktarımı Başlat\"a dokunun ve sistem güncellemesini tamamlayın.\n\nBu adımları tamamladıktan sonra kitaplığınızda bir Ana Menü girişi görünecektir.";
+"ArticBaseHeadsUp" = "Gerçek bir cihazdan veri içe aktarmak, WizardiOS'daki mevcut 3DS verilerinin üzerine yazacak ve beklenmeyen sorunlara neden olabilir. Önemli kayıtlı verileriniz varsa, devam etmeden önce WizardiOS - 3DS dizinini yedeklemeniz önerilir.";
 "StartTransfer" = "Aktarımı Başlat";
-"PretendoNimbusDesc" = "Pretendo, Nintendo 3DS çevrimiçi hizmetleri için ücretsiz ve açık kaynaklı bir yedektir ve resmi sunucular kapatıldıktan sonra bile çevrimiçi oynamaya devam etmenizi sağlar.\n\nNimbus aracı ile ağınızı kolayca Pretendo'ya geçirebilirsiniz. Kullanılabilir olduğunda \"Nimbus'u Yükle\"ye dokunun ve Manic EMU otomatik olarak Ana Menü'ye yükleyecektir.";
+"PretendoNimbusDesc" = "Pretendo, Nintendo 3DS çevrimiçi hizmetleri için ücretsiz ve açık kaynaklı bir yedektir ve resmi sunucular kapatıldıktan sonra bile çevrimiçi oynamaya devam etmenizi sağlar.\n\nNimbus aracı ile ağınızı kolayca Pretendo'ya geçirebilirsiniz. Kullanılabilir olduğunda \"Nimbus'u Yükle\"ye dokunun ve WizardiOS otomatik olarak Ana Menü'ye yükleyecektir.";
 "InstallNimbus" = "Nimbus'u Yükle";
 "InstallNimbusSuccess" = "Nimbus başarıyla yüklendi!";
 "HomeMenuDesc" = "Ana Menü'yü açmak için aşağıdaki düğmeyi kullanın. Ardından Nimbus Ayarları'na gidin, Pretendo ağına geçin ve Ayarlar'ı açarak \"Nintendo Network Kimliği\"ni seçin ve Pretendo hesabınızla oturum açın.\n\nBundan sonra, Ana Menü'den başlatılan veya Azahar çekirdeği ile çalışan herhangi bir oyun Pretendo ağını kullanacaktır.\n\nAna Menü girişi eksikse, bu özellik otomatik olarak yeniden oluşturmaya çalışacaktır.";
@@ -932,7 +932,7 @@ Kurulumunuzu bir üst seviyeye taşımak istiyorsanız, PlayCase bu kaplama içi
 "ThemeManufacturerOrderTitle" = "Üretici Sıralaması";
 "ArticBaseHomeMenuFailed" = "Sistem güncellemesi başarıyla tamamlanmamış gibi görünüyor. Ana Menü girişi oluşturulamadı. Lütfen veri aktarımını tekrar deneyin.";
 "ArticBaseHomeMenuSuccess" = "Ana Menü girişi başarıyla oluşturuldu. Sonraki adımlarla devam edebilirsiniz.";
-"NandImportHeadsUp" = "Gerçek bir 3DS cihazından Manic EMU'ya veri aktarmaya çalışıyorsanız, Artic Base özelliğini kullanmanız önerilir.";
+"NandImportHeadsUp" = "Gerçek bir 3DS cihazından WizardiOS'ya veri aktarmaya çalışıyorsanız, Artic Base özelliğini kullanmanız önerilir.";
 "ContineFilesImport" = "İçe Aktarmaya Devam Et";
 "OpenPage" = "%@'yi Aç";
 "MappingKeyboardInput" = "Klavye Girişini Eşle";

@@ -79,7 +79,7 @@
 "ImportServiceListPasteDetail" = "Understøtter filoverførsel fra macOS og Filer-app";
 "ImportHowTo" = "Sådan importerer du";
 "ImportTopHintTitle" = "Et eventyr fuld af drømme og udfordringer begynder her!";
-"ImportDragAndDropTips" = "Træk filer til enhver Manic EMU-skærm for overførsel";
+"ImportDragAndDropTips" = "Træk filer til enhver WizardiOS-skærm for overførsel";
 "ImportChannelTips" = "Besøg %@ for support";
 "ToastConnectCloudDriveSuccess" = "Forbundet til %@";
 "AlertImportFilesSuccess" = "Ressourcer importeret";
@@ -110,7 +110,7 @@
 "TimeDurationHourFormat" = "%d timer";
 "TimeDurationMinuteFormat" = "%d minutter";
 "FatalErrorTitle" = "Kritisk fejl";
-"FatalErrorDesc" = "Systemressourcer kunne ikke indlæses – Manic EMU kan være ustabil";
+"FatalErrorDesc" = "Systemressourcer kunne ikke indlæses – WizardiOS kan være ustabil";
 "LodingFailedTitle" = "Indlæsningsfejl";
 "AirPlayDesc" = "Begynd dit eventyr nu!";
 "ToastSuccess" = "Gemt succesfuldt";
@@ -169,7 +169,7 @@
 "GameSaveTitle" = "Gem tilstand %d";
 
 //Skin
-"SkinNavigationSubTitleCommon" = "Manic EMU understøtter .deltaskin .gammaskin-formater";
+"SkinNavigationSubTitleCommon" = "WizardiOS understøtter .deltaskin .gammaskin-formater";
 "SkinNavigationSubTitleSpecifiedGame" = "Tilpasset skin for %@";
 "SkinSegmentPortraitTitle" = "Portræt";
 "SkinSegmentLandscapeTitle" = "Landskab";
@@ -198,7 +198,7 @@
 "WidgetTitle" = "Hjemmeskærmswidget";
 "QATitle" = "Ofte stillede spørgsmål";
 "FeedbackTitle" = "Tilbagemelding";
-"ShareAppTitle" = "Del «Manic EMU»";
+"ShareAppTitle" = "Del «WizardiOS»";
 "JoinQQTitle" = "Tilslut QQ-kanal";
 "JoinTelegramTitle" = "Tilslut Telegram";
 "ClearCacheTitle" = "Ryd cache";
@@ -404,7 +404,7 @@
 "ThreeDSNotSupportImportSave" = "3DS-spil understøtter ikke import af gemte filer i øjeblikket";
 "ThreeDSNotSupportShareSave" = "3DS-spil understøtter ikke deling af gemte filer i øjeblikket";
 "ThreeDSBetaAlertTitle" = "Eksperimentel 3DS-version";
-"ThreeDSBetaAlertDetail" = "For at du tidligere kan opleve 3DS-spil har Manic EMU udgivet 3DS-funktionen i en eksperimentel tilstand. Visse optimeringer mangler endnu.
+"ThreeDSBetaAlertDetail" = "For at du tidligere kan opleve 3DS-spil har WizardiOS udgivet 3DS-funktionen i en eksperimentel tilstand. Visse optimeringer mangler endnu.
 
 Midlertidigt utilgængelige funktioner:
 ❌ AirPlay Fuldskærmstilstand
@@ -522,12 +522,12 @@ Tryk på controller-knappen...";
 "SwitchEmulationCoreDetail" = "Skift emulationskerne for %@\nKerneskift gør gemte spil fra forrige kerne ulæselige. Vend tilbage til original kernen for adgang";
 "BeetleSaturnNoSupportCheat" = "Beetle Saturn-kernen understøtter ikke snydekoder i øjeblikket. Skift til Yabause-kernen om nødvendigt";
 "CurrentTitle" = "nuværende";
-"NewSkinDesc" = "Manic EMU understøtter skins i .manicskin og .deltaskin .gammaskin-formater. Bemærk: Importeret skin skal matche nuværende platform, ellers vises det ikke i listen.\nVi giver også adgang til tredjeparts skin-fællesskaber. Disse er ikke officielt tilknyttet Manic EMU. Overhold hjemmesiders servicevilkår ved download";
+"NewSkinDesc" = "WizardiOS understøtter skins i .manicskin og .deltaskin .gammaskin-formater. Bemærk: Importeret skin skal matche nuværende platform, ellers vises det ikke i listen.\nVi giver også adgang til tredjeparts skin-fællesskaber. Disse er ikke officielt tilknyttet WizardiOS. Overhold hjemmesiders servicevilkår ved download";
 "VisitSite" = "Besøg %@";
 "OpenFile" = "Åbn Fil";
 "WebViewDownloadBegin" = "Download påbegyndt";
 "RespectSilentMode" = "Respekter Lydløs Tilstand";
-"RespectSilentModeDesc" = "Når aktiveret, afspiller Manic EMU kun lyd uden for lydløs tilstand";
+"RespectSilentModeDesc" = "Når aktiveret, afspiller WizardiOS kun lyd uden for lydløs tilstand";
 "SaturnISONoSwitchCore" = "Sega Saturn .iso-spil understøtter ikke kerneskift";
 "EnableFullScreenTitle" = "Aktivér Fuld Skærm";
 "DisableFullScreenTitle" = "Deaktivér Fuld Skærm";
@@ -653,8 +653,8 @@ Tryk på controller-knappen...";
 "Ascending" = "Stigende";
 "Descending" = "Faldende";
 "JumpTips" = "Åbner tredjepartsside";
-"ThirdPartGameInfoTips" = "Spilinfo leveres af tredjeparter. Brug din dømmekraft. Hvis Manic EMU ikke finder et spil, brug manuel søgning.";
-"NotSupportHardcore" = "Hardcore-tilstand er deaktiveret for dette spil. Måske er Manic EMU ikke autoriseret af RetroAchievements, eller spillet understøtter det bare ikke.";
+"ThirdPartGameInfoTips" = "Spilinfo leveres af tredjeparter. Brug din dømmekraft. Hvis WizardiOS ikke finder et spil, brug manuel søgning.";
+"NotSupportHardcore" = "Hardcore-tilstand er deaktiveret for dette spil. Måske er WizardiOS ikke autoriseret af RetroAchievements, eller spillet understøtter det bare ikke.";
 "ChooseOne" = "Vælg en";
 "FilesImporterErrorBadCue" = "Import af %@ mislykkedes. filen may be invalid or not UTF-8 encoded. Tjek formatet.";
 "Leaderboard" = "Pointtavle";
@@ -671,7 +671,7 @@ Tryk på controller-knappen...";
 "AlwaysShowProgressDesc" = "Hold præstationsfremskridt synligt på skærmen.";
 "Progress" = "Fremskridt";
 
-"DCGameNoSupportGameSave" = "Dreamcast understøtter ikke import/export af gemte spil. Brug VMU Explorer til at redigere hukommelsesfiler i mappen Manic EMU-Flycast-dc.";
+"DCGameNoSupportGameSave" = "Dreamcast understøtter ikke import/export af gemte spil. Brug VMU Explorer til at redigere hukommelsesfiler i mappen WizardiOS-Flycast-dc.";
 
 "Challenge" = "Udfordring";
 "GameTypeLicensingError" = "Beklager! På grund af licensbegrænsninger med %@-kernen er denne platform midlertidigt utilgængelig. Du kan vente på en fremtidig opdatering eller bruge sideload-versionen.";
@@ -717,7 +717,7 @@ Tryk på controller-knappen...";
 "GameListBackgroundUpload" = "Upload";
 "GameplayManuals" = "Spilvejledninger";
 "GameplayManualsNoExists" = "Ingen vejledning tilgængelig for dette spil.";
-"GameplayManualsDesc" = "For at tilføje en vejledning, placer din PDF-fil i Manic EMU-appen. For at fjerne den, gå til Filer > Manic EMU > Vejledninger og slet filen.";
+"GameplayManualsDesc" = "For at tilføje en vejledning, placer din PDF-fil i WizardiOS-appen. For at fjerne den, gå til Filer > WizardiOS > Vejledninger og slet filen.";
 "CleanUnsupportSkins" = "Rens Ikke-understøttede Skins";
 "NotFoundUnsupportSkins" = "Ingen ikke-understøttede skins fundet.";
 "UnsupportSkinsDesc" = "Følgende skins understøttes ikke på denne enhed:\n%@Bemærk: Fjernelse vil også slette disse skins fra andre enheder synkroniseret via iCloud.";
@@ -801,7 +801,7 @@ Tryk på controller-knappen...";
 "Shaders" = "Shaders";
 "DownloadRetroArchShaders" = "Vil du downloade shaders fra RetroArch? Når fuldført, opdateres RetroArchs shader-kategori automatisk. Du kan annullere processen når som helst i download-manageren.";
 "RetroArchShaderUnzipFailed" = "Kunne ikke udpakke %@. Filen kan være blevet beskadiget under downloaden. Prøv at downloade den igen.";
-"ImportShader" = "Placer shader-filerne i mappen ‘Manic EMU-Shaders’, og åbn derefter denne side igen for at opdatere og indlæse shaders.";
+"ImportShader" = "Placer shader-filerne i mappen ‘WizardiOS-Shaders’, og åbn derefter denne side igen for at opdatere og indlæse shaders.";
 "CustomShaderDesc" = "Opret tilpassede shaders ved at redigere eksisterende.";
 "AppendShadersTitle" = "Tilføj shaders";
 "AppendShadersDetail" = "Tilføj shaders foran eller bagved den nuværende stak";
@@ -881,7 +881,7 @@ Hvis du vil forbedre dit setup, er PlayCase et perfekt match til dette skin.";
 "Width" = "Bredde";
 "Height" = "Højde";
 "ScreenSize" = "Skærmstørrelse";
-"J2MESettingsTips" = "På grund af forskelle i JAR-standarder registrerer Manic EMU muligvis ikke altid den korrekte skærmopløsning eller -retning. For de bedste visningsresultater kan du konfigurere dem manuelt.";
+"J2MESettingsTips" = "På grund af forskelle i JAR-standarder registrerer WizardiOS muligvis ikke altid den korrekte skærmopløsning eller -retning. For de bedste visningsresultater kan du konfigurere dem manuelt.";
 "J2MEScreenChange" = "J2ME-skærmindstillinger er gemt. For at anvende ændringerne med det samme skal spillet nulstilles. Ikke-gemte fremskridt kan gå tabt. Nulstil nu?";
 "Later" = "Senere";
 "ResetImmediately" = "Nulstil nu";
@@ -891,22 +891,22 @@ Hvis du vil forbedre dit setup, er PlayCase et perfekt match til dette skin.";
 "ConfigsResetCore" = "Nulstil til kerne-standard";
 "ConfigsResetBefore" = "Gå tilbage til tidligere indstillinger";
 "InsertDisc" = "Indsæt disk";
-"InsertDiscAlert" = "Du kan indsætte en disk ved at vælge et andet spil fra den samme platform i dit bibliotek eller ved at vælge en diskfil fra Filer. På grund af begrænsninger i iOS-filsystemet vil diskfiler valgt fra Filer blive kopieret til Manic EMU's cache.";
+"InsertDiscAlert" = "Du kan indsætte en disk ved at vælge et andet spil fra den samme platform i dit bibliotek eller ved at vælge en diskfil fra Filer. På grund af begrænsninger i iOS-filsystemet vil diskfiler valgt fra Filer blive kopieret til WizardiOS's cache.";
 "InsertDiscFailed" = "Kunne ikke indsætte disk";
 "GenerateHomeMenu" = "Opret startmenu";
 "SkinSoundEffects" = "Skin-lydeffekter";
 "FirstAnniversary" = "TAK FORDI DU ER HER,\nVI SKREV NOGET TIL DIG";
-"ApirlFoolsDayTitle" = "Ups, er Manic EMU gået i stykker?";
+"ApirlFoolsDayTitle" = "Ups, er WizardiOS gået i stykker?";
 "ApirlFoolsDayDetail" = "Bare rolig!\nDet er bare en spøg—Glad aprilsnar!\n\nAlt vender tilbage til det normale, når du lukker dette.";
 "JITType" = "JIT-type";
 "JITTypeDesc" = "Standard JIT tilbyder den bedste ydeevne, mens IR JIT tilbyder moderat ydeevne.";
 "Pretendo" = "Pretendo-netværk";
 "BadIpAddress" = "Ugyldig IP-adresse. Prøv igen.";
 "ArticBaseSettings" = "Artic Base-indstillinger";
-"ArticBaseDesc" = "Artic Base, udviklet af Azahar-teamet, gør det muligt at overføre data, der er unikke for en rigtig 3DS-enhed, til Manic EMU. Disse data er nødvendige for at aktivere netværksfunktioner.\n\nFølg nedenstående trin for at fuldføre overførslen:\n1. Installer %@ på din 3DS, og start tjenesten.\n2. Sørg for, at Manic EMU og din 3DS er forbundet til det samme netværk.\n3. Indtast IP-adressen, der vises på din 3DS-skærm nedenfor.\n4. Tryk på \"Start overførsel\", og fuldfør systemopdateringen.\n\nNår disse trin er fuldført, vises en startmenupost i dit bibliotek.";
-"ArticBaseHeadsUp" = "Import af data fra en rigtig enhed vil overskrive eksisterende 3DS-data i Manic EMU og kan forårsage uventede problemer. Hvis du har vigtige gemte data, anbefales det at sikkerhedskopiere mappen Manic EMU - 3DS, før du fortsætter.";
+"ArticBaseDesc" = "Artic Base, udviklet af Azahar-teamet, gør det muligt at overføre data, der er unikke for en rigtig 3DS-enhed, til WizardiOS. Disse data er nødvendige for at aktivere netværksfunktioner.\n\nFølg nedenstående trin for at fuldføre overførslen:\n1. Installer %@ på din 3DS, og start tjenesten.\n2. Sørg for, at WizardiOS og din 3DS er forbundet til det samme netværk.\n3. Indtast IP-adressen, der vises på din 3DS-skærm nedenfor.\n4. Tryk på \"Start overførsel\", og fuldfør systemopdateringen.\n\nNår disse trin er fuldført, vises en startmenupost i dit bibliotek.";
+"ArticBaseHeadsUp" = "Import af data fra en rigtig enhed vil overskrive eksisterende 3DS-data i WizardiOS og kan forårsage uventede problemer. Hvis du har vigtige gemte data, anbefales det at sikkerhedskopiere mappen WizardiOS - 3DS, før du fortsætter.";
 "StartTransfer" = "Start overførsel";
-"PretendoNimbusDesc" = "Pretendo er en gratis open source-erstatning for Nintendos 3DS-onlinetjenester, der giver mulighed for fortsat onlinespil, selv efter de officielle servere er lukket.\n\nMed Nimbus-værktøjet kan du nemt skifte dit netværk til Pretendo. Når det er tilgængeligt, skal du trykke på \"Installer Nimbus\", og Manic EMU installerer det automatisk i startmenuen.";
+"PretendoNimbusDesc" = "Pretendo er en gratis open source-erstatning for Nintendos 3DS-onlinetjenester, der giver mulighed for fortsat onlinespil, selv efter de officielle servere er lukket.\n\nMed Nimbus-værktøjet kan du nemt skifte dit netværk til Pretendo. Når det er tilgængeligt, skal du trykke på \"Installer Nimbus\", og WizardiOS installerer det automatisk i startmenuen.";
 "InstallNimbus" = "Installer Nimbus";
 "InstallNimbusSuccess" = "Nimbus blev installeret!";
 "HomeMenuDesc" = "Brug knappen nedenfor til at åbne startmenuen. Gå derefter til Nimbus-indstillinger, skift til Pretendo-netværket, og åbn Indstillinger for at vælge \"Nintendo Network ID\" og log ind med din Pretendo-konto.\n\nDerefter vil alle spil, der startes fra startmenuen eller kører med Azahar-kernen, bruge Pretendo-netværket.\n\nHvis startmenuposten mangler, vil denne funktion forsøge at genskabe den automatisk.";
@@ -930,7 +930,7 @@ Hvis du vil forbedre dit setup, er PlayCase et perfekt match til dette skin.";
 "ThemeManufacturerOrderTitle" = "Producentrækkefølge";
 "ArticBaseHomeMenuFailed" = "Det ser ud til, at systemopdateringen ikke blev fuldført. Startmenuposten kunne ikke oprettes. Prøv dataoverførslen igen.";
 "ArticBaseHomeMenuSuccess" = "Startmenuposten er blevet oprettet. Du kan fortsætte med de næste trin.";
-"NandImportHeadsUp" = "Hvis du forsøger at overføre data fra en rigtig 3DS-enhed til Manic EMU, anbefales det at bruge Artic Base-funktionen.";
+"NandImportHeadsUp" = "Hvis du forsøger at overføre data fra en rigtig 3DS-enhed til WizardiOS, anbefales det at bruge Artic Base-funktionen.";
 "ContineFilesImport" = "Fortsæt import";
 "OpenPage" = "Åbn %@";
 "MappingKeyboardInput" = "Kortlæg tastaturinput";

@@ -79,7 +79,7 @@
 "ImportServiceListPasteDetail" = "Permet importar fitxers copiats des de macOS o l'aplicació Fitxers";
 "ImportHowTo" = "Com importar";
 "ImportTopHintTitle" = "Aquí comença una història plena de somnis i aventures!";
-"ImportDragAndDropTips" = "Arrossega fitxers a qualsevol finestra del Manic EMU per transferir-los";
+"ImportDragAndDropTips" = "Arrossega fitxers a qualsevol finestra del WizardiOS per transferir-los";
 "ImportChannelTips" = "Si tens dubtes, uneix-te al %@ per obtenir ajuda";
 "ToastConnectCloudDriveSuccess" = "S'ha connectat a %@ correctament";
 "AlertImportFilesSuccess" = "Recursos importats correctament";
@@ -110,7 +110,7 @@
 "TimeDurationHourFormat" = "%d hores";
 "TimeDurationMinuteFormat" = "%d minuts";
 "FatalErrorTitle" = "Error fatal";
-"FatalErrorDesc" = "Error en carregar els recursos del sistema, Manic EMU podria tenir problemes greus de funcionament";
+"FatalErrorDesc" = "Error en carregar els recursos del sistema, WizardiOS podria tenir problemes greus de funcionament";
 "LodingFailedTitle" = "Error en carregar";
 "AirPlayDesc" = "Comença l'aventura!";
 "ToastSuccess" = "S'ha desat correctament";
@@ -169,7 +169,7 @@
 "GameSaveTitle" = "Partida guardada %d";
 
 //Skin
-"SkinNavigationSubTitleCommon" = "Manic EMU és compatible amb skins en format .deltaskin .gammaskin";
+"SkinNavigationSubTitleCommon" = "WizardiOS és compatible amb skins en format .deltaskin .gammaskin";
 "SkinNavigationSubTitleSpecifiedGame" = "Configura una skin només per a %@";
 "SkinSegmentPortraitTitle" = "Vertical";
 "SkinSegmentLandscapeTitle" = "Horitzontal";
@@ -198,7 +198,7 @@
 "WidgetTitle" = "Ginys d'escriptori";
 "QATitle" = "Preguntes freqüents";
 "FeedbackTitle" = "Comentaris";
-"ShareAppTitle" = "Comparteix «Manic EMU» amb amics";
+"ShareAppTitle" = "Comparteix «WizardiOS» amb amics";
 "JoinQQTitle" = "Uneix-te al canal QQ";
 "JoinTelegramTitle" = "Uneix-te a Telegram";
 "ClearCacheTitle" = "Esborrar memòria cau";
@@ -213,7 +213,7 @@
 "RatingTitleRight" = "";
 "RatingDetail" = "Si creus que el nostre producte té valor, si us plau, dóna'ns 5 estrelles. La teva opinió és molt important per a nosaltres :)";
 "iCloudDisableTitle" = "iCloud no disponible temporalment";
-"iCloudDisableDetail" = "S'ha intentat activar la sincronització amb iCloud. Només es farà efectiva quan hagis iniciat sessió i autoritzat iCloud. Ves a «Configuració» > «Apple ID» > «iCloud» i assegura't que iCloud Drive està activat i que Manic EMU té permís per accedir-hi";
+"iCloudDisableDetail" = "S'ha intentat activar la sincronització amb iCloud. Només es farà efectiva quan hagis iniciat sessió i autoritzat iCloud. Ves a «Configuració» > «Apple ID» > «iCloud» i assegura't que iCloud Drive està activat i que WizardiOS té permís per accedir-hi";
 "iCloudSyncConfilictTitle" = "Conflicte de sincronització amb iCloud";
 "iCloudSyncConfilictDetail" = "Fitxer al núvol:\n%@\n\nFitxer local:\n%@";
 "iCloudSyncConfilictSaveiCloud" = "Conservar el de iCloud";
@@ -227,7 +227,7 @@
 "SendEmailSuccess" = "S'ha enviat el correu electrònic correctament";
 "SendEmailFailed" = "Error en enviar el correu electrònic %@";
 "iCloudTipsTitle" = "Activar la sincronització amb iCloud";
-"iCloudTipsDetail" = "Activa la sincronització amb iCloud per compartir tot el contingut de Manic EMU entre dispositius amb el mateix Apple ID. En activar-la, totes les teves dades es pujaran a iCloud, cosa que ocuparà espai d'emmagatzematge. Si no n'hi ha prou, la sincronització podria fallar. Un cop sincronitzades, les teves dades s'emmagatzemaran al núvol i, si no s'han descarregat, podria no ser possible jugar correctament!";
+"iCloudTipsDetail" = "Activa la sincronització amb iCloud per compartir tot el contingut de WizardiOS entre dispositius amb el mateix Apple ID. En activar-la, totes les teves dades es pujaran a iCloud, cosa que ocuparà espai d'emmagatzematge. Si no n'hi ha prou, la sincronització podria fallar. Un cop sincronitzades, les teves dades s'emmagatzemaran al núvol i, si no s'han descarregat, podria no ser possible jugar correctament!";
 "iCloudConfirm" = "Continuar amb l'activació";
 
 //Play
@@ -351,7 +351,7 @@
 "AnnualMemberTitle" = "Super membre anual";
 "MonthlyMemberTitle" = "Aventurer mensual";
 "ForeverMemberTitle" = "Membre permanent";
-"PurchaseVerifiedFailed" = "No s'ha pogut verificar el rebut de pagament. Assegura't que tens connexió a Internet i reinicia Manic EMU per tornar-ho a intentar";
+"PurchaseVerifiedFailed" = "No s'ha pogut verificar el rebut de pagament. Assegura't que tens connexió a Internet i reinicia WizardiOS per tornar-ho a intentar";
 "PurchaseCancel" = "S'ha cancel·lat el teu pagament. Has perdut l'oportunitat de desbloquejar funcions avançades";
 "PurchasePending" = "El teu pagament està pendent. Un cop completat, s'activarà la teva membresia";
 "PurchaseUnknown" = "Estat de pagament desconegut";
@@ -372,24 +372,24 @@
 "Hi" = "Hola,";
 
 //Permission
-"PrePermissionPhotoTitle" = "Permets que Manic EMU accedeixi al teu àlbum?";
+"PrePermissionPhotoTitle" = "Permets que WizardiOS accedeixi al teu àlbum?";
 "PrePermissionPhotoMessage" = "Permet l'accés per guardar captures de pantalla del joc a l'àlbum i seleccionar imatges com a portades dels jocs";
 "PrePermissionPhotoCancel" = "Ara no";
 "PrePermissionPhotoConfirm" = "Permetre";
-"DeniedPermissionPhotoTitle" = "Manic EMU no pot accedir al teu àlbum!";
-"DeniedPermissionPhotoMessage" = "Per poder guardar captures de pantalla, cal que autoritzis l'accés a l'àlbum per a Manic EMU";
+"DeniedPermissionPhotoTitle" = "WizardiOS no pot accedir al teu àlbum!";
+"DeniedPermissionPhotoMessage" = "Per poder guardar captures de pantalla, cal que autoritzis l'accés a l'àlbum per a WizardiOS";
 "DeniedPermissionPhotoCancel" = "No";
 "DeniedPermissionPhotoConfirm" = "Autoritzar";
-"PrePermissionCameraTitle" = "Permets que Manic EMU accedeixi a la teva càmera?";
+"PrePermissionCameraTitle" = "Permets que WizardiOS accedeixi a la teva càmera?";
 "PrePermissionCameraMessage" = "Permet l'accés per fer fotos com a portades dels jocs";
 "PrePermissionCameraCancel" = "Ara no";
 "PrePermissionCameraConfirm" = "Permetre";
-"DeniedPermissionCameraTitle" = "Manic EMU no pot accedir a la teva càmera!";
-"DeniedPermissionCameraMessage" = "Cal que autoritzis l'accés a la càmera per a Manic EMU per poder fer fotos com a portades dels jocs!";
+"DeniedPermissionCameraTitle" = "WizardiOS no pot accedir a la teva càmera!";
+"DeniedPermissionCameraMessage" = "Cal que autoritzis l'accés a la càmera per a WizardiOS per poder fer fotos com a portades dels jocs!";
 "DeniedPermissionCameraCancel" = "No";
 "DeniedPermissionCameraConfirm" = "Autoritzar";
-"DeniedPermissionMicTitle" = "Manic EMU no pot utilitzar el teu micròfon";
-"DeniedPermissionMicMessage" = "Cal que autoritzes l'accés al micròfon per a Manic EMU, o algunes funcions dels jocs DS podrien no funcionar correctament!";
+"DeniedPermissionMicTitle" = "WizardiOS no pot utilitzar el teu micròfon";
+"DeniedPermissionMicMessage" = "Cal que autoritzes l'accés al micròfon per a WizardiOS, o algunes funcions dels jocs DS podrien no funcionar correctament!";
 "DeniedPermissionMicCancel" = "No";
 "DeniedPermissionMicConfirm" = "Autoritzar";
 
@@ -408,7 +408,7 @@
 "ThreeDSNotSupportImportSave" = "Els jocs 3DS encara no admeten importar partides";
 "ThreeDSNotSupportShareSave" = "Els jocs 3DS encara no admeten compartir partides";
 "ThreeDSBetaAlertTitle" = "Versió Beta 3DS";
-"ThreeDSBetaAlertDetail" = "Perquè pugueu gaudir abans dels jocs 3DS, Manic EMU ha llançat suport per a 3DS, però encara es troba en fase experimental. Algunes funcions requereixen més optimització.
+"ThreeDSBetaAlertDetail" = "Perquè pugueu gaudir abans dels jocs 3DS, WizardiOS ha llançat suport per a 3DS, però encara es troba en fase experimental. Algunes funcions requereixen més optimització.
 Les funcions següents són temporalment indisponibles:
 ❌ Mode de pantalla completa amb AirPlay
 ❌ Desat automàtic
@@ -524,12 +524,12 @@ Prem el botó del control...";
 "SwitchEmulationCoreDetail" = "Canvia el nucli d'emulació per a %@\nEl canvi de nucli farà que les partides desades del nucli anterior siguin illegibles. Per accedir, torna al nucli original";
 "BeetleSaturnNoSupportCheat" = "El nucli Beetle Saturn no admet codis de trampa actualment. Si cal, canvia al nucli Yabause";
 "CurrentTitle" = "actual";
-"NewSkinDesc" = "Manic EMU admet pells en formats .manicskin i .deltaskin .gammaskin. Nota: La pell importada ha de coincidir amb la plataforma actual, sinó no apareixerà a la llista.\nTambé oferim accés a comunitats de pells de tercers. Aquestes no estan afiliades oficialment amb Manic EMU. En descarregar, respecteu els termes de servei de cada lloc web";
+"NewSkinDesc" = "WizardiOS admet pells en formats .manicskin i .deltaskin .gammaskin. Nota: La pell importada ha de coincidir amb la plataforma actual, sinó no apareixerà a la llista.\nTambé oferim accés a comunitats de pells de tercers. Aquestes no estan afiliades oficialment amb WizardiOS. En descarregar, respecteu els termes de servei de cada lloc web";
 "VisitSite" = "Visita %@";
 "OpenFile" = "Obrir Fitxer";
 "WebViewDownloadBegin" = "S'ha iniciat la descàrrega";
 "RespectSilentMode" = "Respecta Mode Silenci";
-"RespectSilentModeDesc" = "Quan està activat, Manic EMU només reprodueix àudio fora del mode silenci";
+"RespectSilentModeDesc" = "Quan està activat, WizardiOS només reprodueix àudio fora del mode silenci";
 "SaturnISONoSwitchCore" = "Els jocs Sega Saturn en format .iso no admeten canvi de nucli";
 "EnableFullScreenTitle" = "Activar Pantalla Completa";
 "DisableFullScreenTitle" = "Desactivar Pantalla Completa";
@@ -655,8 +655,8 @@ Prem el botó del control...";
 "Ascending" = "Ascendent";
 "Descending" = "Descendent";
 "JumpTips" = "S'obre una pàgina de tercers";
-"ThirdPartGameInfoTips" = "La informació del joc la proporcionen tercers. Utilitza el teu judici i segueix les normes de la plataforma. Si Manic EMU no troba un joc, fes servir la cerca per trobar-lo manualment.";
-"NotSupportHardcore" = "El mode Hardcore està desactivat per a aquest joc. Potser Manic EMU no està autoritzat per RetroAchievements, o el joc simplement no suporta el mode hardcore.";
+"ThirdPartGameInfoTips" = "La informació del joc la proporcionen tercers. Utilitza el teu judici i segueix les normes de la plataforma. Si WizardiOS no troba un joc, fes servir la cerca per trobar-lo manualment.";
+"NotSupportHardcore" = "El mode Hardcore està desactivat per a aquest joc. Potser WizardiOS no està autoritzat per RetroAchievements, o el joc simplement no suporta el mode hardcore.";
 "ChooseOne" = "Tria'n un";
 "FilesImporterErrorBadCue" = "Error en importar %@. El fitxer pot ser invàlid o no codificat en UTF-8. Comprova el format.";
 "Leaderboard" = "Taula de classificació";
@@ -673,7 +673,7 @@ Prem el botó del control...";
 "AlwaysShowProgressDesc" = "Mantingues el progrés dels assoliments visible a la pantalla.";
 "Progress" = "Progrés";
 
-"DCGameNoSupportGameSave" = "Dreamcast no admet importar/exportar partides. Utilitza VMU Explorer per editar fitxers de memòria a la carpeta Manic EMU-Flycast-dc.";
+"DCGameNoSupportGameSave" = "Dreamcast no admet importar/exportar partides. Utilitza VMU Explorer per editar fitxers de memòria a la carpeta WizardiOS-Flycast-dc.";
 
 "Challenge" = "Repte";
 "GameTypeLicensingError" = "Ho sentim! A causa de restriccions de llicència amb el nucli %@, aquesta plataforma no està disponible temporalment. Pots esperar una futura actualització o fer servir la versió sideload.";
@@ -719,7 +719,7 @@ Prem el botó del control...";
 "GameListBackgroundUpload" = "Puja";
 "GameplayManuals" = "Manuals de Joc";
 "GameplayManualsNoExists" = "No hi ha manual disponible per a aquest joc.";
-"GameplayManualsDesc" = "Per afegir un manual, col·locau el fitxer PDF a l'app Manic EMU. Per eliminar-lo, aneu a Fitxers > Manic EMU > Manuals i suprimiu el fitxer.";
+"GameplayManualsDesc" = "Per afegir un manual, col·locau el fitxer PDF a l'app WizardiOS. Per eliminar-lo, aneu a Fitxers > WizardiOS > Manuals i suprimiu el fitxer.";
 "CleanUnsupportSkins" = "Neteja Skins No Suportats";
 "NotFoundUnsupportSkins" = "No s'han trobat skins no suportats.";
 "UnsupportSkinsDesc" = "Els següents skins no són suportats en aquest dispositiu:\n%@Nota: Eliminar-los també suprimirà aquests skins d'altres dispositius sincronitzats via iCloud.";
@@ -803,7 +803,7 @@ Prem el botó del control...";
 "Shaders" = "Shaders";
 "DownloadRetroArchShaders" = "Vols descarregar shaders del RetroArch? Un cop completat, la categoria de shaders RetroArch s’actualitzarà automàticament. Pots cancel·lar aquest procés en qualsevol moment al gestor de descàrregues.";
 "RetroArchShaderUnzipFailed" = "No s’ha pogut extreure %@. És possible que el fitxer s’hagi danyat durant la descàrrega. Torneu-ho a provar.";
-"ImportShader" = "Col·loqueu els fitxers de shaders a la carpeta ‘Manic EMU-Shaders’ i després torneu a obrir aquesta pàgina per actualitzar i carregar els shaders.";
+"ImportShader" = "Col·loqueu els fitxers de shaders a la carpeta ‘WizardiOS-Shaders’ i després torneu a obrir aquesta pàgina per actualitzar i carregar els shaders.";
 "CustomShaderDesc" = "Crea shaders personalitzats editant els existents.";
 "AppendShadersTitle" = "Afegeix shaders";
 "AppendShadersDetail" = "Afegeix shaders al principi o al final de la pila actual";
@@ -883,7 +883,7 @@ Si voleu millorar la vostra configuració, PlayCase és el complement perfecte p
 "Width" = "Amplada";
 "Height" = "Alçada";
 "ScreenSize" = "Mida de pantalla";
-"J2MESettingsTips" = "A causa de les diferències en els estàndards JAR, Manic EMU pot no detectar sempre la resolució o orientació de pantalla correcta. Per obtenir els millors resultats de visualització, pots configurar-les manualment.";
+"J2MESettingsTips" = "A causa de les diferències en els estàndards JAR, WizardiOS pot no detectar sempre la resolució o orientació de pantalla correcta. Per obtenir els millors resultats de visualització, pots configurar-les manualment.";
 "J2MEScreenChange" = "S'han desat els paràmetres de pantalla J2ME. Per aplicar els canvis immediatament, cal reiniciar el joc. Es pot perdre qualsevol progrés no desat. Reiniciar ara?";
 "Later" = "Més tard";
 "ResetImmediately" = "Reinicia ara";
@@ -893,22 +893,22 @@ Si voleu millorar la vostra configuració, PlayCase és el complement perfecte p
 "ConfigsResetCore" = "Restableix als valors per defecte del nucli";
 "ConfigsResetBefore" = "Reverteix als paràmetres anteriors";
 "InsertDisc" = "Insereix disc";
-"InsertDiscAlert" = "Pots inserir un disc seleccionant un altre joc de la mateixa plataforma a la teva biblioteca, o triant un fitxer de disc des de Fitxers. A causa de les limitacions del sistema de fitxers d'iOS, els fitxers de disc seleccionats des de Fitxers es copiaran a la memòria cau de Manic EMU.";
+"InsertDiscAlert" = "Pots inserir un disc seleccionant un altre joc de la mateixa plataforma a la teva biblioteca, o triant un fitxer de disc des de Fitxers. A causa de les limitacions del sistema de fitxers d'iOS, els fitxers de disc seleccionats des de Fitxers es copiaran a la memòria cau de WizardiOS.";
 "InsertDiscFailed" = "No s'ha pogut inserir el disc";
 "GenerateHomeMenu" = "Crea el menú d'inici";
 "SkinSoundEffects" = "Efectes de so de la pell";
 "FirstAnniversary" = "GRÀCIES PER SER AQUÍ,\N T'HEM ESCRIT UNA COSA";
-"ApirlFoolsDayTitle" = "Vaja, s'ha espatllat Manic EMU?";
+"ApirlFoolsDayTitle" = "Vaja, s'ha espatllat WizardiOS?";
 "ApirlFoolsDayDetail" = "No et preocupis!\nNomés és una broma—Feliç Dia d'Innocents!\n\nTot tornarà a la normalitat quan tanquis això.";
 "JITType" = "Tipus de JIT";
 "JITTypeDesc" = "El JIT estàndard ofereix el millor rendiment, mentre que el JIT IR ofereix un rendiment moderat.";
 "Pretendo" = "Xarxa Pretendo";
 "BadIpAddress" = "Adreça IP no vàlida. Si us plau, torneu-ho a provar.";
 "ArticBaseSettings" = "Configuració d'Artic Base";
-"ArticBaseDesc" = "Artic Base, desenvolupat per l'equip Azahar, permet transferir dades úniques d'un dispositiu 3DS real a Manic EMU. Aquestes dades són necessàries per activar les funcions de xarxa.\n\nSeguiu els passos següents per completar la transferència:\n1. Instal·leu %@ al vostre 3DS i inicieu el servei.\n2. Assegureu-vos que el Manic EMU i el vostre 3DS estiguin connectats a la mateixa xarxa.\n3. Introduïu l'adreça IP que es mostra a la pantalla del vostre 3DS a continuació.\n4. Toqueu \"Inicia la transferència\" i completeu l'actualització del sistema.\n\nDesprés de completar aquests passos, apareixerà una entrada del Menú Inicial a la vostra biblioteca.";
-"ArticBaseHeadsUp" = "Importar dades d'un dispositiu real sobreescriurà les dades 3DS existents a Manic EMU i pot causar problemes inesperats. Si teniu dades de desament importants, es recomana fer una còpia de seguretat del directori Manic EMU - 3DS abans de continuar.";
+"ArticBaseDesc" = "Artic Base, desenvolupat per l'equip Azahar, permet transferir dades úniques d'un dispositiu 3DS real a WizardiOS. Aquestes dades són necessàries per activar les funcions de xarxa.\n\nSeguiu els passos següents per completar la transferència:\n1. Instal·leu %@ al vostre 3DS i inicieu el servei.\n2. Assegureu-vos que el WizardiOS i el vostre 3DS estiguin connectats a la mateixa xarxa.\n3. Introduïu l'adreça IP que es mostra a la pantalla del vostre 3DS a continuació.\n4. Toqueu \"Inicia la transferència\" i completeu l'actualització del sistema.\n\nDesprés de completar aquests passos, apareixerà una entrada del Menú Inicial a la vostra biblioteca.";
+"ArticBaseHeadsUp" = "Importar dades d'un dispositiu real sobreescriurà les dades 3DS existents a WizardiOS i pot causar problemes inesperats. Si teniu dades de desament importants, es recomana fer una còpia de seguretat del directori WizardiOS - 3DS abans de continuar.";
 "StartTransfer" = "Inicia la transferència";
-"PretendoNimbusDesc" = "Pretendo és un reemplaçament gratuït i de codi obert per als serveis en línia de Nintendo 3DS, que permet continuar jugant en línia fins i tot després que els servidors oficials es tanquin.\n\nAmb l'eina Nimbus, podeu canviar fàcilment la vostra xarxa a Pretendo. Quan estigui disponible, toqueu \"Instal·la Nimbus\" i Manic EMU l'instal·larà automàticament al Menú Inicial.";
+"PretendoNimbusDesc" = "Pretendo és un reemplaçament gratuït i de codi obert per als serveis en línia de Nintendo 3DS, que permet continuar jugant en línia fins i tot després que els servidors oficials es tanquin.\n\nAmb l'eina Nimbus, podeu canviar fàcilment la vostra xarxa a Pretendo. Quan estigui disponible, toqueu \"Instal·la Nimbus\" i WizardiOS l'instal·larà automàticament al Menú Inicial.";
 "InstallNimbus" = "Instal·la Nimbus";
 "InstallNimbusSuccess" = "Nimbus instal·lat correctament!";
 "HomeMenuDesc" = "Utilitzeu el botó de sota per obrir el Menú Inicial. A continuació, aneu a Configuració de Nimbus, canvieu a la xarxa Pretendo i obriu Configuració per seleccionar \"ID de Nintendo Network\" i inicieu sessió amb el vostre compte de Pretendo.\n\nDesprés d'això, qualsevol joc iniciat des del Menú Inicial o que s'executi amb el nucli Azahar utilitzarà la xarxa Pretendo.\n\nSi falta l'entrada del Menú Inicial, aquesta funció intentarà recrear-la automàticament.";
@@ -932,7 +932,7 @@ Si voleu millorar la vostra configuració, PlayCase és el complement perfecte p
 "ThemeManufacturerOrderTitle" = "Ordre del fabricant";
 "ArticBaseHomeMenuFailed" = "Sembla que l'actualització del sistema no s'ha completat correctament. No s'ha pogut crear l'entrada del Menú Inicial. Torneu a provar la transferència de dades.";
 "ArticBaseHomeMenuSuccess" = "L'entrada del Menú Inicial s'ha creat correctament. Podeu continuar amb els següents passos.";
-"NandImportHeadsUp" = "Si intenteu transferir dades d'un dispositiu 3DS real a Manic EMU, es recomana utilitzar la funció Artic Base.";
+"NandImportHeadsUp" = "Si intenteu transferir dades d'un dispositiu 3DS real a WizardiOS, es recomana utilitzar la funció Artic Base.";
 "ContineFilesImport" = "Continua la importació";
 "OpenPage" = "Obre %@";
 "MappingKeyboardInput" = "Mapa l'entrada del teclat";

@@ -79,7 +79,7 @@
 "ImportServiceListPasteDetail" = "Sokongan salinan fail dari macOS atau aplikasi Fail";
 "ImportHowTo" = "Cara Import";
 "ImportTopHintTitle" = "Sebuah cerita penuh impian dan pengembaraan akan bermula di sini!";
-"ImportDragAndDropTips" = "Seret fail ke mana-mana antaramuka Manic EMU untuk pemindahan";
+"ImportDragAndDropTips" = "Seret fail ke mana-mana antaramuka WizardiOS untuk pemindahan";
 "ImportChannelTips" = "Sertai %@ untuk bantuan sekiranya ada pertanyaan";
 "ToastConnectCloudDriveSuccess" = "Berjaya sambung ke %@";
 "AlertImportFilesSuccess" = "Import sumber berjaya";
@@ -110,7 +110,7 @@
 "TimeDurationHourFormat" = "%d jam";
 "TimeDurationMinuteFormat" = "%d minit";
 "FatalErrorTitle" = "Ralat Kritikal";
-"FatalErrorDesc" = "Sistem gagal memuat sumber, Manic EMU mungkin tidak berfungsi dengan baik";
+"FatalErrorDesc" = "Sistem gagal memuat sumber, WizardiOS mungkin tidak berfungsi dengan baik";
 "LodingFailedTitle" = "Gagal Muat";
 "AirPlayDesc" = "Mari mulakan pengembaraan!";
 "ToastSuccess" = "Simpan Berjaya";
@@ -169,7 +169,7 @@
 "GameSaveTitle" = "Simpanan %d";
 
 //Skin
-"SkinNavigationSubTitleCommon" = "Manic EMU menyokong format kulit .deltaskin .gammaskin";
+"SkinNavigationSubTitleCommon" = "WizardiOS menyokong format kulit .deltaskin .gammaskin";
 "SkinNavigationSubTitleSpecifiedGame" = "Khusus untuk %@";
 "SkinSegmentPortraitTitle" = "Mod Potret";
 "SkinSegmentLandscapeTitle" = "Mod Landskap";
@@ -198,7 +198,7 @@
 "WidgetTitle" = "Widget Desktop";
 "QATitle" = "Soalan Lazim";
 "FeedbackTitle" = "Maklum Balas";
-"ShareAppTitle" = "Kongsi Manic EMU";
+"ShareAppTitle" = "Kongsi WizardiOS";
 "JoinQQTitle" = "Sertai Saluran QQ";
 "JoinTelegramTitle" = "Sertai Telegram";
 "ClearCacheTitle" = "Kosongkan Cache";
@@ -213,7 +213,7 @@
 "RatingTitleRight" = "";
 "RatingDetail" = "Jika anda menyukai produk kami, sila berikan 5 bintang ⭐️. Sokongan anda sangat bermakna!";
 "iCloudDisableTitle" = "iCloud Tidak Tersedia";
-"iCloudDisableDetail" = "Pergi ke Tetapan > Apple ID > iCloud dan pastikan iCloud Drive dihidupkan untuk Manic EMU";
+"iCloudDisableDetail" = "Pergi ke Tetapan > Apple ID > iCloud dan pastikan iCloud Drive dihidupkan untuk WizardiOS";
 "iCloudSyncConfilictTitle" = "Konflik Sync iCloud";
 "iCloudSyncConfilictDetail" = "Fail awan:\n%@\n\nFail tempatan:\n%@";
 "iCloudSyncConfilictSaveiCloud" = "Simpan iCloud";
@@ -344,7 +344,7 @@
 "Hi" = "Hai,";
 
 //Permission
-"PrePermissionPhotoTitle" = "Benarkan Manic EMU akses album?";
+"PrePermissionPhotoTitle" = "Benarkan WizardiOS akses album?";
 "PrePermissionPhotoMessage" = "Untuk menyimpan tangkapan skrin dan memilih kulit permainan";
 "PrePermissionPhotoCancel" = "Tidak Sekarang";
 "PrePermissionPhotoConfirm" = "Benarkan";
@@ -380,7 +380,7 @@
 "ThreeDSNotSupportImportSave" = "Permainan 3DS kini tidak menyokong import simpanan";
 "ThreeDSNotSupportShareSave" = "Permainan 3DS kini tidak menyokong perkongsian simpanan";
 "ThreeDSBetaAlertTitle" = "Versi Eksperimen 3DS";
-"ThreeDSBetaAlertDetail" = "Untuk membolehkan anda mengalami permainan 3DS lebih awal, Manic EMU telah melancarkan ciri 3DS dalam keadaan eksperimen. Beberapa pengoptimuman masih diperlukan.
+"ThreeDSBetaAlertDetail" = "Untuk membolehkan anda mengalami permainan 3DS lebih awal, WizardiOS telah melancarkan ciri 3DS dalam keadaan eksperimen. Beberapa pengoptimuman masih diperlukan.
 
 Ciri sementara tiada:
 ❌ Mod Skrin Penuh AirPlay
@@ -460,7 +460,7 @@ Tekan butang pengawal...";
 "NoSaveStateToast" = "Tiada %@";
 "DeleteSelectedSaveStateAlert" = "Padam «%@» terpilih?\nTidak boleh dipulihkan!";
 "DeleteAllSaveStateAlert" = "Tiada pilihan. Padam semua «%@»?\nTidak boleh dipulihkan!";
-"AICoverSearchDesc" = "Pengesanan carian bukan Inggeris. Naik taraf ke Premium untuk carian pelbagai bahasa AI Manic EMU";
+"AICoverSearchDesc" = "Pengesanan carian bukan Inggeris. Naik taraf ke Premium untuk carian pelbagai bahasa AI WizardiOS";
 "MaxTextSizeAllowDesc" = "Menyokong sehingga %@ aksara";
 
 "PlatformSelectionTitle" = "Pemilihan Platform";
@@ -498,12 +498,12 @@ Tekan butang pengawal...";
 "SwitchEmulationCoreDetail" = "Tukar teras emulasi untuk %@\nPenukaran teras akan menjadikan simpanan dari teras sebelumnya tidak boleh dibaca. Kembali ke teras asal untuk akses";
 "BeetleSaturnNoSupportCheat" = "Teras Beetle Saturn tidak menyokong kod tipu sekarang. Jika perlu, tukar ke teras Yabause";
 "CurrentTitle" = "semasa";
-"NewSkinDesc" = "Manic EMU menyokong kulit dalam format .manicskin dan .deltaskin .gammaskin. Nota: Kulit yang diimport mesti sepadan dengan platform semasa, jika tidak ia tidak akan muncul dalam senarai.\nKami juga menyediakan akses kepada komuniti kulit pihak ketiga. Ini tidak berkaitan secara rasmi dengan Manic EMU. Semasa muat turun, patuhi terma perkhidmatan setiap laman web";
+"NewSkinDesc" = "WizardiOS menyokong kulit dalam format .manicskin dan .deltaskin .gammaskin. Nota: Kulit yang diimport mesti sepadan dengan platform semasa, jika tidak ia tidak akan muncul dalam senarai.\nKami juga menyediakan akses kepada komuniti kulit pihak ketiga. Ini tidak berkaitan secara rasmi dengan WizardiOS. Semasa muat turun, patuhi terma perkhidmatan setiap laman web";
 "VisitSite" = "Lawati %@";
 "OpenFile" = "Buka Fail";
 "WebViewDownloadBegin" = "Muat turun bermula";
 "RespectSilentMode" = "Hormati Mod Senyap";
-"RespectSilentModeDesc" = "Apabila dihidupkan, Manic EMU hanya akan main audio di luar mod senyap";
+"RespectSilentModeDesc" = "Apabila dihidupkan, WizardiOS hanya akan main audio di luar mod senyap";
 "SaturnISONoSwitchCore" = "Permainan Sega Saturn format .iso tidak menyokong penukaran teras";
 "EnableFullScreenTitle" = "Dayakan Skrin Penuh";
 "DisableFullScreenTitle" = "Nyahdayakan Skrin Penuh";
@@ -629,8 +629,8 @@ Tekan butang pengawal...";
 "Ascending" = "Menaik";
 "Descending" = "Menurun";
 "JumpTips" = "Membuka halaman pihak ketiga";
-"ThirdPartGameInfoTips" = "Maklumat permainan provided by third parties. Gunakan pertimbangan anda. Jika Manic EMU gagal padankan permainan, gunakan carian manual.";
-"NotSupportHardcore" = "Mod Hardcore dilumpuhkan untuk permainan ini. Mungkin Manic EMU tidak dibenarkan oleh RetroAchievements, atau permainan tidak menyokong mod hardcore.";
+"ThirdPartGameInfoTips" = "Maklumat permainan provided by third parties. Gunakan pertimbangan anda. Jika WizardiOS gagal padankan permainan, gunakan carian manual.";
+"NotSupportHardcore" = "Mod Hardcore dilumpuhkan untuk permainan ini. Mungkin WizardiOS tidak dibenarkan oleh RetroAchievements, atau permainan tidak menyokong mod hardcore.";
 "ChooseOne" = "Pilih satu";
 "FilesImporterErrorBadCue" = "Gagal import %@. Fail may be invalid or not UTF-8 encoded. Sila semak format.";
 "Leaderboard" = "Papan pemimpin";
@@ -647,7 +647,7 @@ Tekan butang pengawal...";
 "AlwaysShowProgressDesc" = "Kekalkan kemajuan pencapaian kelihatan di skrin.";
 "Progress" = "Kemajuan";
 
-"DCGameNoSupportGameSave" = "Dreamcast tidak menyokong import/eksport simpanan. Gunakan VMU Explorer untuk mengedit fail memori dalam folder Manic EMU-Flycast-dc.";
+"DCGameNoSupportGameSave" = "Dreamcast tidak menyokong import/eksport simpanan. Gunakan VMU Explorer untuk mengedit fail memori dalam folder WizardiOS-Flycast-dc.";
 
 "Challenge" = "Cabaran";
 "GameTypeLicensingError" = "Maaf! Disebabkan sekatan lesen pada teras %@, platform ini tidak tersedia buat sementara. Anda boleh tunggu kemas kini akan datang atau guna versi sideload.";
@@ -693,7 +693,7 @@ Tekan butang pengawal...";
 "GameListBackgroundUpload" = "Muat Naik";
 "GameplayManuals" = "Manual Permainan";
 "GameplayManualsNoExists" = "Tiada manual tersedia untuk permainan ini.";
-"GameplayManualsDesc" = "Untuk menambah manual, letakkan fail PDF anda dalam aplikasi Manic EMU. Untuk membuangnya, pergi ke Fail > Manic EMU > Manual dan padam fail.";
+"GameplayManualsDesc" = "Untuk menambah manual, letakkan fail PDF anda dalam aplikasi WizardiOS. Untuk membuangnya, pergi ke Fail > WizardiOS > Manual dan padam fail.";
 "CleanUnsupportSkins" = "Bersihkan Kulit yang Tidak Disokong";
 "NotFoundUnsupportSkins" = "Tiada kulit tidak disokong ditemui.";
 "UnsupportSkinsDesc" = "Kulit berikut tidak disokong pada peranti ini:\n%@Nota: Membuangnya juga akan memadam kulit ini dari peranti lain yang disegerakkan melalui iCloud.";
@@ -777,7 +777,7 @@ Tekan butang pengawal...";
 "Shaders" = "Shader";
 "DownloadRetroArchShaders" = "Mahu muat turun shader daripada RetroArch? Setelah selesai, kategori shader RetroArch akan dikemas kini secara automatik. Anda boleh batalkan proses ini pada bila-bila masa di pengurus muat turun.";
 "RetroArchShaderUnzipFailed" = "Tidak dapat mengekstrak %@. Fail mungkin rosak semasa muat turun. Sila cuba muat turun semula.";
-"ImportShader" = "Letakkan fail shader dalam folder ‘Manic EMU-Shaders’, kemudian buka semula halaman ini untuk mengemas kini dan memuatkan shader.";
+"ImportShader" = "Letakkan fail shader dalam folder ‘WizardiOS-Shaders’, kemudian buka semula halaman ini untuk mengemas kini dan memuatkan shader.";
 "CustomShaderDesc" = "Buat shader tersuai dengan mengedit shader sedia ada.";
 "AppendShadersTitle" = "Tambahkan Shader";
 "AppendShadersDetail" = "Tambahkan shader di hadapan atau belakang tindanan semasa";
@@ -857,7 +857,7 @@ Jika anda ingin meningkatkan persediaan anda, PlayCase adalah padanan sempurna u
 "Width" = "Lebar";
 "Height" = "Tinggi";
 "ScreenSize" = "Saiz Skrin";
-"J2MESettingsTips" = "Disebabkan perbezaan dalam piawaian JAR, Manic EMU mungkin tidak selalu mengesan resolusi atau orientasi skrin yang betul. Untuk hasil paparan terbaik, anda boleh mengkonfigurasinya secara manual.";
+"J2MESettingsTips" = "Disebabkan perbezaan dalam piawaian JAR, WizardiOS mungkin tidak selalu mengesan resolusi atau orientasi skrin yang betul. Untuk hasil paparan terbaik, anda boleh mengkonfigurasinya secara manual.";
 "J2MEScreenChange" = "Tetapan skrin J2ME telah disimpan. Untuk menggunakan perubahan dengan segera, permainan mesti ditetapkan semula. Sebarang kemajuan yang tidak disimpan mungkin hilang. Tetapkan semula sekarang?";
 "Later" = "Nanti";
 "ResetImmediately" = "Tetapkan Semula Sekarang";
@@ -867,22 +867,22 @@ Jika anda ingin meningkatkan persediaan anda, PlayCase adalah padanan sempurna u
 "ConfigsResetCore" = "Tetapkan Semula kepada Lalai Teras";
 "ConfigsResetBefore" = "Kembali ke Tetapan Sebelumnya";
 "InsertDisc" = "Masukkan Cakera";
-"InsertDiscAlert" = "Anda boleh memasukkan cakera dengan memilih permainan lain dari platform yang sama di perpustakaan anda, atau dengan memilih fail cakera dari Fail. Disebabkan had sistem fail iOS, fail cakera yang dipilih dari Fail akan disalin ke cache Manic EMU.";
+"InsertDiscAlert" = "Anda boleh memasukkan cakera dengan memilih permainan lain dari platform yang sama di perpustakaan anda, atau dengan memilih fail cakera dari Fail. Disebabkan had sistem fail iOS, fail cakera yang dipilih dari Fail akan disalin ke cache WizardiOS.";
 "InsertDiscFailed" = "Gagal Memasukkan Cakera";
 "GenerateHomeMenu" = "Cipta Menu Utama";
 "SkinSoundEffects" = "Kesan Bunyi Kulit";
 "FirstAnniversary" = "TERIMA KASIH KERANA BERADA DI SINI,\nKAMI TULIS SESUATU UNTUK ANDA";
-"ApirlFoolsDayTitle" = "Alamak, adakah Manic EMU rosak?";
+"ApirlFoolsDayTitle" = "Alamak, adakah WizardiOS rosak?";
 "ApirlFoolsDayDetail" = "Jangan risau!\nHanya bergurau—Selamat Hari April Fool!\n\nSegala-galanya akan kembali normal setelah anda menutup ini.";
 "JITType" = "Jenis JIT";
 "JITTypeDesc" = "JIT Standard menawarkan prestasi terbaik, manakala JIT IR menawarkan prestasi sederhana.";
 "Pretendo" = "Rangkaian Pretendo";
 "BadIpAddress" = "Alamat IP tidak sah. Sila cuba lagi.";
 "ArticBaseSettings" = "Tetapan Artic Base";
-"ArticBaseDesc" = "Artic Base, dibangunkan oleh pasukan Azahar, membenarkan data unik peranti 3DS sebenar dipindahkan ke Manic EMU. Data ini diperlukan untuk mengaktifkan ciri rangkaian.\n\nIkuti langkah di bawah untuk melengkapkan pemindahan:\n1. Pasang %@ pada 3DS anda dan mulakan perkhidmatan.\n2. Pastikan Manic EMU dan 3DS anda disambungkan ke rangkaian yang sama.\n3. Masukkan alamat IP yang ditunjukkan pada skrin 3DS anda di bawah.\n4. Ketik \"Mula Pemindahan\" dan lengkapkan kemas kini sistem.\n\nSelepas melengkapkan langkah ini, entri Menu Utama akan muncul di pustaka anda.";
-"ArticBaseHeadsUp" = "Mengimport data dari peranti sebenar akan menimpa data 3DS sedia ada dalam Manic EMU dan boleh menyebabkan masalah tidak dijangka. Jika anda mempunyai data simpanan penting, adalah disyorkan untuk membuat sandaran direktori Manic EMU - 3DS sebelum meneruskan.";
+"ArticBaseDesc" = "Artic Base, dibangunkan oleh pasukan Azahar, membenarkan data unik peranti 3DS sebenar dipindahkan ke WizardiOS. Data ini diperlukan untuk mengaktifkan ciri rangkaian.\n\nIkuti langkah di bawah untuk melengkapkan pemindahan:\n1. Pasang %@ pada 3DS anda dan mulakan perkhidmatan.\n2. Pastikan WizardiOS dan 3DS anda disambungkan ke rangkaian yang sama.\n3. Masukkan alamat IP yang ditunjukkan pada skrin 3DS anda di bawah.\n4. Ketik \"Mula Pemindahan\" dan lengkapkan kemas kini sistem.\n\nSelepas melengkapkan langkah ini, entri Menu Utama akan muncul di pustaka anda.";
+"ArticBaseHeadsUp" = "Mengimport data dari peranti sebenar akan menimpa data 3DS sedia ada dalam WizardiOS dan boleh menyebabkan masalah tidak dijangka. Jika anda mempunyai data simpanan penting, adalah disyorkan untuk membuat sandaran direktori WizardiOS - 3DS sebelum meneruskan.";
 "StartTransfer" = "Mula Pemindahan";
-"PretendoNimbusDesc" = "Pretendo adalah pengganti percuma dan sumber terbuka untuk perkhidmatan dalam talian Nintendo 3DS, membolehkan permainan dalam talian berterusan walaupun selepas pelayan rasmi ditutup.\n\nDengan alat Nimbus, anda boleh menukar rangkaian anda ke Pretendo dengan mudah. Apabila tersedia, ketik \"Pasang Nimbus\" dan Manic EMU akan memasangnya secara automatik ke Menu Utama.";
+"PretendoNimbusDesc" = "Pretendo adalah pengganti percuma dan sumber terbuka untuk perkhidmatan dalam talian Nintendo 3DS, membolehkan permainan dalam talian berterusan walaupun selepas pelayan rasmi ditutup.\n\nDengan alat Nimbus, anda boleh menukar rangkaian anda ke Pretendo dengan mudah. Apabila tersedia, ketik \"Pasang Nimbus\" dan WizardiOS akan memasangnya secara automatik ke Menu Utama.";
 "InstallNimbus" = "Pasang Nimbus";
 "InstallNimbusSuccess" = "Nimbus berjaya dipasang!";
 "HomeMenuDesc" = "Gunakan butang di bawah untuk membuka Menu Utama. Kemudian pergi ke Tetapan Nimbus, beralih ke rangkaian Pretendo, dan buka Tetapan untuk memilih \"ID Rangkaian Nintendo\" dan log masuk dengan akaun Pretendo anda.\n\nSelepas itu, mana-mana permainan yang dilancarkan dari Menu Utama atau berjalan dengan teras Azahar akan menggunakan rangkaian Pretendo.\n\nJika entri Menu Utama tiada, ciri ini akan cuba menciptanya semula secara automatik.";
@@ -906,7 +906,7 @@ Jika anda ingin meningkatkan persediaan anda, PlayCase adalah padanan sempurna u
 "ThemeManufacturerOrderTitle" = "Susunan Pengeluar";
 "ArticBaseHomeMenuFailed" = "Nampaknya kemas kini sistem tidak berjaya diselesaikan. Entri Menu Utama tidak dapat dibuat. Sila cuba pemindahan data semula.";
 "ArticBaseHomeMenuSuccess" = "Entri Menu Utama telah berjaya dibuat. Anda boleh meneruskan dengan langkah seterusnya.";
-"NandImportHeadsUp" = "Jika anda cuba memindahkan data dari peranti 3DS sebenar ke Manic EMU, adalah disyorkan untuk menggunakan ciri Artic Base.";
+"NandImportHeadsUp" = "Jika anda cuba memindahkan data dari peranti 3DS sebenar ke WizardiOS, adalah disyorkan untuk menggunakan ciri Artic Base.";
 "ContineFilesImport" = "Teruskan Import";
 "OpenPage" = "Buka %@";
 "MappingKeyboardInput" = "Petakan Input Papan Kekunci";

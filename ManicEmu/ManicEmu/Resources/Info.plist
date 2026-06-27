@@ -7,11 +7,11 @@
 		<string>_manicemu._tcp</string>
 	</array>
 	<key>NSLocalNetworkUsageDescription</key>
-	<string>Manic EMU needs access to your local network to find and connect with other devices for online gaming.</string>
+	<string>WizardiOS needs access to your local network to find and connect with other devices for online gaming.</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Manic EMU</string>
+	<string>WizardiOS</string>
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>
@@ -376,7 +376,7 @@
 		</dict>
 		<dict>
 			<key>CFBundleTypeName</key>
-			<string>Manic EMU Controller Skin</string>
+			<string>WizardiOS Controller Skin</string>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>LSHandlerRank</key>
@@ -388,7 +388,7 @@
 		</dict>
 		<dict>
 			<key>CFBundleTypeName</key>
-			<string>Manic EMU Game Save</string>
+			<string>WizardiOS Game Save</string>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>LSHandlerRank</key>
@@ -400,7 +400,7 @@
 		</dict>
 		<dict>
 			<key>CFBundleTypeName</key>
-			<string>Manic EMU Zip</string>
+			<string>WizardiOS Zip</string>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>LSHandlerRank</key>
@@ -413,7 +413,7 @@
 		</dict>
 		<dict>
 			<key>CFBundleTypeName</key>
-			<string>Manic EMU BIN</string>
+			<string>WizardiOS BIN</string>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>LSHandlerRank</key>
@@ -425,7 +425,7 @@
 		</dict>
 		<dict>
 			<key>CFBundleTypeName</key>
-			<string>Manic EMU Config</string>
+			<string>WizardiOS Config</string>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>LSHandlerRank</key>
@@ -484,7 +484,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>Manic EMU</string>
+			<string>WizardiOS</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>manicemu</string>
@@ -544,15 +544,15 @@
 		</dict>
 	</dict>
 	<key>NSBluetoothAlwaysUsageDescription</key>
-	<string>Manic EMU requires the use of Bluetooth functionality to enable communication features for certain games.</string>
+	<string>WizardiOS requires the use of Bluetooth functionality to enable communication features for certain games.</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Camera access required to capture photos for custom game covers in Manic EMU</string>
+	<string>Camera access required to capture photos for custom game covers in WizardiOS</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Microphone access required for full Nintendo DS game functionality in Manic EMU</string>
+	<string>Microphone access required for full Nintendo DS game functionality in WizardiOS</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Manic EMU requires photo library access to save game screenshots and create custom game covers</string>
+	<string>WizardiOS requires photo library access to save game screenshots and create custom game covers</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Manic EMU requires photo library access to save screenshots and select images for game covers</string>
+	<string>WizardiOS requires photo library access to save screenshots and select images for game covers</string>
 	<key>NSUbiquitousContainers</key>
 	<dict>
 		<key>iCloud.com.aoshuang.manicemu</key>
@@ -560,7 +560,7 @@
 			<key>NSUbiquitousContainerIsDocumentScopePublic</key>
 			<true/>
 			<key>NSUbiquitousContainerName</key>
-			<string>Manic EMU</string>
+			<string>WizardiOS</string>
 			<key>NSUbiquitousContainerSupportedFolderLevels</key>
 			<string>Any</string>
 		</dict>
@@ -1340,7 +1340,7 @@
 				<string>public.content</string>
 			</array>
 			<key>UTTypeDescription</key>
-			<string>Manic EMU Controller Skin</string>
+			<string>WizardiOS Controller Skin</string>
 			<key>UTTypeIconFiles</key>
 			<array>
 				<string>file_icon.png</string>
@@ -1365,7 +1365,7 @@
 				<string>public.content</string>
 			</array>
 			<key>UTTypeDescription</key>
-			<string>Manic EMU Game Save</string>
+			<string>WizardiOS Game Save</string>
 			<key>UTTypeIconFiles</key>
 			<array>
 				<string>file_icon.png</string>
@@ -1393,7 +1393,7 @@
 				<string>public.archive</string>
 			</array>
 			<key>UTTypeDescription</key>
-			<string>Manic EMU Game Save</string>
+			<string>WizardiOS Game Save</string>
 			<key>UTTypeIdentifier</key>
 			<string>public.aoshuang.zip</string>
 			<key>UTTypeTagSpecification</key>
@@ -1412,7 +1412,7 @@
 				<string>public.content</string>
 			</array>
 			<key>UTTypeDescription</key>
-			<string>Manic EMU BIN</string>
+			<string>WizardiOS BIN</string>
 			<key>UTTypeIconFiles</key>
 			<array>
 				<string>file_icon.png</string>
@@ -1440,7 +1440,7 @@
 				<string>public.content</string>
 			</array>
 			<key>UTTypeDescription</key>
-			<string>Manic EMU Config</string>
+			<string>WizardiOS Config</string>
 			<key>UTTypeIconFiles</key>
 			<array>
 				<string>file_icon.png</string>

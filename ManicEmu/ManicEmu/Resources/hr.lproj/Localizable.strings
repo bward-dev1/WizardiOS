@@ -79,7 +79,7 @@
 "ImportServiceListPasteDetail" = "Podržava kopiranje datoteka iz macOS-a i aplikacije Datoteke";
 "ImportHowTo" = "Kako uvesti";
 "ImportTopHintTitle" = "Priča puna snova i avantura počinje ovdje!";
-"ImportDragAndDropTips" = "Povucite i ispustite datoteke na bilo koji Manic EMU ekran za prijenos";
+"ImportDragAndDropTips" = "Povucite i ispustite datoteke na bilo koji WizardiOS ekran za prijenos";
 "ImportChannelTips" = "Za pomoć, pridružite se %@";
 "ToastConnectCloudDriveSuccess" = "Povezivanje s %@ uspješno";
 "AlertImportFilesSuccess" = "Uvoz resursa uspješan";
@@ -110,7 +110,7 @@
 "TimeDurationHourFormat" = "%d sati";
 "TimeDurationMinuteFormat" = "%d minuta";
 "FatalErrorTitle" = "Kritična greška";
-"FatalErrorDesc" = "Učitavanje sustavnih resursa nije uspjelo, Manic EMU može imati ozbiljne nedostatke u radu";
+"FatalErrorDesc" = "Učitavanje sustavnih resursa nije uspjelo, WizardiOS može imati ozbiljne nedostatke u radu";
 "LodingFailedTitle" = "Učitavanje nije uspjelo";
 "AirPlayDesc" = "Krenite u avanturu odmah!";
 "ToastSuccess" = "Spremanje uspješno";
@@ -169,7 +169,7 @@
 "GameSaveTitle" = "Save %d";
 
 //Skin
-"SkinNavigationSubTitleCommon" = "Manic EMU savršeno podržava .deltaskin .gammaskin formate skinova";
+"SkinNavigationSubTitleCommon" = "WizardiOS savršeno podržava .deltaskin .gammaskin formate skinova";
 "SkinNavigationSubTitleSpecifiedGame" = "Skin samo za %@";
 "SkinSegmentPortraitTitle" = "Portret";
 "SkinSegmentLandscapeTitle" = "Pejzaž";
@@ -198,7 +198,7 @@
 "WidgetTitle" = "Widgeti";
 "QATitle" = "Često postavljana pitanja";
 "FeedbackTitle" = "Povratne informacije";
-"ShareAppTitle" = "Podijeli «Manic EMU» s prijateljima";
+"ShareAppTitle" = "Podijeli «WizardiOS» s prijateljima";
 "JoinQQTitle" = "Pridruži se QQ kanalu";
 "JoinTelegramTitle" = "Pridruži se Telegramu";
 "ClearCacheTitle" = "Očisti predmemoriju";
@@ -213,7 +213,7 @@
 "RatingTitleRight" = "";
 "RatingDetail" = "Ako smatrate da je naš proizvod vrijedan, molimo vas da nam date pet zvjezdica, vaša ocjena nam je jako važna : )";
 "iCloudDisableTitle" = "iCloud trenutno nedostupan";
-"iCloudDisableDetail" = "Pokrenuta je iCloud sinkronizacija, ali će se tek početi nakon što se prijavite i autorizirate iCloud. Idite na iPhone «Postavke» > «Apple ID» > «iCloud» i provjerite da je iCloud Drive uključen i da Manic EMU ima dopuštenje za pristup";
+"iCloudDisableDetail" = "Pokrenuta je iCloud sinkronizacija, ali će se tek početi nakon što se prijavite i autorizirate iCloud. Idite na iPhone «Postavke» > «Apple ID» > «iCloud» i provjerite da je iCloud Drive uključen i da WizardiOS ima dopuštenje za pristup";
 "iCloudSyncConfilictTitle" = "Sukob iCloud sinkronizacije";
 "iCloudSyncConfilictDetail" = "Cloud datoteka:\n%@\n\nLokalna datoteka:\n%@";
 "iCloudSyncConfilictSaveiCloud" = "Zadrži iCloud";
@@ -227,7 +227,7 @@
 "SendEmailSuccess" = "Email uspješno poslan";
 "SendEmailFailed" = "Slanje emaila nije uspjelo %@";
 "iCloudTipsTitle" = "Uključivanje iCloud sinkronizacije";
-"iCloudTipsDetail" = "Omogućivanjem iCloud sinkronizacije možete sinkronizirati sve sadržaje Manic EMU-a na uređajima s istim Apple ID-om. Nakon uključivanja sinkronizacije, svi vaši podaci će biti učitani u iCloud, što će zauzeti prostor na vašem iCloud računu. Ako nemate dovoljno prostora, sinkronizacija neće uspjeti! Nakon sinkronizacije, vaši podaci će biti pohranjeni u oblaku, pa možda nećete moći igrati dok se podaci ne preuzmu!";
+"iCloudTipsDetail" = "Omogućivanjem iCloud sinkronizacije možete sinkronizirati sve sadržaje WizardiOS-a na uređajima s istim Apple ID-om. Nakon uključivanja sinkronizacije, svi vaši podaci će biti učitani u iCloud, što će zauzeti prostor na vašem iCloud računu. Ako nemate dovoljno prostora, sinkronizacija neće uspjeti! Nakon sinkronizacije, vaši podaci će biti pohranjeni u oblaku, pa možda nećete moći igrati dok se podaci ne preuzmu!";
 "iCloudConfirm" = "Nastavi s uključivanjem";
 
 //Play
@@ -350,7 +350,7 @@
 "AnnualMemberTitle" = "Super godišnja članarina";
 "MonthlyMemberTitle" = "Mjesečna avantura";
 "ForeverMemberTitle" = "Trajna članarina";
-"PurchaseVerifiedFailed" = "Potvrda kupnje nije uspjela, provjerite mrežnu vezu i ponovno pokrenite Manic EMU";
+"PurchaseVerifiedFailed" = "Potvrda kupnje nije uspjela, provjerite mrežnu vezu i ponovno pokrenite WizardiOS";
 "PurchaseCancel" = "Vaša kupnja je otkazana";
 "PurchasePending" = "Vaša kupnja je na čekanju";
 "PurchaseUnknown" = "Nepoznat status kupnje";
@@ -371,24 +371,24 @@
 "Hi" = "Bok,";
 
 //Permission
-"PrePermissionPhotoTitle" = "Dopustiti Manic EMU pristup vašem fotoalbumu?";
+"PrePermissionPhotoTitle" = "Dopustiti WizardiOS pristup vašem fotoalbumu?";
 "PrePermissionPhotoMessage" = "Dozvola za pristup omogućuje spremanje snimki igre u fotoalbum i odabir slika iz albuma kao naslovnica igre";
 "PrePermissionPhotoCancel" = "Ne sada";
 "PrePermissionPhotoConfirm" = "Dopusti";
-"DeniedPermissionPhotoTitle" = "Manic EMU ne može pristupiti vašem fotoalbumu!";
-"DeniedPermissionPhotoMessage" = "Za spremanje snimki igre potrebno je dopustiti Manic EMU pristup fotoalbumu";
+"DeniedPermissionPhotoTitle" = "WizardiOS ne može pristupiti vašem fotoalbumu!";
+"DeniedPermissionPhotoMessage" = "Za spremanje snimki igre potrebno je dopustiti WizardiOS pristup fotoalbumu";
 "DeniedPermissionPhotoCancel" = "Ne";
 "DeniedPermissionPhotoConfirm" = "Idi na dopuštenja";
-"PrePermissionCameraTitle" = "Dopustiti Manic EMU pristup vašoj kameri?";
+"PrePermissionCameraTitle" = "Dopustiti WizardiOS pristup vašoj kameri?";
 "PrePermissionCameraMessage" = "Dozvola za pristup omogućuje korištenje kamere za snimanje naslovnica igara";
 "PrePermissionCameraCancel" = "Ne sada";
 "PrePermissionCameraConfirm" = "Dopusti";
-"DeniedPermissionCameraTitle" = "Manic EMU ne može pristupiti vašoj kameri!";
-"DeniedPermissionCameraMessage" = "Potrebno je dopustiti Manic EMU pristup kameri za snimanje naslovnica igara!";
+"DeniedPermissionCameraTitle" = "WizardiOS ne može pristupiti vašoj kameri!";
+"DeniedPermissionCameraMessage" = "Potrebno je dopustiti WizardiOS pristup kameri za snimanje naslovnica igara!";
 "DeniedPermissionCameraCancel" = "Ne";
 "DeniedPermissionCameraConfirm" = "Idi na dopuštenja";
-"DeniedPermissionMicTitle" = "Manic EMU ne može koristiti vaš mikrofon";
-"DeniedPermissionMicMessage" = "Potrebno je dopustiti Manic EMU pristup mikrofonu, inače neke DS igre možda neće raditi ispravno!";
+"DeniedPermissionMicTitle" = "WizardiOS ne može koristiti vaš mikrofon";
+"DeniedPermissionMicMessage" = "Potrebno je dopustiti WizardiOS pristup mikrofonu, inače neke DS igre možda neće raditi ispravno!";
 "DeniedPermissionMicCancel" = "Ne";
 "DeniedPermissionMicConfirm" = "Idi na dopuštenja";
 
@@ -407,7 +407,7 @@
 "ThreeDSNotSupportImportSave" = "3DS igre trenutno ne podržavaju uvoz sprema";
 "ThreeDSNotSupportShareSave" = "3DS igre trenutno ne podržavaju dijeljenje sprema";
 "ThreeDSBetaAlertTitle" = "Eksperimentalna verzija za 3DS";
-"ThreeDSBetaAlertDetail" = "Kako biste ranije uživali u 3DS igrama, Manic EMU je objavio podršku za 3DS, ali trenutno je u eksperimentalnoj fazi. Neke funkcije zahtijevaju dodatnu optimizaciju.
+"ThreeDSBetaAlertDetail" = "Kako biste ranije uživali u 3DS igrama, WizardiOS je objavio podršku za 3DS, ali trenutno je u eksperimentalnoj fazi. Neke funkcije zahtijevaju dodatnu optimizaciju.
 Sljedeće funkcije privremeno nedostaju:
 ❌ AirPlay na cijelom zaslonu
 ❌ Automatsko spremanje
@@ -522,12 +522,12 @@ Ako naiđete na nestabilnost u 3DS-u, pogledajte «Često Postavljana Pitanja» 
 "SwitchEmulationCoreDetail" = "Promijeni jezgru emulacije za %@\nPromjena jezgre će učiniti pohrane iz prethodne jezgre nečitljivima. Za pristup vratite se izvornoj jezgri";
 "BeetleSaturnNoSupportCheat" = "Jezgra Beetle Saturn trenutno ne podržava varalice. Ako trebate, prebacite se na jezgru Yabause";
 "CurrentTitle" = "trenutno";
-"NewSkinDesc" = "Manic EMU podržava skinove u formatima .manicskin i .deltaskin .gammaskin. Napomena: Uvezeni skin mora odgovarati trenutnoj platformi, inače se neće pojaviti na popisu.\nTakođer pružamo pristup zajednicama skinova trećih strana. One nisu službeno povezane s Manic EMU. Prilikom preuzimanja strogo se pridržavajte uvjeta usluge svake web stranice";
+"NewSkinDesc" = "WizardiOS podržava skinove u formatima .manicskin i .deltaskin .gammaskin. Napomena: Uvezeni skin mora odgovarati trenutnoj platformi, inače se neće pojaviti na popisu.\nTakođer pružamo pristup zajednicama skinova trećih strana. One nisu službeno povezane s WizardiOS. Prilikom preuzimanja strogo se pridržavajte uvjeta usluge svake web stranice";
 "VisitSite" = "Posjeti %@";
 "OpenFile" = "Otvori Datoteku";
 "WebViewDownloadBegin" = "Preuzimanje je započelo";
 "RespectSilentMode" = "Poštuj Tihi Način";
-"RespectSilentModeDesc" = "Kada je uključeno, Manic EMU će reproducirati zvuk samo izvan tihog načina";
+"RespectSilentModeDesc" = "Kada je uključeno, WizardiOS će reproducirati zvuk samo izvan tihog načina";
 "SaturnISONoSwitchCore" = "Igre Sega Saturn u .iso formatu ne podržavaju promjenu jezgre";
 "EnableFullScreenTitle" = "Omogući Puni Zaslon";
 "DisableFullScreenTitle" = "Onemogući Puni Zaslon";
@@ -653,8 +653,8 @@ Ako naiđete na nestabilnost u 3DS-u, pogledajte «Često Postavljana Pitanja» 
 "Ascending" = "Uzlazno";
 "Descending" = "Silazno";
 "JumpTips" = "Otvara se stranica treće strane";
-"ThirdPartGameInfoTips" = "Informacije o igri pružaju treće strane. Koristi vlastitu prosudbu i slijedi pravila platforme. Ako Manic EMU ne pronađe igru, upotrijebi pretraživanje za ručno pronalaženje.";
-"NotSupportHardcore" = "Hardcore način je onemogućen za ovu igru. Možda Manic EMU nije ovlašten od strane RetroAchievements, ili igra jednostavno ne podržava hardcore način.";
+"ThirdPartGameInfoTips" = "Informacije o igri pružaju treće strane. Koristi vlastitu prosudbu i slijedi pravila platforme. Ako WizardiOS ne pronađe igru, upotrijebi pretraživanje za ručno pronalaženje.";
+"NotSupportHardcore" = "Hardcore način je onemogućen za ovu igru. Možda WizardiOS nije ovlašten od strane RetroAchievements, ili igra jednostavno ne podržava hardcore način.";
 "ChooseOne" = "Odaberi jedan";
 "FilesImporterErrorBadCue" = "Uvoz %@ nije uspio. datoteka može biti nevažeća ili nije UTF-8 kodirana. Provjeri format.";
 "Leaderboard" = "Ljestvica";
@@ -671,7 +671,7 @@ Ako naiđete na nestabilnost u 3DS-u, pogledajte «Često Postavljana Pitanja» 
 "AlwaysShowProgressDesc" = "Održavaj napredak postignuća vidljivim na zaslonu.";
 "Progress" = "Napredak";
 
-"DCGameNoSupportGameSave" = "Dreamcast ne podržava uvoz/izvoz spremišta. Upotrijebite VMU Explorer za uređivanje memorijskih datoteka u mapi Manic EMU-Flycast-dc.";
+"DCGameNoSupportGameSave" = "Dreamcast ne podržava uvoz/izvoz spremišta. Upotrijebite VMU Explorer za uređivanje memorijskih datoteka u mapi WizardiOS-Flycast-dc.";
 
 "Challenge" = "Izazov";
 "GameTypeLicensingError" = "Žao nam je! Zbog ograničenja licence s jezgrom %@, ova platforma trenutačno nije dostupna. Možete pričekati buduće ažuriranje ili koristiti sideload verziju.";
@@ -717,7 +717,7 @@ Ako naiđete na nestabilnost u 3DS-u, pogledajte «Često Postavljana Pitanja» 
 "GameListBackgroundUpload" = "Učitaj";
 "GameplayManuals" = "Priručnici za igre";
 "GameplayManualsNoExists" = "Nema dostupnog priručnika za ovu igru.";
-"GameplayManualsDesc" = "Za dodavanje priručnika, postavite svoju PDF datoteku u aplikaciju Manic EMU. Za uklanjanje, idite na Datoteke > Manic EMU > Priručnici i izbrišite datoteku.";
+"GameplayManualsDesc" = "Za dodavanje priručnika, postavite svoju PDF datoteku u aplikaciju WizardiOS. Za uklanjanje, idite na Datoteke > WizardiOS > Priručnici i izbrišite datoteku.";
 "CleanUnsupportSkins" = "Očisti nepodržane skinove";
 "NotFoundUnsupportSkins" = "Nema pronađenih nepodržanih skinova.";
 "UnsupportSkinsDesc" = "Sljedeći skinovi nisu podržani na ovom uređaju:\n%@Napomena: Uklanjanje će također izbrisati ove skinove s drugih uređaja sinkroniziranih putem iClouda.";
@@ -801,7 +801,7 @@ Ako naiđete na nestabilnost u 3DS-u, pogledajte «Često Postavljana Pitanja» 
 "Shaders" = "Shaderi";
 "DownloadRetroArchShaders" = "Želite li preuzeti shadere s RetroArcha? Po završetku, RetroArchova kategorija shadera će se automatski osvježiti. Ovaj proces možete prekinuti u bilo kojem trenutku u upravitelju preuzimanja.";
 "RetroArchShaderUnzipFailed" = "Nije moguće raspakirati %@. Datoteka je možda oštećena tijekom preuzimanja. Pokušajte je ponovno preuzeti.";
-"ImportShader" = "Stavite datoteke shadera u mapu ‘Manic EMU-Shaders’, zatim ponovno otvorite ovu stranicu da biste osvježili i učitali shadere.";
+"ImportShader" = "Stavite datoteke shadera u mapu ‘WizardiOS-Shaders’, zatim ponovno otvorite ovu stranicu da biste osvježili i učitali shadere.";
 "CustomShaderDesc" = "Kreirajte prilagođene shadere uređivanjem postojećih.";
 "AppendShadersTitle" = "Dodaj shadere";
 "AppendShadersDetail" = "Dodajte shadere na početak ili kraj trenutnog sloga";
@@ -881,7 +881,7 @@ Ako želite unaprijediti svoju postavu, PlayCase je savršen dodatak ovom skinu.
 "Width" = "Širina";
 "Height" = "Visina";
 "ScreenSize" = "Veličina zaslona";
-"J2MESettingsTips" = "Zbog razlika u JAR standardima, Manic EMU možda neće uvijek otkriti ispravnu razlučivost ili orijentaciju zaslona. Za najbolje rezultate prikaza, možete ih konfigurirati ručno.";
+"J2MESettingsTips" = "Zbog razlika u JAR standardima, WizardiOS možda neće uvijek otkriti ispravnu razlučivost ili orijentaciju zaslona. Za najbolje rezultate prikaza, možete ih konfigurirati ručno.";
 "J2MEScreenChange" = "Postavke J2ME zaslona su spremljene. Za trenutnu primjenu promjena, igra se mora resetirati. Svaki nespremljeni napredak može biti izgubljen. Resetirati sada?";
 "Later" = "Kasnije";
 "ResetImmediately" = "Resetiraj sada";
@@ -891,22 +891,22 @@ Ako želite unaprijediti svoju postavu, PlayCase je savršen dodatak ovom skinu.
 "ConfigsResetCore" = "Resetiraj na zadane postavke jezgre";
 "ConfigsResetBefore" = "Vrati se na prethodne postavke";
 "InsertDisc" = "Umetni disk";
-"InsertDiscAlert" = "Disk možete umetnuti odabirom druge igre s iste platforme u svojoj biblioteci ili odabirom datoteke diska iz Datoteka. Zbog ograničenja iOS datotečnog sustava, datoteke diska odabrane iz Datoteka bit će kopirane u predmemoriju Manic EMU-a.";
+"InsertDiscAlert" = "Disk možete umetnuti odabirom druge igre s iste platforme u svojoj biblioteci ili odabirom datoteke diska iz Datoteka. Zbog ograničenja iOS datotečnog sustava, datoteke diska odabrane iz Datoteka bit će kopirane u predmemoriju WizardiOS-a.";
 "InsertDiscFailed" = "Umetanje diska nije uspjelo";
 "GenerateHomeMenu" = "Stvori početni izbornik";
 "SkinSoundEffects" = "Zvučni efekti kože";
 "FirstAnniversary" = "HVALA ŠTO STE OVDJE,\NAPISALI SMO VAM NEŠTO";
-"ApirlFoolsDayTitle" = "Ups, je li se Manic EMU pokvario?";
+"ApirlFoolsDayTitle" = "Ups, je li se WizardiOS pokvario?";
 "ApirlFoolsDayDetail" = "Ne brinite!\nSamo se šalimo—Sretan Prvi april!\n\nSve će se vratiti u normalu nakon što zatvorite ovo.";
 "JITType" = "Vrsta JIT-a";
 "JITTypeDesc" = "Standardni JIT nudi najbolje performanse, dok IR JIT nudi umjerene performanse.";
 "Pretendo" = "Pretendo mreža";
 "BadIpAddress" = "Neispravna IP adresa. Pokušajte ponovno.";
 "ArticBaseSettings" = "Postavke Artic Basea";
-"ArticBaseDesc" = "Artic Base, koji je razvio tim Azahar, omogućuje prijenos podataka jedinstvenih za pravi 3DS uređaj u Manic EMU. Ovi podaci potrebni su za omogućavanje mrežnih značajki.\n\nSlijedite korake u nastavku za dovršetak prijenosa:\n1. Instalirajte %@ na svoj 3DS i pokrenite uslugu.\n2. Provjerite jesu li Manic EMU i vaš 3DS povezani na istu mrežu.\n3. Unesite IP adresu prikazanu na zaslonu vašeg 3DS-a ispod.\n4. Dodirnite \"Započni prijenos\" i dovršite ažuriranje sustava.\n\nNakon dovršetka ovih koraka, pojavit ć se unos Početnog izbornika u vašoj biblioteci.";
-"ArticBaseHeadsUp" = "Uvoz podataka sa stvarnog uređaja prepisat će postojeće 3DS podatke u Manic EMU-u i može uzrokovati neočekivane probleme. Ako imate važne spremljene podatke, preporučuje se sigurnosno kopiranje direktorija Manic EMU - 3DS prije nastavka.";
+"ArticBaseDesc" = "Artic Base, koji je razvio tim Azahar, omogućuje prijenos podataka jedinstvenih za pravi 3DS uređaj u WizardiOS. Ovi podaci potrebni su za omogućavanje mrežnih značajki.\n\nSlijedite korake u nastavku za dovršetak prijenosa:\n1. Instalirajte %@ na svoj 3DS i pokrenite uslugu.\n2. Provjerite jesu li WizardiOS i vaš 3DS povezani na istu mrežu.\n3. Unesite IP adresu prikazanu na zaslonu vašeg 3DS-a ispod.\n4. Dodirnite \"Započni prijenos\" i dovršite ažuriranje sustava.\n\nNakon dovršetka ovih koraka, pojavit ć se unos Početnog izbornika u vašoj biblioteci.";
+"ArticBaseHeadsUp" = "Uvoz podataka sa stvarnog uređaja prepisat će postojeće 3DS podatke u WizardiOS-u i može uzrokovati neočekivane probleme. Ako imate važne spremljene podatke, preporučuje se sigurnosno kopiranje direktorija WizardiOS - 3DS prije nastavka.";
 "StartTransfer" = "Započni prijenos";
-"PretendoNimbusDesc" = "Pretendo je besplatna zamjena otvorenog koda za online usluge Nintendo 3DS-a, koja omogućuje nastavak online igranja čak i nakon gašenja službenih poslužitelja.\n\nPomoću alata Nimbus možete jednostavno prebaciti svoju mrežu na Pretendo. Kada bude dostupno, dodirnite \"Instaliraj Nimbus\" i Manic EMU će ga automatski instalirati u Početni izbornik.";
+"PretendoNimbusDesc" = "Pretendo je besplatna zamjena otvorenog koda za online usluge Nintendo 3DS-a, koja omogućuje nastavak online igranja čak i nakon gašenja službenih poslužitelja.\n\nPomoću alata Nimbus možete jednostavno prebaciti svoju mrežu na Pretendo. Kada bude dostupno, dodirnite \"Instaliraj Nimbus\" i WizardiOS će ga automatski instalirati u Početni izbornik.";
 "InstallNimbus" = "Instaliraj Nimbus";
 "InstallNimbusSuccess" = "Nimbus je uspješno instaliran!";
 "HomeMenuDesc" = "Upotrijebite gumb ispod za otvaranje Početnog izbornika. Zatim idite na Postavke Nimbusa, prebacite se na Pretendo mrežu i otvorite Postavke za odabir \"ID Nintendo Network\" i prijavite se sa svojim Pretendo računom.\n\nNakon toga, sve igre pokrenute iz Početnog izbornika ili koje se izvode s jezgrom Azahar koristit će Pretendo mrežu.\n\nAko nedostaje unos Početnog izbornika, ova značajka će ga pokušati automatski ponovno stvoriti.";
@@ -930,7 +930,7 @@ Ako želite unaprijediti svoju postavu, PlayCase je savršen dodatak ovom skinu.
 "ThemeManufacturerOrderTitle" = "Redoslijed proizvođača";
 "ArticBaseHomeMenuFailed" = "Čini se da ažuriranje sustava nije uspješno dovršeno. Unos Početnog izbornika nije moguće stvoriti. Pokušajte ponovno s prijenosom podataka.";
 "ArticBaseHomeMenuSuccess" = "Unos Početnog izbornika uspješno je stvoren. Možete nastaviti sa sljedećim koracima.";
-"NandImportHeadsUp" = "Ako pokušavate prenijeti podatke sa stvarnog 3DS uređaja na Manic EMU, preporučuje se korištenje značajke Artic Base.";
+"NandImportHeadsUp" = "Ako pokušavate prenijeti podatke sa stvarnog 3DS uređaja na WizardiOS, preporučuje se korištenje značajke Artic Base.";
 "ContineFilesImport" = "Nastavi uvoz";
 "OpenPage" = "Otvori %@";
 "MappingKeyboardInput" = "Mapiranje unosa s tipkovnice";

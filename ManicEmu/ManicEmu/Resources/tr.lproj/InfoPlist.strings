@@ -6,12 +6,12 @@
   Copyright © 2024 Manic EMU. All rights reserved.
 */
 
-"CFBundleDisplayName" = "Manic EMU";
+"CFBundleDisplayName" = "WizardiOS";
 
 //Permission
 "NSPhotoLibraryAddUsageDescription" = "Oyun ekran görüntülerini fotoğraf albümüne kaydetmek ve albümden oyun kapağı seçmek için fotoğraf albümü erişim izni gereklidir";
 "NSPhotoLibraryUsageDescription" = "Oyun ekran görüntülerini fotoğraf albümüne kaydetmek ve albümden oyun kapağı seçmek için fotoğraf albümü erişim izni gereklidir";
-"NSMicrophoneUsageDescription" = "Bazı DS oyunlarının özelliklerini kullanabilmek için mikrofon iznini Manic EMU'ya vermelisiniz!";
-"NSCameraUsageDescription" = "Oyun kapağı çekmek için kamera erişim iznini Manic EMU'ya vermelisiniz!";
+"NSMicrophoneUsageDescription" = "Bazı DS oyunlarının özelliklerini kullanabilmek için mikrofon iznini WizardiOS'ya vermelisiniz!";
+"NSCameraUsageDescription" = "Oyun kapağı çekmek için kamera erişim iznini WizardiOS'ya vermelisiniz!";
 
-"NSLocalNetworkUsageDescription" = "Manic EMU'nun çevrimiçi oyun için diğer cihazları bulup bağlanabilmesi için yerel ağınıza erişmesi gerekiyor.";
+"NSLocalNetworkUsageDescription" = "WizardiOS'nun çevrimiçi oyun için diğer cihazları bulup bağlanabilmesi için yerel ağınıza erişmesi gerekiyor.";

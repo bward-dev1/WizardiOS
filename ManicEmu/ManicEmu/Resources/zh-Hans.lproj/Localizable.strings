@@ -78,7 +78,7 @@
 "ImportServiceListPasteDetail" = "支持从macOS及文件应用拷贝文件";
 "ImportHowTo" = "如何导入";
 "ImportTopHintTitle" = "一个充满梦想与冒险的故事将从这里开始！";
-"ImportDragAndDropTips" = "将文件拖到Manic EMU的任意界面实现传输";
+"ImportDragAndDropTips" = "将文件拖到WizardiOS的任意界面实现传输";
 "ImportChannelTips" = "如有疑问，加入%@获取帮助";
 "ToastConnectCloudDriveSuccess" = "连接%@成功";
 "AlertImportFilesSuccess" = "导入资源成功";
@@ -110,7 +110,7 @@
 "TimeDurationHourFormat" = "%d小时";
 "TimeDurationMinuteFormat" = "%d分钟";
 "FatalErrorTitle" = "致命错误";
-"FatalErrorDesc" = "系统资源加载失败，Manic EMU运行中可能会有重大缺陷";
+"FatalErrorDesc" = "系统资源加载失败，WizardiOS运行中可能会有重大缺陷";
 "LodingFailedTitle" = "加载失败";
 "AirPlayDesc" = "马上开始冒险吧！";
 "ToastSuccess" = "保存成功";
@@ -170,7 +170,7 @@
 "GameSaveTitle" = "存档%d";
 
 //Skin
-"SkinNavigationSubTitleCommon" = "Manic EMU完美兼容.deltaskin .gammaskin格式皮肤";
+"SkinNavigationSubTitleCommon" = "WizardiOS完美兼容.deltaskin .gammaskin格式皮肤";
 "SkinNavigationSubTitleSpecifiedGame" = "仅为%@设置皮肤";
 "SkinSegmentPortraitTitle" = "竖屏";
 "SkinSegmentLandscapeTitle" = "横屏";
@@ -199,7 +199,7 @@
 "WidgetTitle" = "桌面小组件";
 "QATitle" = "常见问题";
 "FeedbackTitle" = "意见反馈";
-"ShareAppTitle" = "分享「Manic EMU」给好友";
+"ShareAppTitle" = "分享「WizardiOS」给好友";
 "JoinQQTitle" = "加入QQ频道";
 "JoinTelegramTitle" = "加入Telegram";
 "ClearCacheTitle" = "清除缓存";
@@ -214,7 +214,7 @@
 "RatingTitleRight" = "";
 "RatingDetail" = "如果您认为我们的产品对您有价值，请帮我们写个五星好评，你的好评对我们真的非常重要 : )";
 "iCloudDisableTitle" = "iCloud暂不可用";
-"iCloudDisableDetail" = "已尝试开启iCloud同步服务，只有您完成iCloud登录及授权才会真正开始同步，前往 iPhone 的「设置」>「Apple ID」>「iCloud」，确保已开启 iCloud 云盘并允许 Manic EMU 访问";
+"iCloudDisableDetail" = "已尝试开启iCloud同步服务，只有您完成iCloud登录及授权才会真正开始同步，前往 iPhone 的「设置」>「Apple ID」>「iCloud」，确保已开启 iCloud 云盘并允许 WizardiOS 访问";
 "iCloudSyncConfilictTitle" = "iCloud同步文件冲突";
 "iCloudSyncConfilictDetail" = "云端文件:\n%@\n\n本地文件:\n%@";
 "iCloudSyncConfilictSaveiCloud" = "保留iCloud";
@@ -228,7 +228,7 @@
 "SendEmailSuccess" = "发送邮件成功";
 "SendEmailFailed" = "发送邮件失败%@";
 "iCloudTipsTitle" = "开启iCloud同步";
-"iCloudTipsDetail" = "启用iCloud同步，可以在登录了相同Apple ID的客户端上同步Manic EMU上的一切，开启同步之后你的所有数据都会上传到iCloud中，这将会占用你的iCloud存储空间，若空间不足，则会导致同步失败！同步后你的数据会存储在云端，若数据尚未下载可能你将无法正常游戏！";
+"iCloudTipsDetail" = "启用iCloud同步，可以在登录了相同Apple ID的客户端上同步WizardiOS上的一切，开启同步之后你的所有数据都会上传到iCloud中，这将会占用你的iCloud存储空间，若空间不足，则会导致同步失败！同步后你的数据会存储在云端，若数据尚未下载可能你将无法正常游戏！";
 "iCloudConfirm" = "继续开启";
 
 //Play
@@ -353,7 +353,7 @@
 "AnnualMemberTitle" = "超级年会员";
 "MonthlyMemberTitle" = "月度冒险家";
 "ForeverMemberTitle" = "永久会员";
-"PurchaseVerifiedFailed" = "支付凭证无法通过校验，请保证网络通畅，重新启动Manic EMU以重新校验";
+"PurchaseVerifiedFailed" = "支付凭证无法通过校验，请保证网络通畅，重新启动WizardiOS以重新校验";
 "PurchaseCancel" = "很遗憾你的支付被取消了，错失了解锁高级特性的机会";
 "PurchasePending" = "你的支付暂时被挂起，完成后续支付后，将为你开通会员";
 "PurchaseUnknown" = "支付状态未知";
@@ -374,24 +374,24 @@
 "Hi" = "嗨，";
 
 //Permission
-"PrePermissionPhotoTitle" = "是否允许 Manic EMU 访问你的相册？";
+"PrePermissionPhotoTitle" = "是否允许 WizardiOS 访问你的相册？";
 "PrePermissionPhotoMessage" = "允许访问权限可以将游戏截图保存到相册以及选择相册图片作为游戏封面";
 "PrePermissionPhotoCancel" = "暂不";
 "PrePermissionPhotoConfirm" = "允许";
-"DeniedPermissionPhotoTitle" = "Manic EMU 无法访问你的相册!";
-"DeniedPermissionPhotoMessage" = "为了顺利保存游戏截图，需要你相册权限授权给 Manic EMU";
+"DeniedPermissionPhotoTitle" = "WizardiOS 无法访问你的相册!";
+"DeniedPermissionPhotoMessage" = "为了顺利保存游戏截图，需要你相册权限授权给 WizardiOS";
 "DeniedPermissionPhotoCancel" = "否";
 "DeniedPermissionPhotoConfirm" = "去授权";
-"PrePermissionCameraTitle" = "是否允许 Manic EMU 访问你的相机？";
+"PrePermissionCameraTitle" = "是否允许 WizardiOS 访问你的相机？";
 "PrePermissionCameraMessage" = "允许访问权限可以使用相机拍摄图片作为游戏封面";
 "PrePermissionCameraCancel" = "暂不";
 "PrePermissionCameraConfirm" = "允许";
-"DeniedPermissionCameraTitle" = "Manic EMU 无法访问你的相机!";
-"DeniedPermissionCameraMessage" = "需要你相册权限授权给 Manic EMU 才能进行游戏封面拍摄!";
+"DeniedPermissionCameraTitle" = "WizardiOS 无法访问你的相机!";
+"DeniedPermissionCameraMessage" = "需要你相册权限授权给 WizardiOS 才能进行游戏封面拍摄!";
 "DeniedPermissionCameraCancel" = "否";
 "DeniedPermissionCameraConfirm" = "去授权";
-"DeniedPermissionMicTitle" = "Manic EMU 无法使用你的麦克风";
-"DeniedPermissionMicMessage" = "需要你将麦克风权限授权给 Manic EMU，否则部分DS游戏可能功能受限!";
+"DeniedPermissionMicTitle" = "WizardiOS 无法使用你的麦克风";
+"DeniedPermissionMicMessage" = "需要你将麦克风权限授权给 WizardiOS，否则部分DS游戏可能功能受限!";
 "DeniedPermissionMicCancel" = "否";
 "DeniedPermissionMicConfirm" = "去授权";
 
@@ -410,7 +410,7 @@
 "ThreeDSNotSupportImportSave" = "3DS游戏暂不支持导入存档";
 "ThreeDSNotSupportShareSave" = "3DS游戏暂不支持分享存档";
 "ThreeDSBetaAlertTitle" = "3DS实验性版本";
-"ThreeDSBetaAlertDetail" = "为了让您更早地体验3DS游戏的快乐，Manic EMU已经发布3DS，但目前正处于实验性状态中，部分性能有待进一步优化。
+"ThreeDSBetaAlertDetail" = "为了让您更早地体验3DS游戏的快乐，WizardiOS已经发布3DS，但目前正处于实验性状态中，部分性能有待进一步优化。
 下列功能能暂时缺失：
 ❌ AirPlay全屏模式
 ❌ 自动即时存档
@@ -492,7 +492,7 @@
 "NoSaveStateToast" = "暂无%@";
 "DeleteSelectedSaveStateAlert" = "是否要移除选中的「%@」？\n移除后将不可恢复！";
 "DeleteAllSaveStateAlert" = "目前没有选中任何条目，是否要移除所有的「%@」？\n移除后将不可恢复！";
-"AICoverSearchDesc" = "检测到您尝试使用非英文进行搜索，升级高级会员后Manic EMU会使用最新的AI技术帮您实现多国语言的搜索任务";
+"AICoverSearchDesc" = "检测到您尝试使用非英文进行搜索，升级高级会员后WizardiOS会使用最新的AI技术帮您实现多国语言的搜索任务";
 "MaxTextSizeAllowDesc" = "该选项最多支持%@个字符";
 
 "PlatformSelectionTitle" = "运行平台选择";
@@ -530,12 +530,12 @@
 "SwitchEmulationCoreDetail" = "切换 %@ 的模拟核心\n核心切换将导致之前核心生成的存档无法读取。要访问存档，请切换回原核心";
 "BeetleSaturnNoSupportCheat" = "Beetle Saturn 核心暂不支持金手指设置。如需使用金手指，请切换至 Yabause 核心";
 "CurrentTitle" = "当前";
-"NewSkinDesc" = "Manic EMU 支持 .manicskin 和 .deltaskin .gammaskin 格式的皮肤。请注意：导入皮肤的规格需与当前平台匹配，否则不会显示在皮肤列表中。\n此外，我们提供第三方皮肤社区入口。这些社区非 Manic EMU 官方运营，下载皮肤时请严格遵守其网站服务条款";
+"NewSkinDesc" = "WizardiOS 支持 .manicskin 和 .deltaskin .gammaskin 格式的皮肤。请注意：导入皮肤的规格需与当前平台匹配，否则不会显示在皮肤列表中。\n此外，我们提供第三方皮肤社区入口。这些社区非 WizardiOS 官方运营，下载皮肤时请严格遵守其网站服务条款";
 "VisitSite" = "访问 %@";
 "OpenFile" = "打开文件";
 "WebViewDownloadBegin" = "下载已开始";
 "RespectSilentMode" = "遵循静音模式";
-"RespectSilentModeDesc" = "启用后，Manic EMU 仅在非静音模式下播放音频";
+"RespectSilentModeDesc" = "启用后，WizardiOS 仅在非静音模式下播放音频";
 "SaturnISONoSwitchCore" = "世嘉土星 .iso 格式游戏不支持切换核心";
 "EnableFullScreenTitle" = "启用全屏";
 "DisableFullScreenTitle" = "禁用全屏";
@@ -662,8 +662,8 @@
 "Ascending" = "升序";
 "Descending" = "降序";
 "JumpTips" = "正在打开第三方页面";
-"ThirdPartGameInfoTips" = "游戏信息由第三方提供，请自行甄别并遵守平台规则。若 Manic EMU 匹配失败，可手动搜索游戏。";
-"NotSupportHardcore" = "本游戏已禁用硬核模式，可能是Manic EMU未获得RetroAchievements认证或游戏不支持。";
+"ThirdPartGameInfoTips" = "游戏信息由第三方提供，请自行甄别并遵守平台规则。若 WizardiOS 匹配失败，可手动搜索游戏。";
+"NotSupportHardcore" = "本游戏已禁用硬核模式，可能是WizardiOS未获得RetroAchievements认证或游戏不支持。";
 "ChooseOne" = "任选其一";
 "FilesImporterErrorBadCue" = "导入失败：\"%@\"。该文件可能格式错误或未使用 UTF-8 编码，请检查文件。";
 "Leaderboard" = "排行榜";
@@ -680,7 +680,7 @@
 "AlwaysShowProgressDesc" = "在屏幕上持续显示成就进度。";
 "Progress" = "进度";
 
-"DCGameNoSupportGameSave" = "Dreamcast不支持游戏存档的导入导出功能，需要你使用VMU Explorer工具自行编辑存档记忆体，这些记忆体文件存在于Manic EMU-Flycast-dc目录中";
+"DCGameNoSupportGameSave" = "Dreamcast不支持游戏存档的导入导出功能，需要你使用VMU Explorer工具自行编辑存档记忆体，这些记忆体文件存在于WizardiOS-Flycast-dc目录中";
 
 "Challenge" = "挑战";
 
@@ -729,7 +729,7 @@
 "GameListBackgroundUpload" = "上传";
 "GameplayManuals" = "游戏手册";
 "GameplayManualsNoExists" = "当前游戏暂无手册。";
-"GameplayManualsDesc" = "要添加游戏手册，请将PDF文件放入Manic EMU应用中。若需移除，请前往“文件”App > Manic EMU > Manuals目录删除对应文件。";
+"GameplayManualsDesc" = "要添加游戏手册，请将PDF文件放入WizardiOS应用中。若需移除，请前往“文件”App > WizardiOS > Manuals目录删除对应文件。";
 "CleanUnsupportSkins" = "清理不受支持的皮肤";
 "NotFoundUnsupportSkins" = "未发现不受支持的皮肤。";
 "UnsupportSkinsDesc" = "检测到以下皮肤在当前设备上不受支持：\n%@注意：如果选择移除，这些皮肤也会从通过iCloud同步的其他设备中一并删除。";
@@ -815,7 +815,7 @@
 "Shaders" = "着色器";
 "DownloadRetroArchShaders" = "是否从 RetroArch 下载着色器？下载完成后，RetroArch 的着色器分类将自动刷新。你可以随时在下载管理器中取消该操作。";
 "RetroArchShaderUnzipFailed" = "无法解压 %@。文件在下载过程中可能已损坏，请重新下载后再试。";
-"ImportShader" = "请将着色器文件放入 Manic EMU-Shaders 文件夹，然后重新打开此页面以刷新并加载着色器。";
+"ImportShader" = "请将着色器文件放入 WizardiOS-Shaders 文件夹，然后重新打开此页面以刷新并加载着色器。";
 "CustomShaderDesc" = "通过编辑现有着色器来创建自定义着色器。";
 "AppendShadersTitle" = "追加着色器";
 "AppendShadersDetail" = "可在当前着色器序列前或后追加着色器";
@@ -894,7 +894,7 @@
 "Width" = "宽度";
 "Height" = "高度";
 "ScreenSize" = "屏幕尺寸";
-"J2MESettingsTips" = "由于 JAR 标准存在差异，Manic EMU 有时无法自动获取正确的分辨率或屏幕方向。为了获得更好的显示效果，您可以手动进行配置。";
+"J2MESettingsTips" = "由于 JAR 标准存在差异，WizardiOS 有时无法自动获取正确的分辨率或屏幕方向。为了获得更好的显示效果，您可以手动进行配置。";
 "J2MEScreenChange" = "J2ME 屏幕设置已保存。若要立即生效，需要重置游戏，未保存的游戏进度可能会丢失。是否立即重置？";
 "Later" = "稍后";
 "ResetImmediately" = "立即重置";
@@ -904,12 +904,12 @@
 "ConfigsResetCore" = "重置为核心默认值";
 "ConfigsResetBefore" = "恢复为之前配置";
 "InsertDisc" = "插入光盘";
-"InsertDiscAlert" = "您可以在游戏库中选择同一平台的游戏光盘进行插入，或从“文件”App 中选择一个光盘文件。由于 iOS 文件系统的限制，从文件中选择的光盘文件会被复制到 Manic EMU 的缓存中。";
+"InsertDiscAlert" = "您可以在游戏库中选择同一平台的游戏光盘进行插入，或从“文件”App 中选择一个光盘文件。由于 iOS 文件系统的限制，从文件中选择的光盘文件会被复制到 WizardiOS 的缓存中。";
 "InsertDiscFailed" = "插入光盘失败";
 "GenerateHomeMenu" = "创建 Home Menu";
 "SkinSoundEffects" = "皮肤音效";
 "FirstAnniversary" = "谢谢你一直在这里\n我们写了一些话，想给你。";
-"ApirlFoolsDayTitle" = "咦，Manic EMU 出问题了吗？";
+"ApirlFoolsDayTitle" = "咦，WizardiOS 出问题了吗？";
 "ApirlFoolsDayDetail" = "别担心！\n只是开个小玩笑——愚人节快乐！\n\n关闭弹窗后就会恢复正常。";
 
 "JITType" = "JIT 类型";
@@ -917,10 +917,10 @@
 "Pretendo" = "Pretendo 网络";
 "BadIpAddress" = "IP 地址无效，请重新输入。";
 "ArticBaseSettings" = "Artic Base 设置";
-"ArticBaseDesc" = "Artic Base 由 Azahar 团队开发，可将真实 3DS 掌机中的专有数据传输至 Manic EMU。这些数据是实现网络功能所必需的。\n\n请按照以下步骤完成数据传输：\n1. 在你的 3DS 上安装 %@ 并启动服务。\n2. 确保 Manic EMU 与 3DS 连接至同一网络。\n3. 在下方输入 3DS 屏幕上显示的 IP 地址。\n4. 点击“开始传输”，并完成系统更新。\n\n完成后，游戏库中将生成一个 Home Menu 入口。";
-"ArticBaseHeadsUp" = "从真实设备导入数据将覆盖 Manic EMU 当前的 3DS 数据，可能会导致不可预知的问题。如有重要存档，建议先备份 Manic EMU - 3DS 目录后再继续操作。";
+"ArticBaseDesc" = "Artic Base 由 Azahar 团队开发，可将真实 3DS 掌机中的专有数据传输至 WizardiOS。这些数据是实现网络功能所必需的。\n\n请按照以下步骤完成数据传输：\n1. 在你的 3DS 上安装 %@ 并启动服务。\n2. 确保 WizardiOS 与 3DS 连接至同一网络。\n3. 在下方输入 3DS 屏幕上显示的 IP 地址。\n4. 点击“开始传输”，并完成系统更新。\n\n完成后，游戏库中将生成一个 Home Menu 入口。";
+"ArticBaseHeadsUp" = "从真实设备导入数据将覆盖 WizardiOS 当前的 3DS 数据，可能会导致不可预知的问题。如有重要存档，建议先备份 WizardiOS - 3DS 目录后再继续操作。";
 "StartTransfer" = "开始传输";
-"PretendoNimbusDesc" = "Pretendo 是一个免费开源的任天堂 3DS 在线服务替代方案，即使官方服务器停止运行，也可以继续进行联机。\n\n通过 Nimbus 工具，你可以轻松切换至 Pretendo 网络。当下方按钮可用时，点击“安装 Nimbus”，Manic EMU 会自动将其安装到Home Menu中。";
+"PretendoNimbusDesc" = "Pretendo 是一个免费开源的任天堂 3DS 在线服务替代方案，即使官方服务器停止运行，也可以继续进行联机。\n\n通过 Nimbus 工具，你可以轻松切换至 Pretendo 网络。当下方按钮可用时，点击“安装 Nimbus”，WizardiOS 会自动将其安装到Home Menu中。";
 "InstallNimbus" = "安装 Nimbus";
 "InstallNimbusSuccess" = "Nimbus 安装成功!";
 "HomeMenuDesc" = "通过下方按钮打开 Home Menu，然后进入 Nimbus 设置，切换至 Pretendo 网络；接着打开“设置”，选择“任天堂网络 ID”，并使用 Pretendo 账号登录。\n\n完成后，从 Home Menu 启动的游戏，或使用 Azahar 核心运行的游戏，均将连接至 Pretendo 网络。\n\n如果 Home Menu 入口缺失，此功能会尝试自动重新生成。";
@@ -944,7 +944,7 @@
 "ThemeManufacturerOrderTitle" = "厂商排序";
 "ArticBaseHomeMenuFailed" = "系统更新似乎未成功完成，无法创建 Home Menu 入口。请重新进行数据传输。";
 "ArticBaseHomeMenuSuccess" = "Home Menu 入口已成功创建，你可以继续执行后续步骤。";
-"NandImportHeadsUp" = "如果你正尝试将真实 3DS 设备中的数据传输至 Manic EMU，建议使用 Artic Base 功能。";
+"NandImportHeadsUp" = "如果你正尝试将真实 3DS 设备中的数据传输至 WizardiOS，建议使用 Artic Base 功能。";
 "ContineFilesImport" = "继续导入";
 "OpenPage" = "打开 %@";
 "MappingKeyboardInput" = "映射键盘输入";

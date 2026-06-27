@@ -79,7 +79,7 @@
 "ImportServiceListPasteDetail" = "Suportă copierea fișierelor din macOS sau aplicația Fișiere";
 "ImportHowTo" = "Cum se importă";
 "ImportTopHintTitle" = "O poveste plină de visuri și aventuri începe aici!";
-"ImportDragAndDropTips" = "Trageți fișierele pe orice interfață Manic EMU pentru transfer";
+"ImportDragAndDropTips" = "Trageți fișierele pe orice interfață WizardiOS pentru transfer";
 "ImportChannelTips" = "Dacă aveți întrebări, alăturați-vă %@ pentru ajutor";
 "ToastConnectCloudDriveSuccess" = "Conectare la %@ reușită";
 "AlertImportFilesSuccess" = "Import resurse reușit";
@@ -110,7 +110,7 @@
 "TimeDurationHourFormat" = "%d ore";
 "TimeDurationMinuteFormat" = "%d minute";
 "FatalErrorTitle" = "Eroare fatală";
-"FatalErrorDesc" = "Încărcarea resurselor de sistem a eșuat, Manic EMU poate avea deficiențe majore în funcționare";
+"FatalErrorDesc" = "Încărcarea resurselor de sistem a eșuat, WizardiOS poate avea deficiențe majore în funcționare";
 "LodingFailedTitle" = "Încărcare eșuată";
 "AirPlayDesc" = "Începe aventura acum!";
 "ToastSuccess" = "Salvare reușită";
@@ -169,7 +169,7 @@
 "GameSaveTitle" = "Salvare %d";
 
 //Skin
-"SkinNavigationSubTitleCommon" = "Manic EMU suportă perfect skin-uri în format .deltaskin .gammaskin";
+"SkinNavigationSubTitleCommon" = "WizardiOS suportă perfect skin-uri în format .deltaskin .gammaskin";
 "SkinNavigationSubTitleSpecifiedGame" = "Skin personalizat doar pentru %@";
 "SkinSegmentPortraitTitle" = "Portret";
 "SkinSegmentLandscapeTitle" = "Peisaj";
@@ -198,7 +198,7 @@
 "WidgetTitle" = "Widget-uri pe ecranul de start";
 "QATitle" = "Întrebări frecvente";
 "FeedbackTitle" = "Feedback";
-"ShareAppTitle" = "Partajează «Manic EMU» cu prietenii";
+"ShareAppTitle" = "Partajează «WizardiOS» cu prietenii";
 "JoinQQTitle" = "Alătură-te canalului QQ";
 "JoinTelegramTitle" = "Alătură-te Telegram";
 "ClearCacheTitle" = "Șterge cache";
@@ -213,7 +213,7 @@
 "RatingTitleRight" = "";
 "RatingDetail" = "Dacă considerați că produsul nostru are valoare, vă rugăm să ne acordați o evaluare cu 5 stele, feedback-ul dumneavoastră este foarte important pentru noi : )";
 "iCloudDisableTitle" = "iCloud indisponibil";
-"iCloudDisableDetail" = "Sincronizarea iCloud a fost încercată, dar va funcționa doar după autentificarea și autorizarea iCloud. Accesați «Setări» > «Apple ID» > «iCloud» pe iPhone și asigurați-vă că iCloud Drive este activat și Manic EMU are acces";
+"iCloudDisableDetail" = "Sincronizarea iCloud a fost încercată, dar va funcționa doar după autentificarea și autorizarea iCloud. Accesați «Setări» > «Apple ID» > «iCloud» pe iPhone și asigurați-vă că iCloud Drive este activat și WizardiOS are acces";
 "iCloudSyncConfilictTitle" = "Conflict sincronizare iCloud";
 "iCloudSyncConfilictDetail" = "Fișier cloud:\n%@\n\nFișier local:\n%@";
 "iCloudSyncConfilictSaveiCloud" = "Păstrează iCloud";
@@ -351,7 +351,7 @@
 "AnnualMemberTitle" = "Super membru anual";
 "MonthlyMemberTitle" = "Aventurier lunar";
 "ForeverMemberTitle" = "Membru permanent";
-"PurchaseVerifiedFailed" = "Verificare achiziție eșuată, verificați conexiunea la internet și reporniți Manic EMU";
+"PurchaseVerifiedFailed" = "Verificare achiziție eșuată, verificați conexiunea la internet și reporniți WizardiOS";
 "PurchaseCancel" = "Plata a fost anulată, ai pierdut șansa de a debloca funcții premium";
 "PurchasePending" = "Plata este în așteptare, funcțiile vor fi activate după finalizare";
 "PurchaseUnknown" = "Stare plată necunoscută";
@@ -372,24 +372,24 @@
 "Hi" = "Salut,";
 
 //Permission
-"PrePermissionPhotoTitle" = "Permiți Manic EMU să acceseze albumul foto?";
+"PrePermissionPhotoTitle" = "Permiți WizardiOS să acceseze albumul foto?";
 "PrePermissionPhotoMessage" = "Permiteți accesul pentru a salva capturi de ecran în album și pentru a selecta imagini din album ca copertă pentru joc";
 "PrePermissionPhotoCancel" = "Mai târziu";
 "PrePermissionPhotoConfirm" = "Permite";
-"DeniedPermissionPhotoTitle" = "Manic EMU nu poate accesa albumul foto!";
-"DeniedPermissionPhotoMessage" = "Pentru a salva capturi de ecran, acordați permisiunea de acces la album pentru Manic EMU";
+"DeniedPermissionPhotoTitle" = "WizardiOS nu poate accesa albumul foto!";
+"DeniedPermissionPhotoMessage" = "Pentru a salva capturi de ecran, acordați permisiunea de acces la album pentru WizardiOS";
 "DeniedPermissionPhotoCancel" = "Nu";
 "DeniedPermissionPhotoConfirm" = "Acordă permisiunea";
-"PrePermissionCameraTitle" = "Permiți Manic EMU să acceseze camera?";
+"PrePermissionCameraTitle" = "Permiți WizardiOS să acceseze camera?";
 "PrePermissionCameraMessage" = "Permiteți accesul pentru a fotografia coperta jocului";
 "PrePermissionCameraCancel" = "Mai târziu";
 "PrePermissionCameraConfirm" = "Permite";
-"DeniedPermissionCameraTitle" = "Manic EMU nu poate accesa camera!";
-"DeniedPermissionCameraMessage" = "Acordați permisiunea de acces la album pentru Manic EMU pentru a fotografia coperta jocului!";
+"DeniedPermissionCameraTitle" = "WizardiOS nu poate accesa camera!";
+"DeniedPermissionCameraMessage" = "Acordați permisiunea de acces la album pentru WizardiOS pentru a fotografia coperta jocului!";
 "DeniedPermissionCameraCancel" = "Nu";
 "DeniedPermissionCameraConfirm" = "Acordă permisiunea";
-"DeniedPermissionMicTitle" = "Manic EMU nu poate folosi microfonul";
-"DeniedPermissionMicMessage" = "Acordați permisiunea de utilizare a microfonului pentru Manic EMU, altfel unele funcții ale jocurilor DS pot fi limitate!";
+"DeniedPermissionMicTitle" = "WizardiOS nu poate folosi microfonul";
+"DeniedPermissionMicMessage" = "Acordați permisiunea de utilizare a microfonului pentru WizardiOS, altfel unele funcții ale jocurilor DS pot fi limitate!";
 "DeniedPermissionMicCancel" = "Nu";
 "DeniedPermissionMicConfirm" = "Acordă permisiunea";
 
@@ -408,7 +408,7 @@
 "ThreeDSNotSupportImportSave" = "Jocurile 3DS nu acceptă încă importul salvarilor";
 "ThreeDSNotSupportShareSave" = "Jocurile 3DS nu acceptă încă partajarea salvarilor";
 "ThreeDSBetaAlertTitle" = "Versiunea Beta 3DS";
-"ThreeDSBetaAlertDetail" = "Pentru a vă permite să vă bucurați mai devreme de jocurile 3DS, Manic EMU a lansat suportul pentru 3DS, dar acesta se află încă în stadiu experimental. Unele funcții necesită optimizări suplimentare.
+"ThreeDSBetaAlertDetail" = "Pentru a vă permite să vă bucurați mai devreme de jocurile 3DS, WizardiOS a lansat suportul pentru 3DS, dar acesta se află încă în stadiu experimental. Unele funcții necesită optimizări suplimentare.
 Următoarele funcții sunt temporar indisponibile:
 ❌ Modul AirPlay pe tot ecranul
 ❌ Salvare automată
@@ -524,12 +524,12 @@ Apasă butonul controlerului...";
 "SwitchEmulationCoreDetail" = "Schimbă nucleul de emulare pentru %@\nSchimbarea nucleului va face salvările de pe nucleul anterior inaccesibile. Pentru acces, reveniți la nucleul original";
 "BeetleSaturnNoSupportCheat" = "Nucleul Beetle Saturn nu suportă coduri cheat momentan. Dacă este necesar, comutați la nucleul Yabause";
 "CurrentTitle" = "curent";
-"NewSkinDesc" = "Manic EMU suportă skin-uri în formate .manicskin și .deltaskin .gammaskin. Notă: Skin-ul importat trebuie să se potrivească cu platforma curentă, altfel nu va apărea în listă.\nOferim și acces la comunități de skin-uri terță. Acestea nu sunt afiliate oficial cu Manic EMU. La descărcare, respectați termenii de serviciu ai fiecărui site";
+"NewSkinDesc" = "WizardiOS suportă skin-uri în formate .manicskin și .deltaskin .gammaskin. Notă: Skin-ul importat trebuie să se potrivească cu platforma curentă, altfel nu va apărea în listă.\nOferim și acces la comunități de skin-uri terță. Acestea nu sunt afiliate oficial cu WizardiOS. La descărcare, respectați termenii de serviciu ai fiecărui site";
 "VisitSite" = "Vizitează %@";
 "OpenFile" = "Deschide Fișier";
 "WebViewDownloadBegin" = "Descărcarea a început";
 "RespectSilentMode" = "Respectă Modul Silențios";
-"RespectSilentModeDesc" = "Când este activat, Manic EMU va reda audio doar în afara modului silențios";
+"RespectSilentModeDesc" = "Când este activat, WizardiOS va reda audio doar în afara modului silențios";
 "SaturnISONoSwitchCore" = "Jocurile Sega Saturn în format .iso nu suportă schimbarea nucleului";
 "EnableFullScreenTitle" = "Activează Ecran Complet";
 "DisableFullScreenTitle" = "Dezactivează Ecran Complet";
@@ -655,8 +655,8 @@ Apasă butonul controlerului...";
 "Ascending" = "Crescător";
 "Descending" = "Descrescător";
 "JumpTips" = "Deschidere pagină terță";
-"ThirdPartGameInfoTips" = "Informațiile despre joc sunt furnizate de terți. Folosește-ți judecata și respectă regulile platformei. Dacă Manic EMU nu găsește un joc, folosește căutarea pentru a-l găsi manual.";
-"NotSupportHardcore" = "Modul Hardcore este dezactivat pentru acest joc. Poate Manic EMU nu este autorizat de RetroAchievements, sau jocul pur și simplu nu suportă modul hardcore.";
+"ThirdPartGameInfoTips" = "Informațiile despre joc sunt furnizate de terți. Folosește-ți judecata și respectă regulile platformei. Dacă WizardiOS nu găsește un joc, folosește căutarea pentru a-l găsi manual.";
+"NotSupportHardcore" = "Modul Hardcore este dezactivat pentru acest joc. Poate WizardiOS nu este autorizat de RetroAchievements, sau jocul pur și simplu nu suportă modul hardcore.";
 "ChooseOne" = "Alege unul";
 "FilesImporterErrorBadCue" = "Import %@ eșuat. Fișierul poate fi invalid sau nu este codificat UTF-8. Verifică formatul.";
 "Leaderboard" = "Clasament";
@@ -673,7 +673,7 @@ Apasă butonul controlerului...";
 "AlwaysShowProgressDesc" = "Păstrează progresul realizărilor vizibil pe ecran.";
 "Progress" = "Progres";
 
-"DCGameNoSupportGameSave" = "Dreamcast nu suportă importul/exportul salvărilor. Utilizați VMU Explorer pentru a edita fișierele de memorie din folderul Manic EMU-Flycast-dc.";
+"DCGameNoSupportGameSave" = "Dreamcast nu suportă importul/exportul salvărilor. Utilizați VMU Explorer pentru a edita fișierele de memorie din folderul WizardiOS-Flycast-dc.";
 
 "Challenge" = "Provocare";
 "GameTypeLicensingError" = "Ne pare rău! Din cauza restricțiilor de licență cu nucleul %@, această platformă nu este disponibilă temporar. Puteți aștepta o actualizare viitoare sau să folosiți versiunea sideload.";
@@ -719,7 +719,7 @@ Apasă butonul controlerului...";
 "GameListBackgroundUpload" = "Încarcă";
 "GameplayManuals" = "Manuale de Joc";
 "GameplayManualsNoExists" = "Nu există manual disponibil pentru acest joc.";
-"GameplayManualsDesc" = "Pentru a adăuga un manual, plasați fișierul PDF în aplicația Manic EMU. Pentru a-l elimina, mergeți la Fișiere > Manic EMU > Manuale și ștergeți fișierul.";
+"GameplayManualsDesc" = "Pentru a adăuga un manual, plasați fișierul PDF în aplicația WizardiOS. Pentru a-l elimina, mergeți la Fișiere > WizardiOS > Manuale și ștergeți fișierul.";
 "CleanUnsupportSkins" = "Curăță Skin-uri Nesuportate";
 "NotFoundUnsupportSkins" = "Nu s-au găsit skin-uri nesuportate.";
 "UnsupportSkinsDesc" = "Următoarele skin-uri nu sunt suportate pe acest dispozitiv:\n%@Notă: Eliminarea lor va șterge și aceste skin-uri de pe alte dispozitive sincronizate via iCloud.";
@@ -803,7 +803,7 @@ Apasă butonul controlerului...";
 "Shaders" = "Shadere";
 "DownloadRetroArchShaders" = "Vrei să descarci shadere de la RetroArch? La finalizare, categoria de shadere RetroArch se va reîmprospăta automat. Poți anula acest proces oricând în managerul de descărcări.";
 "RetroArchShaderUnzipFailed" = "Nu s-a putut extrage %@. Fișierul poate fi fost corupt în timpul descărcării. Te rugăm să încerci să-l descarci din nou.";
-"ImportShader" = "Plasează fișierele de shadere în folderul ‘Manic EMU-Shaders’, apoi redeschide această pagină pentru a reîmprospăta și încărca shaderele.";
+"ImportShader" = "Plasează fișierele de shadere în folderul ‘WizardiOS-Shaders’, apoi redeschide această pagină pentru a reîmprospăta și încărca shaderele.";
 "CustomShaderDesc" = "Creează shadere personalizate prin editarea celor existente.";
 "AppendShadersTitle" = "Adaugă shadere";
 "AppendShadersDetail" = "Adaugă shadere la începutul sau sfârșitul stivei curente";
@@ -883,7 +883,7 @@ Dacă vrei să îți îmbunătățești setup-ul, PlayCase este potrivirea perfe
 "Width" = "Lățime";
 "Height" = "Înălțime";
 "ScreenSize" = "Dimensiune ecran";
-"J2MESettingsTips" = "Din cauza diferențelor dintre standardele JAR, este posibil ca Manic EMU să nu detecteze întotdeauna rezoluția sau orientarea corectă a ecranului. Pentru cele mai bune rezultate de afișare, le puteți configura manual.";
+"J2MESettingsTips" = "Din cauza diferențelor dintre standardele JAR, este posibil ca WizardiOS să nu detecteze întotdeauna rezoluția sau orientarea corectă a ecranului. Pentru cele mai bune rezultate de afișare, le puteți configura manual.";
 "J2MEScreenChange" = "Setările ecranului J2ME au fost salvate. Pentru a aplica modificările imediat, jocul trebuie resetat. Orice progres nesalvat poate fi pierdut. Resetați acum?";
 "Later" = "Mai târziu";
 "ResetImmediately" = "Resetează acum";
@@ -893,22 +893,22 @@ Dacă vrei să îți îmbunătățești setup-ul, PlayCase este potrivirea perfe
 "ConfigsResetCore" = "Resetează la valorile implicite ale nucleului";
 "ConfigsResetBefore" = "Revino la setările anterioare";
 "InsertDisc" = "Introduceți discul";
-"InsertDiscAlert" = "Puteți introduce un disc selectând un alt joc de pe aceeași platformă din biblioteca dvs. sau alegând un fișier disc din Fișiere. Din cauza limitărilor sistemului de fișiere iOS, fișierele disc selectate din Fișiere vor fi copiate în memoria cache a Manic EMU.";
+"InsertDiscAlert" = "Puteți introduce un disc selectând un alt joc de pe aceeași platformă din biblioteca dvs. sau alegând un fișier disc din Fișiere. Din cauza limitărilor sistemului de fișiere iOS, fișierele disc selectate din Fișiere vor fi copiate în memoria cache a WizardiOS.";
 "InsertDiscFailed" = "Nu s-a putut introduce discul";
 "GenerateHomeMenu" = "Creează meniul principal";
 "SkinSoundEffects" = "Efecte sonore temă";
 "FirstAnniversary" = "MULȚUMIM CĂ EȘTI AICI,\NȚI-AM SCRIS CEVA";
-"ApirlFoolsDayTitle" = "Hopa, s-a stricat Manic EMU?";
+"ApirlFoolsDayTitle" = "Hopa, s-a stricat WizardiOS?";
 "ApirlFoolsDayDetail" = "Nu vă faceți griji!\nDoar o glumă—1 aprilie fericit!\n\nTotul va reveni la normal după ce închideți asta.";
 "JITType" = "Tip JIT";
 "JITTypeDesc" = "JIT standard oferă cea mai bună performanță, în timp ce JIT IR oferă performanță moderată.";
 "Pretendo" = "Rețeaua Pretendo";
 "BadIpAddress" = "Adresă IP invalidă. Vă rugăm să încercați din nou.";
 "ArticBaseSettings" = "Setări Artic Base";
-"ArticBaseDesc" = "Artic Base, dezvoltat de echipa Azahar, permite transferul datelor unice pentru un dispozitiv 3DS real în Manic EMU. Aceste date sunt necesare pentru a activa funcțiile de rețea.\n\nUrmați pașii de mai jos pentru a finaliza transferul:\n1. Instalați %@ pe 3DS-ul dvs. și porniți serviciul.\n2. Asigurați-vă că Manic EMU și 3DS-ul dvs. sunt conectate la aceeași rețea.\n3. Introduceți adresa IP afișată pe ecranul 3DS-ului dvs. mai jos.\n4. Atingeți „Începeți transferul” și finalizați actualizarea sistemului.\n\nDupă finalizarea acestor pași, va apărea o intrare în Meniul Principal în biblioteca dvs.";
-"ArticBaseHeadsUp" = "Importarea datelor de pe un dispozitiv real va suprascrie datele 3DS existente în Manic EMU și poate cauza probleme neașteptate. Dacă aveți date de salvare importante, se recomandă să faceți o copie de rezervă a directorului Manic EMU - 3DS înainte de a continua.";
+"ArticBaseDesc" = "Artic Base, dezvoltat de echipa Azahar, permite transferul datelor unice pentru un dispozitiv 3DS real în WizardiOS. Aceste date sunt necesare pentru a activa funcțiile de rețea.\n\nUrmați pașii de mai jos pentru a finaliza transferul:\n1. Instalați %@ pe 3DS-ul dvs. și porniți serviciul.\n2. Asigurați-vă că WizardiOS și 3DS-ul dvs. sunt conectate la aceeași rețea.\n3. Introduceți adresa IP afișată pe ecranul 3DS-ului dvs. mai jos.\n4. Atingeți „Începeți transferul” și finalizați actualizarea sistemului.\n\nDupă finalizarea acestor pași, va apărea o intrare în Meniul Principal în biblioteca dvs.";
+"ArticBaseHeadsUp" = "Importarea datelor de pe un dispozitiv real va suprascrie datele 3DS existente în WizardiOS și poate cauza probleme neașteptate. Dacă aveți date de salvare importante, se recomandă să faceți o copie de rezervă a directorului WizardiOS - 3DS înainte de a continua.";
 "StartTransfer" = "Începeți transferul";
-"PretendoNimbusDesc" = "Pretendo este o înlocuire gratuită și open-source pentru serviciile online Nintendo 3DS, permițând jocul online continuu chiar și după ce serverele oficiale sunt închise.\n\nCu instrumentul Nimbus, puteți comuta cu ușurință rețeaua la Pretendo. Când este disponibil, atingeți „Instalați Nimbus” și Manic EMU îl va instala automat în Meniul Principal.";
+"PretendoNimbusDesc" = "Pretendo este o înlocuire gratuită și open-source pentru serviciile online Nintendo 3DS, permițând jocul online continuu chiar și după ce serverele oficiale sunt închise.\n\nCu instrumentul Nimbus, puteți comuta cu ușurință rețeaua la Pretendo. Când este disponibil, atingeți „Instalați Nimbus” și WizardiOS îl va instala automat în Meniul Principal.";
 "InstallNimbus" = "Instalați Nimbus";
 "InstallNimbusSuccess" = "Nimbus instalat cu succes!";
 "HomeMenuDesc" = "Folosiți butonul de mai jos pentru a deschide Meniul Principal. Apoi accesați Setările Nimbus, comutați la rețeaua Pretendo și deschideți Setările pentru a selecta „ID Rețea Nintendo” și conectați-vă cu contul dvs. Pretendo.\n\nDupă aceea, orice joc lansat din Meniul Principal sau care rulează cu nucleul Azahar va folosi rețeaua Pretendo.\n\nDacă intrarea din Meniul Principal lipsește, această funcție va încerca să o recreeze automat.";
@@ -932,7 +932,7 @@ Dacă vrei să îți îmbunătățești setup-ul, PlayCase este potrivirea perfe
 "ThemeManufacturerOrderTitle" = "Ordinea producătorului";
 "ArticBaseHomeMenuFailed" = "Se pare că actualizarea sistemului nu s-a finalizat cu succes. Intrarea din Meniul Principal nu a putut fi creată. Încercați din nou transferul de date.";
 "ArticBaseHomeMenuSuccess" = "Intrarea din Meniul Principal a fost creată cu succes. Puteți continua cu pașii următori.";
-"NandImportHeadsUp" = "Dacă încercați să transferați date de pe un dispozitiv 3DS real pe Manic EMU, se recomandă să utilizați funcția Artic Base.";
+"NandImportHeadsUp" = "Dacă încercați să transferați date de pe un dispozitiv 3DS real pe WizardiOS, se recomandă să utilizați funcția Artic Base.";
 "ContineFilesImport" = "Continuați importul";
 "OpenPage" = "Deschideți %@";
 "MappingKeyboardInput" = "Maparea intrării de la tastatură";

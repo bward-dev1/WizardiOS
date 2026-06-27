@@ -80,7 +80,7 @@
 "ImportServiceListPasteDetail" = "macOS और फाइल ऐप से कॉपी की गई फाइल्स का समर्थन करता है";
 "ImportHowTo" = "कैसे इम्पोर्ट करें";
 "ImportTopHintTitle" = "एक सपनों और साहसिक कार्यों से भरी कहानी यहीं से शुरू होगी!";
-"ImportDragAndDropTips" = "फाइल्स को Manic EMU के किसी भी इंटरफेस पर ड्रैग और ड्रॉप करके ट्रांसफर करें";
+"ImportDragAndDropTips" = "फाइल्स को WizardiOS के किसी भी इंटरफेस पर ड्रैग और ड्रॉप करके ट्रांसफर करें";
 "ImportChannelTips" = "यदि कोई प्रश्न हो तो %@ में शामिल हों";
 "ToastConnectCloudDriveSuccess" = "%@ से सफलतापूर्वक जुड़ा";
 "AlertImportFilesSuccess" = "संसाधन सफलतापूर्वक इम्पोर्ट हुए";
@@ -111,7 +111,7 @@
 "TimeDurationHourFormat" = "%d घंटे";
 "TimeDurationMinuteFormat" = "%d मिनट";
 "FatalErrorTitle" = "घातक त्रुटि";
-"FatalErrorDesc" = "सिस्टम संसाधन लोड करने में विफल, Manic EMU में गंभीर खामियां हो सकती हैं";
+"FatalErrorDesc" = "सिस्टम संसाधन लोड करने में विफल, WizardiOS में गंभीर खामियां हो सकती हैं";
 "LodingFailedTitle" = "लोड करने में विफल";
 "AirPlayDesc" = "अभी साहसिक कार्य शुरू करें!";
 "ToastSuccess" = "सफलतापूर्वक सेव हुआ";
@@ -170,7 +170,7 @@
 "GameSaveTitle" = "सेव %d";
 
 //Skin
-"SkinNavigationSubTitleCommon" = "Manic EMU .deltaskin .gammaskin फॉर्मेट स्किन्स के साथ पूरी तरह कॉम्पैटिबल है";
+"SkinNavigationSubTitleCommon" = "WizardiOS .deltaskin .gammaskin फॉर्मेट स्किन्स के साथ पूरी तरह कॉम्पैटिबल है";
 "SkinNavigationSubTitleSpecifiedGame" = "केवल %@ के लिए स्किन सेट करें";
 "SkinSegmentPortraitTitle" = "पोर्ट्रेट";
 "SkinSegmentLandscapeTitle" = "लैंडस्केप";
@@ -199,7 +199,7 @@
 "WidgetTitle" = "विजेट";
 "QATitle" = "सामान्य प्रश्न";
 "FeedbackTitle" = "फीडबैक";
-"ShareAppTitle" = "「Manic EMU」दोस्तों के साथ शेयर करें";
+"ShareAppTitle" = "「WizardiOS」दोस्तों के साथ शेयर करें";
 "JoinQQTitle" = "QQ चैनल में जुड़ें";
 "JoinTelegramTitle" = "Telegram में जुड़ें";
 "ClearCacheTitle" = "कैशे साफ़ करें";
@@ -214,7 +214,7 @@
 "RatingTitleRight" = "को रेट करें";
 "RatingDetail" = "अगर आपको हमारा प्रोडक्ट पसंद आया, तो कृपया 5-स्टार रिव्यू दें, आपकी प्रशंसा हमारे लिए बहुत महत्वपूर्ण है :)";
 "iCloudDisableTitle" = "iCloud अस्थायी रूप से अनुपलब्ध";
-"iCloudDisableDetail" = "iCloud सिंक सेवा चालू करने का प्रयास किया गया, लेकिन यह तभी काम करेगा जब आप iCloud में लॉग इन करके Manic EMU को एक्सेस की अनुमति दें। iPhone की 'सेटिंग्स' > 'Apple ID' > 'iCloud' में जाकर iCloud ड्राइव चालू करें और Manic EMU को एक्सेस दें";
+"iCloudDisableDetail" = "iCloud सिंक सेवा चालू करने का प्रयास किया गया, लेकिन यह तभी काम करेगा जब आप iCloud में लॉग इन करके WizardiOS को एक्सेस की अनुमति दें। iPhone की 'सेटिंग्स' > 'Apple ID' > 'iCloud' में जाकर iCloud ड्राइव चालू करें और WizardiOS को एक्सेस दें";
 "iCloudSyncConfilictTitle" = "iCloud सिंक कॉन्फ्लिक्ट";
 "iCloudSyncConfilictDetail" = "क्लाउड फाइल:\n%@\n\nलोकल फाइल:\n%@";
 "iCloudSyncConfilictSaveiCloud" = "iCloud रखें";
@@ -228,7 +228,7 @@
 "SendEmailSuccess" = "ईमेल सफलतापूर्वक भेजा गया";
 "SendEmailFailed" = "ईमेल भेजने में विफल %@";
 "iCloudTipsTitle" = "iCloud सिंक चालू करें";
-"iCloudTipsDetail" = "iCloud सिंक चालू करने से समान Apple ID वाले सभी डिवाइस पर Manic EMU की हर चीज़ सिंक होगी। सिंक चालू करने पर आपका सारा डेटा iCloud में अपलोड होगा जो आपके iCloud स्टोरेज का उपयोग करेगा। अगर स्टोरेज पूरा है, तो सिंक फेल हो सकता है! सिंक के बाद आपका डेटा क्लाउड में सेव होगा, अगर डेटा डाउनलोड नहीं हुआ है तो आप गेम नहीं खेल पाएंगे!";
+"iCloudTipsDetail" = "iCloud सिंक चालू करने से समान Apple ID वाले सभी डिवाइस पर WizardiOS की हर चीज़ सिंक होगी। सिंक चालू करने पर आपका सारा डेटा iCloud में अपलोड होगा जो आपके iCloud स्टोरेज का उपयोग करेगा। अगर स्टोरेज पूरा है, तो सिंक फेल हो सकता है! सिंक के बाद आपका डेटा क्लाउड में सेव होगा, अगर डेटा डाउनलोड नहीं हुआ है तो आप गेम नहीं खेल पाएंगे!";
 "iCloudConfirm" = "चालू करें";
 
 //Play
@@ -351,7 +351,7 @@
 "AnnualMemberTitle" = "सुपर वार्षिक सदस्य";
 "MonthlyMemberTitle" = "मासिक रोमांचक";
 "ForeverMemberTitle" = "आजीवन सदस्य";
-"PurchaseVerifiedFailed" = "भुगतान सत्यापन विफल, कृपया इंटरनेट कनेक्शन जांचकर Manic EMU पुनः प्रारंभ करें";
+"PurchaseVerifiedFailed" = "भुगतान सत्यापन विफल, कृपया इंटरनेट कनेक्शन जांचकर WizardiOS पुनः प्रारंभ करें";
 "PurchaseCancel" = "भुगतान रद्द कर दिया गया, प्रीमियम सुविधाओं का अवसर खो दिया";
 "PurchasePending" = "आपका भुगतान लंबित है, पूर्ण होने पर सदस्यता सक्रिय होगी";
 "PurchaseUnknown" = "अज्ञात भुगतान स्थिति";
@@ -372,23 +372,23 @@
 "Hi" = "नमस्ते,";
 
 //Permission
-"PrePermissionPhotoTitle" = "क्या Manic EMU को आपके फोटो लाइब्रेरी तक पहुंच दें?";
+"PrePermissionPhotoTitle" = "क्या WizardiOS को आपके फोटो लाइब्रेरी तक पहुंच दें?";
 "PrePermissionPhotoMessage" = "स्क्रीनशॉट सहेजने और गेम कवर चुनने के लिए अनुमति आवश्यक है";
 "PrePermissionPhotoCancel" = "अभी नहीं";
 "PrePermissionPhotoConfirm" = "अनुमति दें";
-"DeniedPermissionPhotoTitle" = "Manic EMU को फोटो लाइब्रेरी तक पहुंच नहीं मिली!";
+"DeniedPermissionPhotoTitle" = "WizardiOS को फोटो लाइब्रेरी तक पहुंच नहीं मिली!";
 "DeniedPermissionPhotoMessage" = "गेम स्क्रीनशॉट सहेजने के लिए फोटो लाइब्रेरी अनुमति आवश्यक है";
 "DeniedPermissionPhotoCancel" = "नहीं";
 "DeniedPermissionPhotoConfirm" = "अनुमति दें";
-"PrePermissionCameraTitle" = "क्या Manic EMU को आपके कैमरा तक पहुंच दें?";
+"PrePermissionCameraTitle" = "क्या WizardiOS को आपके कैमरा तक पहुंच दें?";
 "PrePermissionCameraMessage" = "गेम कवर के लिए तस्वीरें लेने हेतु कैमरा अनुमति आवश्यक है";
 "PrePermissionCameraCancel" = "अभी नहीं";
 "PrePermissionCameraConfirm" = "अनुमति दें";
-"DeniedPermissionCameraTitle" = "Manic EMU को कैमरा तक पहुंच नहीं मिली!";
+"DeniedPermissionCameraTitle" = "WizardiOS को कैमरा तक पहुंच नहीं मिली!";
 "DeniedPermissionCameraMessage" = "गेम कवर तस्वीरें लेने के लिए कैमरा अनुमति आवश्यक है!";
 "DeniedPermissionCameraCancel" = "नहीं";
 "DeniedPermissionCameraConfirm" = "अनुमति दें";
-"DeniedPermissionMicTitle" = "Manic EMU को माइक्रोफोन तक पहुंच नहीं मिली!";
+"DeniedPermissionMicTitle" = "WizardiOS को माइक्रोफोन तक पहुंच नहीं मिली!";
 "DeniedPermissionMicMessage" = "कुछ DS गेम सुविधाओं के लिए माइक्रोफोन अनुमति आवश्यक है!";
 "DeniedPermissionMicCancel" = "नहीं";
 "DeniedPermissionMicConfirm" = "अनुमति दें";
@@ -408,7 +408,7 @@
 "ThreeDSNotSupportImportSave" = "3DS गेम्स वर्तमान में सेव फाइल आयात का समर्थन नहीं करते";
 "ThreeDSNotSupportShareSave" = "3DS गेम्स वर्तमान में सेव फाइल साझा करने का समर्थन नहीं करते";
 "ThreeDSBetaAlertTitle" = "3DS प्रायोगिक संस्करण";
-"ThreeDSBetaAlertDetail" = "आपको 3DS गेम्स का अनुभव जल्दी कराने के लिए, Manic EMU ने प्रायोगिक 3DS सुविधा जारी की है। कुछ अनुकूलन की आवश्यकता है।
+"ThreeDSBetaAlertDetail" = "आपको 3DS गेम्स का अनुभव जल्दी कराने के लिए, WizardiOS ने प्रायोगिक 3DS सुविधा जारी की है। कुछ अनुकूलन की आवश्यकता है।
 
 अस्थायी रूप से अनुपलब्ध सुविधाएँ:
 ❌ एयरप्ले फुल स्क्रीन मोड
@@ -657,8 +657,8 @@
 "Ascending" = "आरोही";
 "Descending" = "अवरोही";
 "JumpTips" = "तीसरे पक्ष का पेज खोलना";
-"ThirdPartGameInfoTips" = "गेम जानकारी third parties द्वारा प्रदान की जाती है। अपने judgment का use करें। यदि Manic EMU कोई गेम match नहीं कर पाता, तो manual search का use करें।";
-"NotSupportHardcore" = "इस गेम के लिए हार्डकोर मोड अक्षम है। शायद Manic EMU, RetroAchievements द्वारा अधिकृत नहीं है, या गेम हार्डकोर मोड support नहीं करता।";
+"ThirdPartGameInfoTips" = "गेम जानकारी third parties द्वारा प्रदान की जाती है। अपने judgment का use करें। यदि WizardiOS कोई गेम match नहीं कर पाता, तो manual search का use करें।";
+"NotSupportHardcore" = "इस गेम के लिए हार्डकोर मोड अक्षम है। शायद WizardiOS, RetroAchievements द्वारा अधिकृत नहीं है, या गेम हार्डकोर मोड support नहीं करता।";
 "ChooseOne" = "एक चुनें";
 "FilesImporterErrorBadCue" = "%@ आयात करने में विफल। फ़ाइल invalid या UTF-8 encoded नहीं हो सकती। कृपया format जांचें।";
 "Leaderboard" = "लीडरबोर्ड";
@@ -675,7 +675,7 @@
 "AlwaysShowProgressDesc" = "स्क्रीन पर उपलब्धि प्रगति दिखाई रखें।";
 "Progress" = "प्रगति";
 
-"DCGameNoSupportGameSave" = "Dreamcast सेव आयात/निर्यात का समर्थन नहीं करता है। Manic EMU-Flycast-dc फ़ोल्डर में स्थित मेमोरी फ़ाइलों को संपादित करने के लिए VMU Explorer का उपयोग करें।";
+"DCGameNoSupportGameSave" = "Dreamcast सेव आयात/निर्यात का समर्थन नहीं करता है। WizardiOS-Flycast-dc फ़ोल्डर में स्थित मेमोरी फ़ाइलों को संपादित करने के लिए VMU Explorer का उपयोग करें।";
 
 "Challenge" = "चुनौती";
 "GameTypeLicensingError" = "क्षमा करें! %@ कोर के लाइसेंस प्रतिबंधों के कारण यह प्लेटफ़ॉर्म अस्थायी रूप से उपलब्ध नहीं है। आप अगला अपडेट का इंतज़ार कर सकते हैं या साइडलोड संस्करण का उपयोग कर सकते हैं।";
@@ -721,7 +721,7 @@
 "GameListBackgroundUpload" = "अपलोड";
 "GameplayManuals" = "गेम मैन्युअल";
 "GameplayManualsNoExists" = "इस गेम के लिए कोई मैन्युअल उपलब्ध नहीं है।";
-"GameplayManualsDesc" = "मैन्युअल जोड़ने के लिए, अपनी PDF फ़ाइल को Manic EMU ऐप में रखें। इसे हटाने के लिए, फ़ाइलें > Manic EMU > मैन्युअल पर जाएं और फ़ाइल को डिलीट करें।";
+"GameplayManualsDesc" = "मैन्युअल जोड़ने के लिए, अपनी PDF फ़ाइल को WizardiOS ऐप में रखें। इसे हटाने के लिए, फ़ाइलें > WizardiOS > मैन्युअल पर जाएं और फ़ाइल को डिलीट करें।";
 "CleanUnsupportSkins" = "असमर्थित स्किन साफ़ करें";
 "NotFoundUnsupportSkins" = "कोई असमर्थित स्किन नहीं मिली।";
 "UnsupportSkinsDesc" = "निम्नलिखित स्किन इस डिवाइस पर समर्थित नहीं हैं:\n%@नोट: हटाने से ये स्किन iCloud के माध्यम से सिंक किए गए अन्य डिवाइस से भी डिलीट हो जाएंगी।";
@@ -805,7 +805,7 @@
 "Shaders" = "शेडर";
 "DownloadRetroArchShaders" = "क्या आप RetroArch से शेडर डाउनलोड करना चाहते हैं? पूरा होने पर, RetroArch शेडर श्रेणी स्वचालित रूप से ताज़ा हो जाएगी। आप डाउनलोड प्रबंधक में किसी भी समय इस प्रक्रिया को रद्द कर सकते हैं।";
 "RetroArchShaderUnzipFailed" = "%@ को निकाला नहीं जा सका। डाउनलोड के दौरान फ़ाइल खराब हो सकती है। कृपया इसे फिर से डाउनलोड करने का प्रयास करें।";
-"ImportShader" = "शेडर फ़ाइलों को ‘Manic EMU-Shaders’ फ़ोल्डर में रखें, फिर शेडरों को ताज़ा करने और लोड करने के लिए इस पृष्ठ को फिर से खोलें।";
+"ImportShader" = "शेडर फ़ाइलों को ‘WizardiOS-Shaders’ फ़ोल्डर में रखें, फिर शेडरों को ताज़ा करने और लोड करने के लिए इस पृष्ठ को फिर से खोलें।";
 "CustomShaderDesc" = "मौजूदा शेडरों को संपादित करके कस्टम शेडर बनाएं।";
 "AppendShadersTitle" = "शेडर जोड़ें";
 "AppendShadersDetail" = "मौजूदा स्टैक के आगे या पीछे शेडर जोड़ें";
@@ -885,7 +885,7 @@ PlayCase हाई-क्वालिटी iPhone केसों पर के
 "Width" = "चौड़ाई";
 "Height" = "ऊंचाई";
 "ScreenSize" = "स्क्रीन आकार";
-"J2MESettingsTips" = "JAR मानकों में अंतर के कारण, Manic EMU हमेशा सही स्क्रीन रिज़ॉल्यूशन या ओरिएंटेशन का पता नहीं लगा सकता है। बेहतर डिस्प्ले परिणामों के लिए, आप उन्हें मैन्युअल रूप से कॉन्फ़िगर कर सकते हैं।";
+"J2MESettingsTips" = "JAR मानकों में अंतर के कारण, WizardiOS हमेशा सही स्क्रीन रिज़ॉल्यूशन या ओरिएंटेशन का पता नहीं लगा सकता है। बेहतर डिस्प्ले परिणामों के लिए, आप उन्हें मैन्युअल रूप से कॉन्फ़िगर कर सकते हैं।";
 "J2MEScreenChange" = "J2ME स्क्रीन सेटिंग्स सहेजी गई हैं। परिवर्तनों को तुरंत लागू करने के लिए, गेम को रीसेट किया जाना चाहिए। कोई भी असंग्रहीत प्रगति नष्ट हो सकती है। अभी रीसेट करें?";
 "Later" = "बाद में";
 "ResetImmediately" = "अभी रीसेट करें";
@@ -895,22 +895,22 @@ PlayCase हाई-क्वालिटी iPhone केसों पर के
 "ConfigsResetCore" = "कोर डिफॉल्ट पर रीसेट करें";
 "ConfigsResetBefore" = "पिछली सेटिंग्स पर लौटें";
 "InsertDisc" = "डिस्क डालें";
-"InsertDiscAlert" = "आप अपनी लाइब्रेरी में उसी प्लेटफ़ॉर्म से कोई अन्य गेम चुनकर, या फ़ाइल ऐप से डिस्क फ़ाइल चुनकर डिस्क डाल सकते हैं। iOS फ़ाइल सिस्टम सीमाओं के कारण, फ़ाइल ऐप से चुनी गई डिस्क फ़ाइलें Manic EMU के कैश में कॉपी कर दी जाएंगी।";
+"InsertDiscAlert" = "आप अपनी लाइब्रेरी में उसी प्लेटफ़ॉर्म से कोई अन्य गेम चुनकर, या फ़ाइल ऐप से डिस्क फ़ाइल चुनकर डिस्क डाल सकते हैं। iOS फ़ाइल सिस्टम सीमाओं के कारण, फ़ाइल ऐप से चुनी गई डिस्क फ़ाइलें WizardiOS के कैश में कॉपी कर दी जाएंगी।";
 "InsertDiscFailed" = "डिस्क डालने में विफल";
 "GenerateHomeMenu" = "होम मेनू बनाएं";
 "SkinSoundEffects" = "स्किन ध्वनि प्रभाव";
 "FirstAnniversary" = "यहाँ होने के लिए धन्यवाद,\nहमने आपके लिए कुछ लिखा है";
-"ApirlFoolsDayTitle" = "उह-ओह, क्या Manic EMU खराब हो गया?";
+"ApirlFoolsDayTitle" = "उह-ओह, क्या WizardiOS खराब हो गया?";
 "ApirlFoolsDayDetail" = "चिंता मत करो!\nबस एक मज़ाक है—अप्रैल फूल दिवस की शुभकामनाएँ!\n\nइसे बंद करते ही सब कुछ सामान्य हो जाएगा।";
 "JITType" = "JIT प्रकार";
 "JITTypeDesc" = "मानक JIT सर्वोत्तम प्रदर्शन प्रदान करता है, जबकि IR JIT मध्यम प्रदर्शन प्रदान करता है।";
 "Pretendo" = "Pretendo नेटवर्क";
 "BadIpAddress" = "अमान्य IP पता। कृपया पुनः प्रयास करें।";
 "ArticBaseSettings" = "Artic Base सेटिंग्स";
-"ArticBaseDesc" = "Azahar टीम द्वारा विकसित Artic Base, एक वास्तविक 3DS डिवाइस के लिए अद्वितीय डेटा को Manic EMU में स्थानांतरित करने की अनुमति देता है। नेटवर्क सुविधाओं को सक्षम करने के लिए ये डेटा आवश्यक हैं।\n\nस्थानांतरण पूरा करने के लिए नीचे दिए गए चरणों का पालन करें:\n1. अपने 3DS पर %@ इंस्टॉल करें और सेवा शुरू करें।\n2. सुनिश्चित करें कि Manic EMU और आपका 3DS एक ही नेटवर्क से जुड़े हैं।\n3. नीचे अपने 3DS स्क्रीन पर दिखाया गया IP पता दर्ज करें।\n4. \"स्थानांतरण शुरू करें\" पर टैप करें और सिस्टम अपडेट पूरा करें।\n\nइन चरणों को पूरा करने के बाद, आपकी लाइब्रेरी में एक होम मेनू प्रविष्टि दिखाई देगी।";
-"ArticBaseHeadsUp" = "किसी वास्तविक डिवाइस से डेटा आयात करने से Manic EMU में मौजूदा 3DS डेटा अधिलेखित हो जाएगा और अप्रत्याशित समस्याएं हो सकती हैं। यदि आपके पास महत्वपूर्ण सहेजा गया डेटा है, तो आगे बढ़ने से पहले Manic EMU - 3DS निर्देशिका का बैकअप लेने की सलाह दी जाती है।";
+"ArticBaseDesc" = "Azahar टीम द्वारा विकसित Artic Base, एक वास्तविक 3DS डिवाइस के लिए अद्वितीय डेटा को WizardiOS में स्थानांतरित करने की अनुमति देता है। नेटवर्क सुविधाओं को सक्षम करने के लिए ये डेटा आवश्यक हैं।\n\nस्थानांतरण पूरा करने के लिए नीचे दिए गए चरणों का पालन करें:\n1. अपने 3DS पर %@ इंस्टॉल करें और सेवा शुरू करें।\n2. सुनिश्चित करें कि WizardiOS और आपका 3DS एक ही नेटवर्क से जुड़े हैं।\n3. नीचे अपने 3DS स्क्रीन पर दिखाया गया IP पता दर्ज करें।\n4. \"स्थानांतरण शुरू करें\" पर टैप करें और सिस्टम अपडेट पूरा करें।\n\nइन चरणों को पूरा करने के बाद, आपकी लाइब्रेरी में एक होम मेनू प्रविष्टि दिखाई देगी।";
+"ArticBaseHeadsUp" = "किसी वास्तविक डिवाइस से डेटा आयात करने से WizardiOS में मौजूदा 3DS डेटा अधिलेखित हो जाएगा और अप्रत्याशित समस्याएं हो सकती हैं। यदि आपके पास महत्वपूर्ण सहेजा गया डेटा है, तो आगे बढ़ने से पहले WizardiOS - 3DS निर्देशिका का बैकअप लेने की सलाह दी जाती है।";
 "StartTransfer" = "स्थानांतरण शुरू करें";
-"PretendoNimbusDesc" = "Pretendo निंटेंडो 3DS ऑनलाइन सेवाओं के लिए एक मुफ्त और ओपन-सोर्स प्रतिस्थापन है, जो आधिकारिक सर्वर बंद होने के बाद भी निरंतर ऑनलाइन खेलने की अनुमति देता है।\n\nNimbus टूल के साथ, आप आसानी से अपने नेटवर्क को Pretendo पर स्विच कर सकते हैं। उपलब्ध होने पर, \"Nimbus इंस्टॉल करें\" पर टैप करें और Manic EMU स्वचालित रूप से इसे होम मेनू में इंस्टॉल कर देगा।";
+"PretendoNimbusDesc" = "Pretendo निंटेंडो 3DS ऑनलाइन सेवाओं के लिए एक मुफ्त और ओपन-सोर्स प्रतिस्थापन है, जो आधिकारिक सर्वर बंद होने के बाद भी निरंतर ऑनलाइन खेलने की अनुमति देता है।\n\nNimbus टूल के साथ, आप आसानी से अपने नेटवर्क को Pretendo पर स्विच कर सकते हैं। उपलब्ध होने पर, \"Nimbus इंस्टॉल करें\" पर टैप करें और WizardiOS स्वचालित रूप से इसे होम मेनू में इंस्टॉल कर देगा।";
 "InstallNimbus" = "Nimbus इंस्टॉल करें";
 "InstallNimbusSuccess" = "Nimbus सफलतापूर्वक इंस्टॉल हो गया!";
 "HomeMenuDesc" = "होम मेनू खोलने के लिए नीचे दिए गए बटन का उपयोग करें। फिर Nimbus सेटिंग्स पर जाएं, Pretendo नेटवर्क पर स्विच करें, और \"निंटेंडो नेटवर्क आईडी\" चुनने के लिए सेटिंग्स खोलें और अपने Pretendo खाते से साइन इन करें।\n\nउसके बाद, होम मेनू से लॉन्च किए गए या Azahar कोर के साथ चलने वाले किसी भी गेम का उपयोग Pretendo नेटवर्क करेगा।\n\nयदि होम मेनू प्रविष्टि गायब है, तो यह सुविधा स्वचालित रूप से इसे फिर से बनाने का प्रयास करेगी।";
@@ -934,7 +934,7 @@ PlayCase हाई-क्वालिटी iPhone केसों पर के
 "ThemeManufacturerOrderTitle" = "निर्माता क्रम";
 "ArticBaseHomeMenuFailed" = "ऐसा लगता है कि सिस्टम अपडेट सफलतापूर्वक पूरा नहीं हुआ। होम मेनू प्रविष्टि नहीं बनाई जा सकी। कृपया डेटा स्थानांतरण पुनः प्रयास करें।";
 "ArticBaseHomeMenuSuccess" = "होम मेनू प्रविष्टि सफलतापूर्वक बना दी गई है। आप अगले चरणों के साथ आगे बढ़ सकते हैं।";
-"NandImportHeadsUp" = "यदि आप किसी वास्तविक 3DS डिवाइस से Manic EMU में डेटा स्थानांतरित करने का प्रयास कर रहे हैं, तो Artic Base सुविधा का उपयोग करने की सलाह दी जाती है।";
+"NandImportHeadsUp" = "यदि आप किसी वास्तविक 3DS डिवाइस से WizardiOS में डेटा स्थानांतरित करने का प्रयास कर रहे हैं, तो Artic Base सुविधा का उपयोग करने की सलाह दी जाती है।";
 "ContineFilesImport" = "आयात जारी रखें";
 "OpenPage" = "%@ खोलें";
 "MappingKeyboardInput" = "कीबोर्ड इनपुट मैप करें";
