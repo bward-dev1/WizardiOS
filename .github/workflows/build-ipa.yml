@@ -33,15 +33,20 @@ jobs:
           git lfs pull
           git submodule foreach --recursive 'git lfs pull || true'
 
-      - name: Select Xcode 26 (iOS 26 SDK; needed for SFSafeSymbols 7 Tab API + Swift 6.1 manifests)
+      - name: Select Xcode 26.4.1 (matches upstream Manic's dev toolchain; iOS 26 SDK)
         run: |
           echo "Available Xcodes:"; ls -d /Applications/Xcode*.app 2>/dev/null || true
-          # SFSafeSymbols 7.0.0 (SF Symbols 7) calls Tab(_:LocalizedStringResource,...) which only
-          # exists in the iOS 26 SDK. Prefer the newest Xcode 26; fall back to newest available.
-          LATEST=$(ls -d /Applications/Xcode_26*.app 2>/dev/null | sort -V | tail -1)
-          [ -n "$LATEST" ] || LATEST=$(ls -d /Applications/Xcode*.app 2>/dev/null | sort -V | tail -1)
-          echo "Selecting $LATEST"
-          sudo xcode-select -s "$LATEST/Contents/Developer"
+          # Upstream Manic is developed on Xcode 26.4.1 (CreatedOnToolsVersion in pbxproj).
+          # That toolchain builds the R.swift build-tool plugin + RswiftResources cleanly,
+          # whereas 26.6 RC2 regressed plugin-generated module resolution. Pin to 26.4.1,
+          # then fall back to the newest stable 26.x (avoid Release_Candidate builds), then any.
+          PICK=/Applications/Xcode_26.4.1.app
+          if [ ! -d "$PICK" ]; then
+            PICK=$(ls -d /Applications/Xcode_26*.app 2>/dev/null | grep -v -i "Release_Candidate\|beta" | sort -V | tail -1)
+          fi
+          [ -n "$PICK" ] && [ -d "$PICK" ] || PICK=$(ls -d /Applications/Xcode*.app 2>/dev/null | sort -V | tail -1)
+          echo "Selecting $PICK"
+          sudo xcode-select -s "$PICK/Contents/Developer"
           xcodebuild -version
           swift --version
 
@@ -70,7 +75,6 @@ jobs:
             -clonedSourcePackagesDirPath ../.spm \
             -skipPackagePluginValidation \
             -skipMacroValidation \
-            SWIFT_ENABLE_EXPLICIT_MODULES=NO \
             CODE_SIGNING_ALLOWED=NO \
             CODE_SIGNING_REQUIRED=NO \
             CODE_SIGN_IDENTITY="" \
