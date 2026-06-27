@@ -207,9 +207,9 @@ struct Constants {
         static let Shadow = BackgroundPrimary
         
         //颜色
-        static var Gradient = [UIColor(hexString: "#FF2442")!, UIColor(hexString: "#EB7500")!, UIColor(hexString: "#BB64FF")!, UIColor(hexString: "#0096FF")!]
-        
-        static var MainDynamicColor = UIColor(hexString: "#FF2442")!
+        static var Gradient = [UIColor(hexString: "#7C4DFF")!, UIColor(hexString: "#BB64FF")!, UIColor(hexString: "#9370DB")!, UIColor(hexString: "#0096FF")!]
+
+        static var MainDynamicColor = UIColor(hexString: "#7C4DFF")!
         
         static let Main = UIColor(.dm) { traitCollection in
             return MainDynamicColor

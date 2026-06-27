@@ -126,7 +126,7 @@ class Theme: Object, ObjectUpdatable {
     private static func initColors() -> [ThemeColor] {
         let now = Date.now.timeIntervalSince1970ms
         var colors = [ThemeColor]()
-        colors.append(ThemeColor(timestamp: now, colors: ["#FF2442", "#BB64FF", "#0096FF", "#EB7500"], isSelect: true, system: true))
+        colors.append(ThemeColor(timestamp: now, colors: ["#7C4DFF", "#BB64FF", "#9370DB", "#0096FF"], isSelect: true, system: true))
         colors.append(ThemeColor(timestamp: now+1, colors: ["#472ff7", "#2d6cde", "#46c2da", "#f3f16a"], isSelect: false, system: true))
         colors.append(ThemeColor(timestamp: now+2, colors: ["#F10384", "#7637F8", "#FDB700", "#FD2749"], isSelect: false, system: true))
         colors.append(ThemeColor(timestamp: now+3, colors: ["#f036f8", "#4a00d9", "#4fd8f8", "#36246a"], isSelect: false, system: true))
