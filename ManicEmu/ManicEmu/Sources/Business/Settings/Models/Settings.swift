@@ -68,8 +68,8 @@ class Settings: Object, ObjectUpdatable {
     @Persisted var fullScreenWhenConnectController: Bool = true
     ///默认图标
     @Persisted var desktopIcon: String?
-    ///是否自动即时存档
-    @Persisted var autoSaveState: Bool = false
+    ///是否自动即时存档 — WizardiOS: default ON so progress is auto-saved
+    @Persisted var autoSaveState: Bool = true
     ///3ds进阶设置模式
     @Persisted var threeDSAdvancedSettingMode: Bool = false
     ///跟随系统静音
