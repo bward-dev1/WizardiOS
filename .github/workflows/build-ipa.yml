@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: macos-15
+    runs-on: macos-26
     timeout-minutes: 120
     steps:
       - name: Checkout (with submodules + LFS)
@@ -33,10 +33,12 @@ jobs:
           git lfs pull
           git submodule foreach --recursive 'git lfs pull || true'
 
-      - name: Select newest Xcode (needs Swift 6.1+ for trailing-comma manifests)
+      - name: Select Xcode 26 (iOS 26 SDK; needed for SFSafeSymbols 7 Tab API + Swift 6.1 manifests)
         run: |
           echo "Available Xcodes:"; ls -d /Applications/Xcode*.app 2>/dev/null || true
-          LATEST=$(ls -d /Applications/Xcode_16*.app 2>/dev/null | sort -V | tail -1)
+          # SFSafeSymbols 7.0.0 (SF Symbols 7) calls Tab(_:LocalizedStringResource,...) which only
+          # exists in the iOS 26 SDK. Prefer the newest Xcode 26; fall back to newest available.
+          LATEST=$(ls -d /Applications/Xcode_26*.app 2>/dev/null | sort -V | tail -1)
           [ -n "$LATEST" ] || LATEST=$(ls -d /Applications/Xcode*.app 2>/dev/null | sort -V | tail -1)
           echo "Selecting $LATEST"
           sudo xcode-select -s "$LATEST/Contents/Developer"
