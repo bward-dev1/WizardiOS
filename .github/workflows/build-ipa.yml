@@ -33,6 +33,17 @@ jobs:
           git lfs pull
           git submodule foreach --recursive 'git lfs pull || true'
 
+      - name: Cache Swift Package checkouts
+        uses: actions/cache@v4
+        with:
+          # The xcodebuild step resolves into ../.spm (-clonedSourcePackagesDirPath).
+          # Keyed on the resolved versions so a cache hit is always valid for these deps;
+          # any change to Package.resolved invalidates it. A miss just resolves normally.
+          path: .spm
+          key: spm-${{ runner.os }}-${{ hashFiles('ManicEmu/ManicEmu.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved') }}
+          restore-keys: |
+            spm-${{ runner.os }}-
+
       - name: Select Xcode 26.4.1 (matches upstream Manic's dev toolchain; iOS 26 SDK)
         run: |
           echo "Available Xcodes:"; ls -d /Applications/Xcode*.app 2>/dev/null || true
