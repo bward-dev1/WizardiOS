@@ -17,6 +17,8 @@ import Device
 
 extension UIDevice {
     static func generateHaptic(style: HapticFeedbackStyle = .soft) {
+        // WizardiOS: respect the global UI-haptics preference (default on).
+        guard Settings.defalut.getExtraBool(key: ExtraKey.uiHaptics.rawValue) ?? true else { return }
         if supportsHaptics {
             Haptic.impact(style).generate()
         } else {
