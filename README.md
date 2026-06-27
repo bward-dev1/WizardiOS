@@ -53,6 +53,9 @@ This repo builds an **unsigned IPA** in CI:
 2. Download the **`WizardiOS-unsigned-ipa`** artifact.
 3. Sideload it with **AltStore** or **SideStore** (signs with your free Apple ID).
 
+📖 **Full step-by-step:** see [`INSTALL.md`](INSTALL.md) — loaders, JIT for 3DS/PSP,
+importing games, and troubleshooting.
+
 > 3DS/PSP and some cores rely on **JIT**, which on iOS requires sideloading
 > (AltStore/SideStore) — the entitlements are already wired for it.
 

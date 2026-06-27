@@ -8,7 +8,7 @@ name: Build WizardiOS IPA
 on:
   push:
     branches: [main]
-    paths-ignore: ['README.md', 'docs/**']
+    paths-ignore: ['**/*.md', 'docs/**', 'LICENSE']
   workflow_dispatch:
 
 concurrency:
