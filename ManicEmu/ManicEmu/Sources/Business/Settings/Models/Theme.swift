@@ -127,6 +127,9 @@ class Theme: Object, ObjectUpdatable {
         let now = Date.now.timeIntervalSince1970ms
         var colors = [ThemeColor]()
         colors.append(ThemeColor(timestamp: now, colors: ["#7C4DFF", "#BB64FF", "#9370DB", "#0096FF"], isSelect: true, system: true))
+        // WizardiOS on-brand presets
+        colors.append(ThemeColor(timestamp: now+0.1, colors: ["#9D4EDD", "#C77DFF", "#E0AAFF", "#5A189A"], isSelect: false, system: true)) // Mystic
+        colors.append(ThemeColor(timestamp: now+0.2, colors: ["#7C4DFF", "#00C2A8", "#48CAE4", "#3A0CA3"], isSelect: false, system: true)) // Arcane
         colors.append(ThemeColor(timestamp: now+1, colors: ["#472ff7", "#2d6cde", "#46c2da", "#f3f16a"], isSelect: false, system: true))
         colors.append(ThemeColor(timestamp: now+2, colors: ["#F10384", "#7637F8", "#FDB700", "#FD2749"], isSelect: false, system: true))
         colors.append(ThemeColor(timestamp: now+3, colors: ["#f036f8", "#4a00d9", "#4fd8f8", "#36246a"], isSelect: false, system: true))
